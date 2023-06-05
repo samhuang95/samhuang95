@@ -4,7 +4,7 @@ My languages and tools included
 Python, Deep Learning, Machine Learning, Data Mining, Text Mining, NLP, pyETL, openCV
 
 * Data analyze:<br>
-MySQL, GitHub, Power BI, Tableau, Spark, EXCEL, PPT
+MySQL, GitHub, Power BI, Tableau, pySpark, EXCEL, PPT
 
 * Infrastructure<br>
 Docker, GitHub, Linux, AWS (Amazon Web Services), GCP (Google Cloud Platform)
