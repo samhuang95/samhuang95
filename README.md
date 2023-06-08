@@ -7,7 +7,7 @@ Python, Deep Learning, Machine Learning, Data Mining, Text Mining, NLP, pyETL, o
 MySQL, GitHub, Power BI, Tableau, pySpark, EXCEL, PPT
 
 * Infrastructure<br>
-Docker, GitHub, Linux, AWS (Amazon Web Services), GCP (Google Cloud Platform)
+Docker, GitHub, Linux, AWS , GCP
 
 You can visit my Linktree to browse my portfolio.
 https://linktr.ee/samhuang95
