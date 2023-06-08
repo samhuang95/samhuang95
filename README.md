@@ -1,4 +1,6 @@
 ### Hi！I'm Sam Huang 黃威儒 👋
+I have 7 years of Martech experience, but now I'm joining the data world!
+
 My languages and tools included
 * Data science:<br>
 Python, Deep Learning, Machine Learning, Data Mining, Text Mining, NLP, pyETL, openCV
