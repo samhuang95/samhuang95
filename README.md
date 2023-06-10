@@ -11,9 +11,9 @@ MySQL, GitHub, Power BI, Tableau, pySpark, EXCEL, PPT
 * Infrastructure<br>
 Docker, GitHub, Linux, AWS , GCP
 
-You can visit my Linktree to browse my portfolio.
-https://linktr.ee/samhuang95
-
+You can visit my Linktree to browse my portfolio and my resume.
+portfolio link：https://linktr.ee/samhuang95
+resume link：https://issuu.com/samhuang95/docs/_
 <!--
 **samhuang95/samhuang95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
