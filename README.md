@@ -1,12 +1,19 @@
 ### Hi！I'm Sam Huang 黃威儒 👋
-I have 7 years of Martech experience, but now I'm joining the data world!
+I have 8 years of Martech experience and 1 year coding experience!
 
-My languages and tools included
+My main of coding language is:
+* Node.js (Javascript, TypeScript)
+* Python
+
+My develop tools included:
+* Web create:<br>
+Vue3 + Vite, express, Tailwind CSS, Quasar Framework
+
 * Data science:<br>
-Python, Deep Learning, Machine Learning, Data Mining, Text Mining, NLP, pyETL, openCV
+Deep Learning, Machine Learning, Data Mining, Text Mining, NLP, pyETL, openCV
 
 * Data analyze:<br>
-MySQL, GitHub, Power BI, Tableau, pySpark, EXCEL, PPT
+MySQL, Power BI, Tableau, pySpark, EXCEL, PPT
 
 * Infrastructure<br>
 Docker, GitHub, Linux, AWS , GCP
