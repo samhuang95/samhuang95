@@ -1,5 +1,5 @@
 ### Hi！I'm Sam Huang 黃威儒 👋
-I have 8 years of Martech experience and 1 year coding experience!
+I'm full end engineer!
 
 My main of coding language is:
 * Node.js (Javascript, TypeScript)
@@ -7,7 +7,7 @@ My main of coding language is:
 
 My develop tools included:
 * Web create:<br>
-Vue3 + Vite, express, Tailwind CSS, Quasar Framework
+Vue3, express, Tailwind CSS, Quasar Framework
 
 * Data science:<br>
 Deep Learning, Machine Learning, Data Mining, Text Mining, NLP, pyETL, openCV
