@@ -1,19 +1,20 @@
 ### Hi！I'm Sam Huang 黃威儒 👋
-I'm full end engineer!
+I'm Full-stack Developer!
 
 My main of coding language is:
+* C# (.NET framework/ .NET core 6 /.NET core 8)
 * Node.js (Javascript, TypeScript)
 * Python
 
 My develop tools included:
 * Web create:<br>
-Vue3, express, Tailwind CSS, Quasar Framework
+Vue3, Tailwind CSS, Bootstrap CSS, Quasar Framework
 
 * Data science:<br>
 Deep Learning, Machine Learning, Data Mining, Text Mining, NLP, pyETL, openCV
 
-* Data analyze:<br>
-MySQL, Power BI, Tableau, pySpark, EXCEL, PPT
+* Bussiness analyze:<br>
+MySQL, Power BI, Tableau, EXCEL, PPT
 
 * Infrastructure<br>
 Docker, GitHub, Linux, AWS , GCP
