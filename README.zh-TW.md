@@ -73,4 +73,4 @@
 
 </details>
 
-<p align="right"><sub>最後更新：2026-09-24 03:30 UTC（GitHub Actions 自動產生，資料來源見 <code>projects.json</code>）</sub></p>
+<p align="right"><sub>最後更新：2026-09-24 05:49 UTC（GitHub Actions 自動產生，資料來源見 <code>projects.json</code>）</sub></p>
