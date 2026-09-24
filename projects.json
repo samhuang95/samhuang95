@@ -4,7 +4,7 @@
     {
       "id": "Vocapeak",
       "tags": ["Vue.js", "Android", "Supabase", "Node.js", "PostgreSQL"],
-      "repo": "https://github.com/samhuang95/Vocabulary_Trainer",
+      "repo": "samhuang95/Vocabulary_Trainer",
       "isPrivate": true,
       "start": "2026-07",
       "end": "ongoing",
@@ -23,7 +23,7 @@
     {
       "id": "Sam's ShowCase",
       "tags": ["Vue.js", "Tailwind CSS", "Supabase", "Node.js", "PostgreSQL"],
-      "repo": "https://github.com/samhuang95/MyShowCase",
+      "repo": "samhuang95/MyShowCase",
       "isPrivate": true,
       "start": "2026-05",
       "end": "ongoing",
@@ -42,7 +42,7 @@
     {
       "id": "Silent Desk",
       "tags": ["HTML5", "Python", "ChromaDB", "SQLite", "Google Gemini", "FastMCP", "Ollama"],
-      "repo": "https://github.com/samhuang95/AI-administrative",
+      "repo": "samhuang95/AI-administrative",
       "isPrivate": false,
       "start": "2025-10",
       "end": "2025-11",
@@ -61,7 +61,7 @@
     {
       "id": "n8n Workflow",
       "tags": ["n8n", "Docker"],
-      "repo": "https://github.com/samhuang95/n8n_workflow_storage",
+      "repo": "samhuang95/n8n_workflow_storage",
       "isPrivate": true,
       "start": "2025-09",
       "end": "ongoing",
