@@ -4,14 +4,14 @@
     {
       "id": "Vocapeak",
       "tags": ["Vue.js", "Android", "Supabase", "Node.js", "PostgreSQL"],
-      "repo": "Vocabulary_Trainer",
+      "repo": "https://github.com/samhuang95/Vocabulary_Trainer",
       "isPrivate": true,
       "start": "2026-07",
       "end": "ongoing",
       "title": { "en": "Vocapeak", "zh": "Vocapeak" },
       "summary": {
-        "en": "Vocabulary practice app (web + Android): daily review cards, a review queue, and a Goals page — built to prepare for the TOEIC exam",
-        "zh": "單字練習 App（Web + Android）：Daily 卡片、複習、Goals 目標排程，用來準備多益"
+        "en": "Vocabulary practice app (web + Android): daily review cards, a review queue, and a Goals page — built to prepare for the TOEIC exam, web link: https://vocapeak.com",
+        "zh": "單字練習 App（Web + Android）：Daily 卡片、複習、Goals 目標排程，用來準備多益，網頁連結：https://vocapeak.com"
       },
       "highlight": {
         "en": "The Goals page auto-calculates daily practice load from a target scope and deadline",
@@ -23,14 +23,14 @@
     {
       "id": "Sam's ShowCase",
       "tags": ["Vue.js", "Tailwind CSS", "Supabase", "Node.js", "PostgreSQL"],
-      "repo": "MyShowCase",
+      "repo": "https://github.com/samhuang95/MyShowCase",
       "isPrivate": true,
       "start": "2026-05",
       "end": "ongoing",
       "title": { "en": "Sam's ShowCase", "zh": "Sam's ShowCase" },
       "summary": {
-        "en": "A personal portfolio website aggregating all my works, including projects, articles, resume, and contact information",
-        "zh": "集合所有作品內容的個人作品集網站，包含專案、文章、履歷、聯絡資訊等"
+        "en": "A personal portfolio website aggregating all my works, including projects, articles, resume, and contact information, web link: https://sam-showcase.com",
+        "zh": "集合所有作品內容的個人作品集網站，包含專案、文章、履歷、聯絡資訊等, 網頁連結：https://sam-showcase.com"
       },
       "highlight": {
         "en": "A personal portfolio website aggregating all my works, including projects, articles, resume, and contact information",
@@ -42,7 +42,7 @@
     {
       "id": "Silent Desk",
       "tags": ["HTML5", "Python", "ChromaDB", "SQLite", "Google Gemini", "FastMCP", "Ollama"],
-      "repo": "AI-administrative",
+      "repo": "https://github.com/samhuang95/AI-administrative",
       "isPrivate": false,
       "start": "2025-10",
       "end": "2025-11",
@@ -61,7 +61,7 @@
     {
       "id": "n8n Workflow",
       "tags": ["n8n", "Docker"],
-      "repo": "n8n_workflow_storage",
+      "repo": "https://github.com/samhuang95/n8n_workflow_storage",
       "isPrivate": true,
       "start": "2025-09",
       "end": "ongoing",
