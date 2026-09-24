@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/">LinkedIn</a> ·
   <a href="mailto:sam.huang.veda@gmail.com">Email</a> ·
   <!-- TODO: 換成你的 Linktree / 作品集連結 -->
-  <a href="https://sam-showcase.com/">作品集</a>
+  <a href="#">作品集</a>
 </p>
 
-比起「會什麼語言」，我更想讓這頁 README 說清楚**我實際做過什麼類型的專案、花多久做出來、做到多大**。技術棧列在最後面，當附錄。
+比起「會什麼語言」，我更想讓這頁 README 說清楚**我實際做過什麼類型的專案、花多久做出來、做到多大**。技術棧列在最後面，當附錄，不當重點。
 
 目前身分：全端工程師，同時是中興大學（資工所）在職碩士生；主線工作是企業碳排放管理系統，另外有幾個自己維護專案。
 
@@ -31,50 +31,34 @@
 
 ### 專案
 
-#### ASPNexV2
-
-`Enterprise` `Carbon/GHG` `.NET` · ? – 進行中
-
-企業碳排放管理系統：多語系碳盤查報告、GHG Protocol 合規、排放係數管理、CBAM 相關功能
-
-- 亮點: 7 語系 SQL Views、NPOI Excel 匯出含圖片、GHG 資料彙整邏輯
-- 技術: .NET 8 · C# · Vue 3 · MSSQL · EF Core · Dapper · AutoMapper · NPOI
-
-#### 即時語音翻譯系統（碩士論文）
-
-`AI/LLM` `Research` `Speech` · ? – 進行中
-
-Speech-to-text 銜接 LLM 翻譯的即時系統；建立人工校正的 ground truth 資料集並比對系統輸出準確度
-
-- 亮點: 處理多語言 code-switching 場景下的辨識與翻譯準確度問題
-- 技術: LLM · Speech-to-Text · Python
-
-#### Tool Retrieval 架構設計
-
-`AI/LLM` `Backend` · ? – ?
-
-大型 API 系統的 Tool Retrieval 架構：正規化 SQL API catalog schema + LLM (Gemini) 選路設計
-
-- 亮點: API 文件格式最佳實務整理，並區分哪些建議有研究依據、哪些是自行歸納
-- 技術: .NET 8 · C# · SQL · Gemini
-
-#### VocaPeak
-
-`App` `Android` · ? – 進行中
+#### [Vocapeak](https://github.com/Vocabulary_Trainer)
+`Vue.js` `Android` `Supabase` `Node.js` `PostgreSQL` · 2026-07 – 進行中
 
 單字練習 App（Web + Android）：Daily 卡片、複習、Goals 目標排程，用來準備多益
-
 - 亮點: Goals 頁面可依目標範圍與期限自動換算每日練習量
-- 技術: Vue 3 · Android
+- 技術: Vue.js · Android · Supabase · Node.js · PostgreSQL
 
-#### 叭噗 Babu
+#### [Sam's ShowCase](https://github.com/MyShowCase)
+`Vue.js` `Tailwind CSS` `Supabase` `Node.js` `PostgreSQL` · 2026-05 – 進行中
 
-`Creative AI` `3D` `Three.js` · ? – 進行中
+集合所有作品內容的個人作品集網站，包含專案、文章、履歷、聯絡資訊等
+- 亮點: 集合所有作品內容的個人作品集網站，包含專案、文章、履歷、聯絡資訊等
+- 技術: Vue.js · Tailwind CSS · Supabase · Node.js · PostgreSQL
 
-原創角色叭噗（冰淇淋生物）的 3D 建模與生成式 AI 開發，目標是做成 LINE 貼圖／社群曝光
+#### [安靜的辦公空間](https://github.com/AI-administrative)
+`HTML5` `Python` `ChromaDB` `SQLite` `Google Gemini` `FastMCP` `Ollama` · 2025-10 – 2025-11
 
-- 亮點: Three.js 重建：lathe geometry + toon shading + inverted hull outline
-- 技術: Three.js · Stable Diffusion / Flux LoRA
+讓 LLM 利用 MCP 的方式進行 Tool Use，以此查詢資料庫、生成文件、回覆使用者問題，以此減少低產值的行政工作負擔
+- 亮點: 地端 LLM 部屬於 Ollama，並使用 FastMCP 進行資料庫查詢與文件生成
+- 技術: HTML5 · Python · ChromaDB · SQLite · Google Gemini · FastMCP · Ollama
+
+#### [n8n 工作流程](https://github.com/n8n_workflow_storage)
+`n8n` `Docker` · 2025-09 – 進行中
+
+使用 n8n 和 Docker 建立的工作流程自動化系統
+- 亮點: 通過 n8n 的視覺界面自動化重複性任務並整合各種服務
+- 技術: n8n · Docker
+
 
 ---
 
@@ -89,4 +73,4 @@ Speech-to-text 銜接 LLM 翻譯的即時系統；建立人工校正的 ground t
 
 </details>
 
-<p align="right"><sub>最後更新：2026-09-24 02:32 UTC（GitHub Actions 自動產生，資料來源見 <code>projects.json</code>）</sub></p>
+<p align="right"><sub>最後更新：2026-09-24 03:22 UTC（GitHub Actions 自動產生，資料來源見 <code>projects.json</code>）</sub></p>

@@ -1,0 +1,23 @@
+<svg width="760" height="244" viewBox="0 0 760 244" xmlns="http://www.w3.org/2000/svg" role="img">
+<rect width="760" height="244" fill="#fcfcfb"/>
+<text x="24" y="20" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="start">開發時程</text>
+<line x1="264" y1="28" x2="264" y2="164" stroke="#e1e0d9" stroke-width="1"/>
+<text x="264" y="182" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">2025/9月</text>
+<line x1="382" y1="28" x2="382" y2="164" stroke="#e1e0d9" stroke-width="1"/>
+<text x="382" y="182" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">12月</text>
+<line x1="500" y1="28" x2="500" y2="164" stroke="#e1e0d9" stroke-width="1"/>
+<text x="500" y="182" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">3月</text>
+<line x1="618" y1="28" x2="618" y2="164" stroke="#e1e0d9" stroke-width="1"/>
+<text x="618" y="182" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">6月</text>
+<line x1="736" y1="28" x2="736" y2="164" stroke="#e1e0d9" stroke-width="1"/>
+<text x="736" y="182" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">9月</text>
+<line x1="736" y1="22" x2="736" y2="164" stroke="#898781" stroke-width="1"/><text x="736" y="18" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10" font-weight="400" fill="#898781" text-anchor="middle">現在</text>
+<text x="24" y="49" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="start">n8n 工作流程</text><path d="M264,36 H732 A4,4 0 0 1 736,40 V50 A4,4 0 0 1 732,54 H264 Z" fill="#c3c2b7"/>
+<text x="24" y="83" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="start">安靜的辦公空間</text><path d="M303.3333333333333,70 H338.66666666666663 A4,4 0 0 1 342.66666666666663,74 V84 A4,4 0 0 1 338.66666666666663,88 H303.3333333333333 Z" fill="#c3c2b7"/>
+<text x="24" y="117" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="start">Sam&#39;s ShowCase</text><path d="M578.6666666666666,104 H732 A4,4 0 0 1 736,108 V118 A4,4 0 0 1 732,122 H578.6666666666666 Z" fill="#c3c2b7"/>
+<text x="24" y="151" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="start">Vocapeak</text><path d="M657.3333333333334,138 H732 A4,4 0 0 1 736,142 V152 A4,4 0 0 1 732,156 H657.3333333333334 Z" fill="#c3c2b7"/>
+
+<rect x="24.00" y="211.00" width="10.00" height="10.00" rx="2" fill="#c3c2b7"/><text x="40" y="220" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="start">n8n</text>
+<rect x="154.00" y="211.00" width="10.00" height="10.00" rx="2" fill="#c3c2b7"/><text x="170" y="220" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="start">HTML5</text>
+<rect x="284.00" y="211.00" width="10.00" height="10.00" rx="2" fill="#c3c2b7"/><text x="300" y="220" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="start">Vue.js</text>
+</svg>
