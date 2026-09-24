@@ -1,0 +1,37 @@
+<svg width="760" height="278" viewBox="0 0 760 278" xmlns="http://www.w3.org/2000/svg" role="img">
+<rect width="760" height="278" fill="#fcfcfb"/>
+<text x="24" y="20" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="start">Development Timeline</text>
+<line x1="264" y1="28" x2="264" y2="198" stroke="#e1e0d9" stroke-width="1"/>
+<text x="264" y="216" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">Mar 2024</text>
+<line x1="311.2" y1="28" x2="311.2" y2="198" stroke="#e1e0d9" stroke-width="1"/>
+<text x="311.2" y="216" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">Jun</text>
+<line x1="358.4" y1="28" x2="358.4" y2="198" stroke="#e1e0d9" stroke-width="1"/>
+<text x="358.4" y="216" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">Sep</text>
+<line x1="405.6" y1="28" x2="405.6" y2="198" stroke="#e1e0d9" stroke-width="1"/>
+<text x="405.6" y="216" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">Dec</text>
+<line x1="452.8" y1="28" x2="452.8" y2="198" stroke="#e1e0d9" stroke-width="1"/>
+<text x="452.8" y="216" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">Mar</text>
+<line x1="500" y1="28" x2="500" y2="198" stroke="#e1e0d9" stroke-width="1"/>
+<text x="500" y="216" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">Jun</text>
+<line x1="547.2" y1="28" x2="547.2" y2="198" stroke="#e1e0d9" stroke-width="1"/>
+<text x="547.2" y="216" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">Sep</text>
+<line x1="594.4" y1="28" x2="594.4" y2="198" stroke="#e1e0d9" stroke-width="1"/>
+<text x="594.4" y="216" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">Dec</text>
+<line x1="641.6" y1="28" x2="641.6" y2="198" stroke="#e1e0d9" stroke-width="1"/>
+<text x="641.6" y="216" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">Mar</text>
+<line x1="688.8" y1="28" x2="688.8" y2="198" stroke="#e1e0d9" stroke-width="1"/>
+<text x="688.8" y="216" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">Jun</text>
+<line x1="736" y1="28" x2="736" y2="198" stroke="#e1e0d9" stroke-width="1"/>
+<text x="736" y="216" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10.5" font-weight="400" fill="#898781" text-anchor="middle">Sep</text>
+<line x1="736" y1="22" x2="736" y2="198" stroke="#898781" stroke-width="1"/><text x="736" y="18" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="10" font-weight="400" fill="#898781" text-anchor="middle">now</text>
+<text x="24" y="49" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="start">ASPNexV2</text><path d="M264,36 H732 A4,4 0 0 1 736,40 V50 A4,4 0 0 1 732,54 H264 Z" fill="#2a78d6"/>
+<text x="24" y="83" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="start">VocaPeak</text><path d="M421.3333333333333,70 H732 A4,4 0 0 1 736,74 V84 A4,4 0 0 1 732,88 H421.3333333333333 Z" fill="#1baf7a"/>
+<text x="24" y="117" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="start">Tool Retrieval Architecture Des…</text><path d="M500,104 H574.6666666666666 A4,4 0 0 1 578.6666666666666,108 V118 A4,4 0 0 1 574.6666666666666,122 H500 Z" fill="#eb6834"/>
+<text x="24" y="151" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="start">Babu (叭噗)</text><path d="M547.2,138 H732 A4,4 0 0 1 736,142 V152 A4,4 0 0 1 732,156 H547.2 Z" fill="#eda100"/>
+<text x="24" y="185" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="start">Real-Time Speech Translation Sy…</text><path d="M625.8666666666667,172 H732 A4,4 0 0 1 736,176 V186 A4,4 0 0 1 732,190 H625.8666666666667 Z" fill="#eb6834"/>
+
+<rect x="24.00" y="245.00" width="10.00" height="10.00" rx="2" fill="#2a78d6"/><text x="40" y="254" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="start">Enterprise</text>
+<rect x="154.00" y="245.00" width="10.00" height="10.00" rx="2" fill="#eb6834"/><text x="170" y="254" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="start">AI/LLM</text>
+<rect x="284.00" y="245.00" width="10.00" height="10.00" rx="2" fill="#1baf7a"/><text x="300" y="254" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="start">App</text>
+<rect x="414.00" y="245.00" width="10.00" height="10.00" rx="2" fill="#eda100"/><text x="430" y="254" font-family="-apple-system, 'Segoe UI', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="start">Creative AI</text>
+</svg>

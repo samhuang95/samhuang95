@@ -1,0 +1,14 @@
+{
+  "name": "samhuang95-readme",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "charts": "node .github/scripts/generate-charts.mjs",
+    "readme": "node .github/scripts/render-readme.mjs",
+    "build": "npm run charts && npm run readme"
+  },
+  "dependencies": {
+    "simple-icons": "^16.0.0"
+  }
+}

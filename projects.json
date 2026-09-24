@@ -1,0 +1,81 @@
+{
+  "_readme": "這份檔案由你自己維護，圖表只讀這裡的資料，不會自己編。tags 是自由標籤陣列，可以貼好幾個（例如 [\"App\", \"LLM\", \"n8n\"]），標籤本身不分語言、英中文頁面顯示一樣的文字；第一個標籤（tags[0]）是『主分類』，只有開發時程圖的顏色跟圖例是照這個分的（貢獻活躍度圖是單一線圖，畫你整個 GitHub 帳號的活躍度，不分專案、不吃 tags）——想讓某個標籤有自己的顏色，去 .github/scripts/lib/i18n.js 的 CATEGORY_COLOR_ORDER 加進去（最多 8 個），沒登記的主分類會畫成灰色，不會噴錯。repo 欄位填 \"owner/repo\" 的話，該專案標題會變成連到那個 GitHub repo 的連結；留 null 表示不是 public repo（例如公司內部、private 專案），標題就不是連結。start/end 用 \"YYYY-MM\"，仍在進行中的專案 end 填 \"ongoing\"。title / summary / highlight / scaleNote 都是 {en, zh} 兩個語言各填一份，英文是預設語言。TODO 標記的地方麻煩你確認後改掉；scaleNote 是 null 的表示這個專案沒有規模說明，卡片裡就不會顯示那一行。",
+  "projects": [
+    {
+      "id": "Vocapeak",
+      "tags": ["Vue.js", "Android", "Supabase", "Node.js", "PostgreSQL"],
+      "repo": "Vocabulary_Trainer",
+      "isPrivate": true,
+      "start": "2026-07",
+      "end": "ongoing",
+      "title": { "en": "Vocapeak", "zh": "Vocapeak" },
+      "summary": {
+        "en": "Vocabulary practice app (web + Android): daily review cards, a review queue, and a Goals page — built to prepare for the TOEIC exam",
+        "zh": "單字練習 App（Web + Android）：Daily 卡片、複習、Goals 目標排程，用來準備多益"
+      },
+      "highlight": {
+        "en": "The Goals page auto-calculates daily practice load from a target scope and deadline",
+        "zh": "Goals 頁面可依目標範圍與期限自動換算每日練習量"
+      },
+      "stack": ["Vue.js", "Android", "Supabase", "Node.js", "PostgreSQL"],
+      "scaleNote": null
+    },
+    {
+      "id": "Sam's ShowCase",
+      "tags": ["Vue.js", "Tailwind CSS", "Supabase", "Node.js", "PostgreSQL"],
+      "repo": "MyShowCase",
+      "isPrivate": true,
+      "start": "2026-05",
+      "end": "ongoing",
+      "title": { "en": "Sam's ShowCase", "zh": "Sam's ShowCase" },
+      "summary": {
+        "en": "A personal portfolio website aggregating all my works, including projects, articles, resume, and contact information",
+        "zh": "集合所有作品內容的個人作品集網站，包含專案、文章、履歷、聯絡資訊等"
+      },
+      "highlight": {
+        "en": "A personal portfolio website aggregating all my works, including projects, articles, resume, and contact information",
+        "zh": "集合所有作品內容的個人作品集網站，包含專案、文章、履歷、聯絡資訊等"
+      },
+      "stack": ["Vue.js", "Tailwind CSS", "Supabase", "Node.js", "PostgreSQL"],
+      "scaleNote": null
+    },
+    {
+      "id": "Silent Desk",
+      "tags": ["HTML5", "Python", "ChromaDB", "SQLite", "Google Gemini", "FastMCP", "Ollama"],
+      "repo": "AI-administrative",
+      "isPrivate": false,
+      "start": "2025-10",
+      "end": "2025-11",
+      "title": { "en": "Silent Desk", "zh": "安靜的辦公空間" },
+      "summary": {
+        "en": "Let LLMs use MCP to query databases, generate documents, and answer user questions, reducing low-value administrative workload",
+        "zh": "讓 LLM 利用 MCP 的方式進行 Tool Use，以此查詢資料庫、生成文件、回覆使用者問題，以此減少低產值的行政工作負擔"
+      },
+      "highlight": {
+        "en": "A local LLM deployed on Ollama, using FastMCP for database queries and document generation",
+        "zh": "地端 LLM 部屬於 Ollama，並使用 FastMCP 進行資料庫查詢與文件生成"
+      },
+      "stack": ["HTML5", "Python", "ChromaDB", "SQLite", "Google Gemini", "FastMCP", "Ollama"],
+      "scaleNote": null
+    },
+    {
+      "id": "n8n Workflow",
+      "tags": ["n8n", "Docker"],
+      "repo": "n8n_workflow_storage",
+      "isPrivate": true,
+      "start": "2025-09",
+      "end": "ongoing",
+      "title": { "en": "n8n Workflow", "zh": "n8n 工作流程" },
+      "summary": {
+        "en": "A workflow automation system built with n8n and Docker",
+        "zh": "使用 n8n 和 Docker 建立的工作流程自動化系統"
+      },
+      "highlight": {
+        "en": "Automating repetitive tasks and integrating various services through n8n's visual interface",
+        "zh": "通過 n8n 的視覺界面自動化重複性任務並整合各種服務"
+      },
+      "stack": ["n8n", "Docker"],
+      "scaleNote": null
+    }
+  ]
+}

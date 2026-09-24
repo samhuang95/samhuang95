@@ -1,0 +1,106 @@
+{
+  "_readme": "僅供預覽圖表用的範例資料，日期與規模數字為示意，不代表真實時程。正式資料以根目錄 projects.json 為準。",
+  "projects": [
+    {
+      "id": "aspnexv2",
+      "tags": ["Enterprise", "Carbon/GHG", ".NET"],
+      "repo": null,
+      "isPrivate": true,
+      "start": "2024-03",
+      "end": "ongoing",
+      "title": { "en": "ASPNexV2", "zh": "ASPNexV2" },
+      "summary": {
+        "en": "Enterprise carbon-emissions management system: multi-language carbon accounting reports, GHG Protocol compliance, emission-factor management, and CBAM-related features",
+        "zh": "企業碳排放管理系統：多語系碳盤查報告、GHG Protocol 合規、排放係數管理、CBAM 相關功能"
+      },
+      "highlight": {
+        "en": "7-language SQL views, NPOI Excel export with embedded images, and GHG data aggregation logic",
+        "zh": "7 語系 SQL Views、NPOI Excel 匯出含圖片、GHG 資料彙整邏輯"
+      },
+      "stack": [".NET 8", "C#", "Vue 3", "MSSQL", "EF Core", "Dapper", "AutoMapper", "NPOI"],
+      "scaleNote": {
+        "en": "Sample: multiple enterprise clients onboarded, 7-language UI",
+        "zh": "示意：多家企業客戶導入，7 語系介面"
+      }
+    },
+    {
+      "id": "thesis-realtime-translation",
+      "tags": ["AI/LLM", "Research", "Speech"],
+      "repo": null,
+      "isPrivate": true,
+      "start": "2026-02",
+      "end": "ongoing",
+      "title": { "en": "Real-Time Speech Translation System (Master's Thesis)", "zh": "即時語音翻譯系統（碩士論文）" },
+      "summary": {
+        "en": "A real-time system pairing speech-to-text with LLM-based translation; built a manually-corrected ground-truth dataset to benchmark the system's output accuracy",
+        "zh": "Speech-to-text 銜接 LLM 翻譯的即時系統；建立人工校正的 ground truth 資料集並比對系統輸出準確度"
+      },
+      "highlight": {
+        "en": "Tackling recognition and translation accuracy when speakers code-switch between languages mid-session",
+        "zh": "處理多語言 code-switching 場景下的辨識與翻譯準確度問題"
+      },
+      "stack": ["LLM", "Speech-to-Text", "Python"],
+      "scaleNote": null
+    },
+    {
+      "id": "tool-retrieval",
+      "tags": ["AI/LLM", "Backend"],
+      "repo": null,
+      "isPrivate": true,
+      "start": "2025-06",
+      "end": "2025-11",
+      "title": { "en": "Tool Retrieval Architecture Design", "zh": "Tool Retrieval 架構設計" },
+      "summary": {
+        "en": "Tool-retrieval architecture for a large API system: a normalized SQL API-catalog schema plus LLM (Gemini)-based routing design",
+        "zh": "大型 API 系統的 Tool Retrieval 架構：正規化 SQL API catalog schema + LLM (Gemini) 選路設計"
+      },
+      "highlight": {
+        "en": "Compiled API-documentation best practices, distinguishing which recommendations are research-backed versus self-synthesized",
+        "zh": "API 文件格式最佳實務整理，並區分哪些建議有研究依據、哪些是自行歸納"
+      },
+      "stack": [".NET 8", "C#", "SQL", "Gemini"],
+      "scaleNote": {
+        "en": "Sample: covers ~300+ API endpoints",
+        "zh": "示意：涵蓋約 300+ API 端點"
+      }
+    },
+    {
+      "id": "vocapeak",
+      "tags": ["App", "Android"],
+      "repo": null,
+      "isPrivate": false,
+      "start": "2025-01",
+      "end": "ongoing",
+      "title": { "en": "VocaPeak", "zh": "VocaPeak" },
+      "summary": {
+        "en": "Vocabulary practice app (web + Android): daily review cards, a review queue, and a Goals page — built to prepare for the TOEIC exam",
+        "zh": "單字練習 App（Web + Android）：Daily 卡片、複習、Goals 目標排程，用來準備多益"
+      },
+      "highlight": {
+        "en": "The Goals page auto-calculates daily practice load from a target scope and deadline",
+        "zh": "Goals 頁面可依目標範圍與期限自動換算每日練習量"
+      },
+      "stack": ["Vue 3", "Android"],
+      "scaleNote": null
+    },
+    {
+      "id": "babu-character",
+      "tags": ["Creative AI", "3D", "Three.js"],
+      "repo": null,
+      "isPrivate": false,
+      "start": "2025-09",
+      "end": "ongoing",
+      "title": { "en": "Babu (叭噗)", "zh": "叭噗 Babu" },
+      "summary": {
+        "en": "3D modeling and generative-AI development for an original character, Babu — an ice-cream creature — aimed at LINE stickers or social media exposure",
+        "zh": "原創角色叭噗（冰淇淋生物）的 3D 建模與生成式 AI 開發，目標是做成 LINE 貼圖／社群曝光"
+      },
+      "highlight": {
+        "en": "Three.js rebuild: lathe geometry + toon shading + inverted-hull outlines",
+        "zh": "Three.js 重建：lathe geometry + toon shading + inverted hull outline"
+      },
+      "stack": ["Three.js", "Stable Diffusion / Flux LoRA"],
+      "scaleNote": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+name: Update README data & charts
+
+on:
+  schedule:
+    # 每天 21:00 UTC（台北 05:00）重新抓資料、重畫圖表
+    - cron: '0 21 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'projects.json'
+      - 'README.template.en.md'
+      - 'README.template.zh.md'
+      - '.github/scripts/**'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate charts (real GitHub data)
+        env:
+          # 需要一組有 read:user scope 的 Personal Access Token，存成這個名字的 repo secret。
+          # 沒設定的話會退回用 GITHUB_TOKEN，但 contributionsCollection 這個 GraphQL 查詢
+          # 通常會失敗，開發頻率圖會畫成空的（腳本會印警告，不會整個 workflow 失敗）。
+          GH_README_TOKEN: ${{ secrets.GH_README_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: samhuang95
+        run: node .github/scripts/generate-charts.mjs
+
+      - name: Render README.md + README.zh-TW.md
+        run: node .github/scripts/render-readme.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "readme-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets README.md README.zh-TW.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh README data/charts [skip ci]"
+            git push
+          fi
