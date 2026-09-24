@@ -1,0 +1,3462 @@
+title,slug,export_name,hex_color
+".ENV",dotenv,siDotenv,#ECD53F
+".NET",dotnet,siDotnet,#512BD4
+"/e/",e,siE,#000000
+"1.1.1.1",1dot1dot1dot1,si1dot1dot1dot1,#221E68
+"1&1",1and1,si1and1,#003D8F
+"1001Tracklists",1001tracklists,si1001tracklists,#40AEF0
+"1Panel",1panel,si1panel,#0854C1
+"1Password",1password,si1password,#145FE4
+"2FAS",2fas,si2fas,#EC1C24
+"2K",2k,si2k,#DD0700
+"30 seconds of code",30secondsofcode,si30secondsofcode,#5395FD
+"365 Data Science",365datascience,si365datascience,#000C1F
+"3M",3m,si3m,#FF0000
+"42",42,si42,#000000
+"4chan",4chan,si4chan,#006600
+"4D",4d,si4d,#004088
+"500px",500px,si500px,#222222
+"7Zip",7zip,si7zip,#000000
+"99designs",99designs,si99designs,#FE5F50
+"9GAG",9gag,si9gag,#000000
+"A-Frame",aframe,siAframe,#EF2D5E
+"AB Download Manager",abdownloadmanager,siAbdownloadmanager,#897BFF
+"ABB",abb,siAbb,#FF000F
+"Abbott",abbott,siAbbott,#008FC7
+"Abbvie",abbvie,siAbbvie,#071D49
+"about.me",aboutdotme,siAboutdotme,#333333
+"Abstract",abstract,siAbstract,#191A1B
+"abuse.ch",abusedotch,siAbusedotch,#00465B
+"Academia",academia,siAcademia,#41454A
+"Accenture",accenture,siAccenture,#A100FF
+"Accusoft",accusoft,siAccusoft,#A9225C
+"AccuWeather",accuweather,siAccuweather,#FF6600
+"Acer",acer,siAcer,#83B81A
+"ACM",acm,siAcm,#0085CA
+"Acode",acode,siAcode,#3499FE
+"ActiGraph",actigraph,siActigraph,#3A4259
+"Activeloop",activeloop,siActiveloop,#FFB746
+"Activision",activision,siActivision,#000000
+"ActivityPub",activitypub,siActivitypub,#F1007E
+"Actix",actix,siActix,#000000
+"Actual Budget",actualbudget,siActualbudget,#6B46C1
+"Acura",acura,siAcura,#000000
+"Ada",ada,siAda,#000000
+"Adafruit",adafruit,siAdafruit,#000000
+"AdAway",adaway,siAdaway,#B71C1C
+"AdBlock",adblock,siAdblock,#F40D12
+"Adblock Plus",adblockplus,siAdblockplus,#C70D2C
+"addy.io",addydotio,siAddydotio,#19216C
+"AdGuard",adguard,siAdguard,#68BC71
+"Adidas",adidas,siAdidas,#000000
+"Adminer",adminer,siAdminer,#34567C
+"AdonisJS",adonisjs,siAdonisjs,#5A45FF
+"ADP",adp,siAdp,#D0271D
+"Adroll",adroll,siAdroll,#0DBDFF
+"Advent Of Code",adventofcode,siAdventofcode,#FFFF66
+"Adyen",adyen,siAdyen,#0ABF53
+"Aegis Authenticator",aegisauthenticator,siAegisauthenticator,#005E9D
+"Aeroflot",aeroflot,siAeroflot,#02458D
+"Aeroméxico",aeromexico,siAeromexico,#0B2343
+"AFDIAN",afdian,siAfdian,#946CE6
+"AFFiNE",affine,siAffine,#1E96EB
+"Afterpay",afterpay,siAfterpay,#B2FCE4
+"AfterShip",aftership,siAftership,#FF6B2B
+"Agent Skills",agentskills,siAgentskills,#000000
+"Agora",agora,siAgora,#099DFD
+"AI Dungeon",aidungeon,siAidungeon,#000000
+"AIB",aib,siAib,#7F2B7B
+"AIOHTTP",aiohttp,siAiohttp,#2C5BB4
+"Aiqfome",aiqfome,siAiqfome,#7A1FA2
+"Air Canada",aircanada,siAircanada,#F01428
+"Air China",airchina,siAirchina,#E30E17
+"Air France",airfrance,siAirfrance,#002157
+"Air India",airindia,siAirindia,#DA0E29
+"Air Serbia",airserbia,siAirserbia,#0E203F
+"Air Transat",airtransat,siAirtransat,#172B54
+"AirAsia",airasia,siAirasia,#FF0000
+"Airbnb",airbnb,siAirbnb,#FF5A5F
+"Airbrake",airbrake,siAirbrake,#FFA500
+"Airbus",airbus,siAirbus,#00205B
+"Airbyte",airbyte,siAirbyte,#615EFF
+"Aircall",aircall,siAircall,#00B388
+"AirPlay Audio",airplayaudio,siAirplayaudio,#000000
+"AirPlay Video",airplayvideo,siAirplayvideo,#000000
+"Airtable",airtable,siAirtable,#18BFFF
+"Airtel",airtel,siAirtel,#E40000
+"Ajv",ajv,siAjv,#23C8D2
+"Akamai",akamai,siAkamai,#0096D6
+"Akasa Air",akasaair,siAkasaair,#FF6300
+"Akaunting",akaunting,siAkaunting,#6DA252
+"Akiflow",akiflow,siAkiflow,#AF38F9
+"Alacritty",alacritty,siAlacritty,#F46D01
+"Alamy",alamy,siAlamy,#00FF7B
+"Albert Heijn",albertheijn,siAlbertheijn,#04ACE6
+"Album of the Year",albumoftheyear,siAlbumoftheyear,#222222
+"Alby",alby,siAlby,#FFDF6F
+"Alchemy",alchemy,siAlchemy,#0C0C0E
+"Aldi Nord",aldinord,siAldinord,#2490D7
+"Aldi Süd",aldisud,siAldisud,#00005F
+"Alfred",alfred,siAlfred,#5C1F87
+"Algolia",algolia,siAlgolia,#003DFF
+"Algorand",algorand,siAlgorand,#000000
+"Alibaba Cloud",alibabacloud,siAlibabacloud,#FF6A00
+"Alibaba.com",alibabadotcom,siAlibabadotcom,#FF6A00
+"Alienware",alienware,siAlienware,#541BAE
+"AliExpress",aliexpress,siAliexpress,#FF4747
+"Alipay",alipay,siAlipay,#1677FF
+"AList",alist,siAlist,#70C6BE
+"Allegro",allegro,siAllegro,#FF5A00
+"AlliedModders",alliedmodders,siAlliedmodders,#1578D3
+"AllTrails",alltrails,siAlltrails,#142800
+"AlmaLinux",almalinux,siAlmalinux,#000000
+"alphaXiv",alphaxiv,siAlphaxiv,#9A2036
+"Alpine Linux",alpinelinux,siAlpinelinux,#0D597F
+"Alpine.js",alpinedotjs,siAlpinedotjs,#8BC0D0
+"AlternativeTo",alternativeto,siAlternativeto,#0289D5
+"Alwaysdata",alwaysdata,siAlwaysdata,#E9568E
+"AMD",amd,siAmd,#ED1C24
+"Ameba",ameba,siAmeba,#2D8C3C
+"American Airlines",americanairlines,siAmericanairlines,#0078D2
+"American Express",americanexpress,siAmericanexpress,#2E77BC
+"AMG",amg,siAmg,#000000
+"AMP",amp,siAmp,#005AF0
+"Amul",amul,siAmul,#ED1D24
+"ANA",ana,siAna,#13448F
+"Anaconda",anaconda,siAnaconda,#44A833
+"Analogue",analogue,siAnalogue,#1A1A1A
+"Andela",andela,siAndela,#173B3F
+"Android",android,siAndroid,#3DDC84
+"Android Auto",androidauto,siAndroidauto,#3DDC84
+"Android Studio",androidstudio,siAndroidstudio,#3DDC84
+"Angular",angular,siAngular,#0F0F11
+"AniChart",anichart,siAnichart,#41B1EA
+"AniList",anilist,siAnilist,#02A9FF
+"Animal Planet",animalplanet,siAnimalplanet,#0073FF
+"Anime.js",animedotjs,siAnimedotjs,#000000
+"AnkerMake",ankermake,siAnkermake,#88F387
+"Anki",anki,siAnki,#80C2EE
+"Ansible",ansible,siAnsible,#EE0000
+"Answer",answer,siAnswer,#0033FF
+"Ansys",ansys,siAnsys,#FFB71B
+"Ant Design",antdesign,siAntdesign,#0170FE
+"Anta",anta,siAnta,#D70010
+"Antena 3",antena3,siAntena3,#FF7328
+"AntennaPod",antennapod,siAntennapod,#364FF3
+"Anthropic",anthropic,siAnthropic,#191919
+"AntV",antv,siAntv,#8B5DFF
+"Anycubic",anycubic,siAnycubic,#476695
+"AnyDesk",anydesk,siAnydesk,#EF443B
+"Anytype",anytype,siAnytype,#FF6A7B
+"Apache",apache,siApache,#D22128
+"Apache Airflow",apacheairflow,siApacheairflow,#017CEE
+"Apache Ant",apacheant,siApacheant,#A81C7D
+"Apache Arrow",apachearrow,siApachearrow,#000000
+"Apache Avro",apacheavro,siApacheavro,#30638E
+"Apache Cassandra",apachecassandra,siApachecassandra,#1287B1
+"Apache CloudStack",apachecloudstack,siApachecloudstack,#2AA5DC
+"Apache Cordova",apachecordova,siApachecordova,#E8E8E8
+"Apache CouchDB",apachecouchdb,siApachecouchdb,#E42528
+"Apache DolphinScheduler",apachedolphinscheduler,siApachedolphinscheduler,#85CDF0
+"Apache Doris",apachedoris,siApachedoris,#444FD9
+"Apache Druid",apachedruid,siApachedruid,#29F1FB
+"Apache ECharts",apacheecharts,siApacheecharts,#AA344D
+"Apache Flink",apacheflink,siApacheflink,#E6526F
+"Apache FreeMarker",apachefreemarker,siApachefreemarker,#326CAC
+"Apache Groovy",apachegroovy,siApachegroovy,#4298B8
+"Apache Guacamole",apacheguacamole,siApacheguacamole,#578B34
+"Apache Hadoop",apachehadoop,siApachehadoop,#66CCFF
+"Apache HBase",apachehbase,siApachehbase,#BE160C
+"Apache Hive",apachehive,siApachehive,#FDEE21
+"Apache JMeter",apachejmeter,siApachejmeter,#D22128
+"Apache Kafka",apachekafka,siApachekafka,#231F20
+"Apache Kylin",apachekylin,siApachekylin,#F09D13
+"Apache Lucene",apachelucene,siApachelucene,#019B8F
+"Apache Maven",apachemaven,siApachemaven,#C71A36
+"Apache NetBeans IDE",apachenetbeanside,siApachenetbeanside,#1B6AC6
+"Apache NiFi",apachenifi,siApachenifi,#728E9B
+"Apache OpenOffice",apacheopenoffice,siApacheopenoffice,#0E85CD
+"Apache Parquet",apacheparquet,siApacheparquet,#50ABF1
+"Apache PDFBox",apachepdfbox,siApachepdfbox,#34A5DA
+"Apache Pulsar",apachepulsar,siApachepulsar,#188FFF
+"Apache RocketMQ",apacherocketmq,siApacherocketmq,#D77310
+"Apache Solr",apachesolr,siApachesolr,#D9411E
+"Apache Spark",apachespark,siApachespark,#E25A1C
+"Apache Storm",apachestorm,siApachestorm,#225593
+"Apache Superset",apachesuperset,siApachesuperset,#20A6C9
+"Apache Tomcat",apachetomcat,siApachetomcat,#F8DC75
+"Aparat",aparat,siAparat,#ED145B
+"Apifox",apifox,siApifox,#F44A53
+"APM Terminals",apmterminals,siApmterminals,#FF6441
+"Apollo GraphQL",apollographql,siApollographql,#311C87
+"Apostrophe",apostrophe,siApostrophe,#6236FF
+"App Store",appstore,siAppstore,#0D96F6
+"AppGallery",appgallery,siAppgallery,#FF0000
+"Appian",appian,siAppian,#2322F0
+"AppImage",appimage,siAppimage,#739FB9
+"Appium",appium,siAppium,#EE376D
+"Apple",apple,siApple,#000000
+"Apple Arcade",applearcade,siApplearcade,#000000
+"Apple Music",applemusic,siApplemusic,#FA243C
+"Apple News",applenews,siApplenews,#FD415E
+"Apple Pay",applepay,siApplepay,#000000
+"Apple Podcasts",applepodcasts,siApplepodcasts,#9933CC
+"Apple TV",appletv,siAppletv,#000000
+"AppManager",appmanager,siAppmanager,#DCAF74
+"AppSignal",appsignal,siAppsignal,#21375A
+"Appsmith",appsmith,siAppsmith,#2A2F3D
+"AppVeyor",appveyor,siAppveyor,#00B3E0
+"Appwrite",appwrite,siAppwrite,#FD366E
+"Aqua",aqua,siAqua,#1904DA
+"ARAL",aral,siAral,#0063CB
+"ArangoDB",arangodb,siArangodb,#DDDF72
+"Arc",arc,siArc,#FCBFBD
+"ArcGIS",arcgis,siArcgis,#2C7AC3
+"Arch Linux",archlinux,siArchlinux,#1793D1
+"Archicad",archicad,siArchicad,#2D50A5
+"Archive of Our Own",archiveofourown,siArchiveofourown,#990000
+"Ardour",ardour,siArdour,#C61C3E
+"Arduino",arduino,siArduino,#00878F
+"Argo",argo,siArgo,#EF7B4D
+"Argos",argos,siArgos,#DA291C
+"Ariakit",ariakit,siAriakit,#007ACC
+"ARK Ecosystem",arkecosystem,siArkecosystem,#C9292C
+"Arlo",arlo,siArlo,#49B48A
+"Arm",arm,siArm,#0091BD
+"Arm Keil",armkeil,siArmkeil,#394049
+"Ars Technica",arstechnica,siArstechnica,#FF4E00
+"Artifact Hub",artifacthub,siArtifacthub,#417598
+"Artix Linux",artixlinux,siArtixlinux,#10A0CC
+"ArtStation",artstation,siArtstation,#13AFF0
+"arXiv",arxiv,siArxiv,#B31B1B
+"Asahi Linux",asahilinux,siAsahilinux,#A61200
+"Asana",asana,siAsana,#F06A6A
+"Asciidoctor",asciidoctor,siAsciidoctor,#E40046
+"asciinema",asciinema,siAsciinema,#D40000
+"ASDA",asda,siAsda,#68A51C
+"Aseprite",aseprite,siAseprite,#7D929E
+"AssemblyScript",assemblyscript,siAssemblyscript,#007ACC
+"Asterisk",asterisk,siAsterisk,#F68F1E
+"Aston Martin",astonmartin,siAstonmartin,#00665E
+"Astra",astra,siAstra,#5C2EDE
+"Astral",astral,siAstral,#261230
+"Astro",astro,siAstro,#BC52EE
+"ASUS",asus,siAsus,#000000
+"AT&T",atandt,siAtandt,#009FDB
+"Atari",atari,siAtari,#E4202E
+"AtlasOS",atlasos,siAtlasos,#1A91FF
+"Atlassian",atlassian,siAtlassian,#0052CC
+"AtomGit",atomgit,siAtomgit,#DA203E
+"Auchan",auchan,siAuchan,#D6180B
+"Audacity",audacity,siAudacity,#0000CC
+"Audi",audi,siAudi,#BB0A30
+"Audible",audible,siAudible,#F8991C
+"Audio-Technica",audiotechnica,siAudiotechnica,#000000
+"Audiobookshelf",audiobookshelf,siAudiobookshelf,#82612C
+"Audioboom",audioboom,siAudioboom,#007CE2
+"Audiomack",audiomack,siAudiomack,#FFA200
+"Aurelia",aurelia,siAurelia,#ED2B88
+"Autentique",autentique,siAutentique,#3379F2
+"Auth0",auth0,siAuth0,#EB5424
+"Authelia",authelia,siAuthelia,#113155
+"Authentik",authentik,siAuthentik,#FD4B2D
+"AutoCAD",autocad,siAutocad,#E51050
+"AutoCannon",autocannon,siAutocannon,#3BA4B7
+"Autodesk",autodesk,siAutodesk,#000000
+"Autodesk Maya",autodeskmaya,siAutodeskmaya,#37A5CC
+"Autodesk Revit",autodeskrevit,siAutodeskrevit,#186BFF
+"AutoHotkey",autohotkey,siAutohotkey,#334455
+"AutoIt",autoit,siAutoit,#5D83AC
+"Automattic",automattic,siAutomattic,#3499CD
+"Autoprefixer",autoprefixer,siAutoprefixer,#DD3735
+"AutoZone",autozone,siAutozone,#D52B1E
+"avajs",avajs,siAvajs,#4B4B77
+"AvaloniaUI",avaloniaui,siAvaloniaui,#165BFF
+"Avast",avast,siAvast,#FF7800
+"avianca",avianca,siAvianca,#FF0000
+"Avira",avira,siAvira,#E02027
+"AVM",avm,siAvm,#E2001A
+"Await",await,siAwait,#7858F5
+"Awesome Lists",awesomelists,siAwesomelists,#FC60A8
+"awesomeWM",awesomewm,siAwesomewm,#535D6C
+"Awwwards",awwwards,siAwwwards,#222222
+"Axios",axios,siAxios,#5A29E4
+"Axis Bank",axisbank,siAxisbank,#971A4D
+"B&R Automation",bandrautomation,siBandrautomation,#FF8800
+"B4X",b4x,siB4x,#14AECB
+"Babel",babel,siBabel,#F9DC3E
+"Babelio",babelio,siBabelio,#FBB91E
+"Babylon.js",babylondotjs,siBabylondotjs,#BB464B
+"Backblaze",backblaze,siBackblaze,#E21E29
+"Backbone",backbone,siBackbone,#000000
+"Backbone.js",backbonedotjs,siBackbonedotjs,#0071B5
+"Backendless",backendless,siBackendless,#1D77BD
+"Backstage",backstage,siBackstage,#9BF0E1
+"Backstage",backstage_casting,siBackstage_casting,#000000
+"Badoo",badoo,siBadoo,#783BF9
+"Baidu",baidu,siBaidu,#2932E1
+"Bakaláři",bakalari,siBakalari,#00A2E2
+"Bamboo",bamboo,siBamboo,#0052CC
+"Bambu Lab",bambulab,siBambulab,#00AE42
+"Bandcamp",bandcamp,siBandcamp,#408294
+"BandLab",bandlab,siBandlab,#F12C18
+"Bandsintown",bandsintown,siBandsintown,#00CEC8
+"Bank of America",bankofamerica,siBankofamerica,#012169
+"Barclays",barclays,siBarclays,#00AEEF
+"Baremetrics",baremetrics,siBaremetrics,#6078FF
+"Barmenia",barmenia,siBarmenia,#009FE3
+"Base UI",baseui,siBaseui,#EDEDED
+"Basecamp",basecamp,siBasecamp,#1D2D35
+"Baserow",baserow,siBaserow,#5190EF
+"Basic Attention Token",basicattentiontoken,siBasicattentiontoken,#80247B
+"Bastyon",bastyon,siBastyon,#00A4FF
+"bat",bat,siBat,#31369E
+"Bata",bata,siBata,#DD282E
+"Battle.net",battledotnet,siBattledotnet,#4381C3
+"Bazel",bazel,siBazel,#43A047
+"Beatport",beatport,siBeatport,#01FF95
+"Beats",beats,siBeats,#005571
+"Beats by Dre",beatsbydre,siBeatsbydre,#E01F3D
+"BeatStars",beatstars,siBeatstars,#EB0000
+"Beekeeper Studio",beekeeperstudio,siBeekeeperstudio,#FAD83B
+"Behance",behance,siBehance,#1769FF
+"Beijing Subway",beijingsubway,siBeijingsubway,#004A9D
+"BEM",bem,siBem,#000000
+"Bentley",bentley,siBentley,#333333
+"Bento",bento,siBento,#768CFF
+"BentoBox",bentobox,siBentobox,#F15541
+"BentoML",bentoml,siBentoml,#000000
+"BeReal",bereal,siBereal,#000000
+"Betfair",betfair,siBetfair,#FFB80B
+"Better Auth",betterauth,siBetterauth,#FFFFFF
+"Better Stack",betterstack,siBetterstack,#000000
+"BetterDiscord",betterdiscord,siBetterdiscord,#3E82E5
+"Bevy",bevy,siBevy,#232326
+"Big Cartel",bigcartel,siBigcartel,#222222
+"bigbasket",bigbasket,siBigbasket,#A5CD39
+"BigBlueButton",bigbluebutton,siBigbluebutton,#283274
+"BigCommerce",bigcommerce,siBigcommerce,#121118
+"Bilibili",bilibili,siBilibili,#00A1D6
+"Billboard",billboard,siBillboard,#000000
+"BIM",bim,siBim,#EB1928
+"Binance",binance,siBinance,#F0B90B
+"Bio Link",biolink,siBiolink,#000000
+"Bioconductor",bioconductor,siBioconductor,#1A81C2
+"Biome",biome,siBiome,#60A5FA
+"BisectHosting",bisecthosting,siBisecthosting,#0D1129
+"Bit",bit,siBit,#592EC1
+"Bitbucket",bitbucket,siBitbucket,#0052CC
+"Bitcoin",bitcoin,siBitcoin,#F7931A
+"Bitcoin Cash",bitcoincash,siBitcoincash,#0AC18E
+"Bitcoin SV",bitcoinsv,siBitcoinsv,#EAB300
+"BitComet",bitcomet,siBitcomet,#F49923
+"Bitdefender",bitdefender,siBitdefender,#ED1C24
+"Bitly",bitly,siBitly,#EE6123
+"Bitrise",bitrise,siBitrise,#683D87
+"Bitsy",bitsy,siBitsy,#6767B2
+"BitTorrent",bittorrent,siBittorrent,#050505
+"Bitwarden",bitwarden,siBitwarden,#175DDC
+"Bitwig",bitwig,siBitwig,#FF5A00
+"Black",black,siBlack,#000000
+"Blackberry",blackberry,siBlackberry,#000000
+"Blackmagic Design",blackmagicdesign,siBlackmagicdesign,#FFA200
+"Blazemeter",blazemeter,siBlazemeter,#CA2133
+"Blazor",blazor,siBlazor,#512BD4
+"Blender",blender,siBlender,#E87D0D
+"Blibli",blibli,siBlibli,#0072FF
+"Blockbench",blockbench,siBlockbench,#1E93D9
+"Blockchain.com",blockchaindotcom,siBlockchaindotcom,#121D33
+"Blogger",blogger,siBlogger,#FF5722
+"Bloglovin",bloglovin,siBloglovin,#000000
+"Blueprint",blueprint,siBlueprint,#137CBD
+"Bluesky",bluesky,siBluesky,#1185FE
+"Bluesound",bluesound,siBluesound,#0F131E
+"Bluetooth",bluetooth,siBluetooth,#0082FC
+"BMC Software",bmcsoftware,siBmcsoftware,#FE5000
+"BMW",bmw,siBmw,#0066B1
+"BNB Chain",bnbchain,siBnbchain,#F0B90B
+"BoardGameGeek",boardgamegeek,siBoardgamegeek,#FF5100
+"boAt",boat,siBoat,#E20722
+"Boehringer Ingelheim",boehringeringelheim,siBoehringeringelheim,#00E47C
+"Boeing",boeing,siBoeing,#1D439C
+"Bohemia Interactive",bohemiainteractive,siBohemiainteractive,#6BA539
+"Bombardier",bombardier,siBombardier,#000000
+"Bookalope",bookalope,siBookalope,#DC2829
+"BookBub",bookbub,siBookbub,#F44336
+"Booking.com",bookingdotcom,siBookingdotcom,#003A9A
+"Bookmeter",bookmeter,siBookmeter,#64BC4B
+"BookMyShow",bookmyshow,siBookmyshow,#C4242B
+"BookStack",bookstack,siBookstack,#0288D1
+"Boost",boost,siBoost,#F7901E
+"Boosty",boosty,siBoosty,#F15F2C
+"Boots",boots,siBoots,#05054B
+"Bootstrap",bootstrap,siBootstrap,#7952B3
+"BorgBackup",borgbackup,siBorgbackup,#00DD00
+"Bosch",bosch,siBosch,#EA0016
+"Bose",bose,siBose,#000000
+"Botble CMS",botblecms,siBotblecms,#205081
+"boulanger",boulanger,siBoulanger,#FD5300
+"Bower",bower,siBower,#EF5734
+"Box",box,siBox,#0061D5
+"Boxy SVG",boxysvg,siBoxysvg,#3584E3
+"Braintree",braintree,siBraintree,#000000
+"Braintrust",braintrust,siBraintrust,#000000
+"Brandfetch",brandfetch,siBrandfetch,#0084FF
+"Brandfolder",brandfolder,siBrandfolder,#40D1F5
+"Brave",brave,siBrave,#FB542B
+"Breaker",breaker,siBreaker,#003DAD
+"Brenntag",brenntag,siBrenntag,#1A0033
+"Brevo",brevo,siBrevo,#0B996E
+"Brex",brex,siBrex,#212121
+"Bricks",bricks,siBricks,#FFD54D
+"British Airways",britishairways,siBritishairways,#2E5C99
+"Broadcom",broadcom,siBroadcom,#E31837
+"Bruno",bruno,siBruno,#F4AA41
+"BSD",bsd,siBsd,#AB2B28
+"bspwm",bspwm,siBspwm,#2E2E2E
+"BT",bt,siBt,#6400AA
+"Buddy",buddy,siBuddy,#1A86FD
+"Budibase",budibase,siBudibase,#000000
+"Buefy",buefy,siBuefy,#7957D5
+"Buffer",buffer,siBuffer,#231F20
+"Bugatti",bugatti,siBugatti,#000000
+"Bugcrowd",bugcrowd,siBugcrowd,#F26822
+"Buhl",buhl,siBuhl,#023E84
+"Buildkite",buildkite,siBuildkite,#14CC80
+"BuiltByBit",builtbybit,siBuiltbybit,#2D87C3
+"Bukalapak",bukalapak,siBukalapak,#E31E52
+"Bulma",bulma,siBulma,#00D1B2
+"Bun",bun,siBun,#000000
+"Bungie",bungie,siBungie,#0075BB
+"bunny.net",bunnydotnet,siBunnydotnet,#FFAA49
+"bunq",bunq,siBunq,#3394D7
+"Burger King",burgerking,siBurgerking,#D62300
+"Burp Suite",burpsuite,siBurpsuite,#FF6633
+"Burton",burton,siBurton,#000000
+"Buy Me A Coffee",buymeacoffee,siBuymeacoffee,#FFDD00
+"BuySellAds",buysellads,siBuysellads,#EB4714
+"BuzzFeed",buzzfeed,siBuzzfeed,#EE3322
+"BVG",bvg,siBvg,#F0D722
+"Byju's",byjus,siByjus,#813588
+"ByteDance",bytedance,siBytedance,#3C8CFF
+"C",c,siC,#A8B9CC
+"C++",cplusplus,siCplusplus,#00599C
+"C++ Builder",cplusplusbuilder,siCplusplusbuilder,#E62431
+"Cachet",cachet,siCachet,#7ED321
+"CachyOS",cachyos,siCachyos,#00AA88
+"Caddy",caddy,siCaddy,#1F88C0
+"Cadillac",cadillac,siCadillac,#000000
+"CafePress",cafepress,siCafepress,#58A616
+"Cairo Graphics",cairographics,siCairographics,#F39914
+"Cairo Metro",cairometro,siCairometro,#C10C0C
+"CaixaBank",caixabank,siCaixabank,#007EAE
+"CakePHP",cakephp,siCakephp,#D33C43
+"Cal.com",caldotcom,siCaldotcom,#292929
+"Calendly",calendly,siCalendly,#006BFF
+"Calibre-Web",calibreweb,siCalibreweb,#45B29D
+"Campaign Monitor",campaignmonitor,siCampaignmonitor,#111324
+"Camunda",camunda,siCamunda,#FC5D0D
+"Canonical",canonical,siCanonical,#E95420
+"Canvas",canvas,siCanvas,#E72429
+"Capacitor",capacitor,siCapacitor,#119EFF
+"CapRover",caprover,siCaprover,#ED5B26
+"Car Throttle",carthrottle,siCarthrottle,#FF9C42
+"Cardano",cardano,siCardano,#0133AD
+"Cardmarket",cardmarket,siCardmarket,#012169
+"Carlsberg Group",carlsberggroup,siCarlsberggroup,#00321E
+"Carrd",carrd,siCarrd,#596CAF
+"Carrefour",carrefour,siCarrefour,#004E9F
+"Carto",carto,siCarto,#EB1510
+"Cash App",cashapp,siCashapp,#00C244
+"Castbox",castbox,siCastbox,#F55B23
+"Castorama",castorama,siCastorama,#0078D7
+"Castro",castro,siCastro,#00B265
+"Caterpillar",caterpillar,siCaterpillar,#FFCD11
+"CBC",cbc,siCbc,#E60505
+"CBS",cbs,siCbs,#033963
+"CCC",ccc,siCcc,#000000
+"CCleaner",ccleaner,siCcleaner,#CB2D29
+"CD Projekt",cdprojekt,siCdprojekt,#DC0D15
+"CE",ce,siCe,#000000
+"Celery",celery,siCelery,#37814A
+"Celestron",celestron,siCelestron,#F47216
+"CentOS",centos,siCentos,#262577
+"Ceph",ceph,siCeph,#EF5C55
+"Cesium",cesium,siCesium,#6CADDF
+"Chai",chai,siChai,#A30701
+"Chainguard",chainguard,siChainguard,#4445E7
+"Chainlink",chainlink,siChainlink,#375BD2
+"Chakra UI",chakraui,siChakraui,#1BB2A9
+"Change Detection",changedetection,siChangedetection,#3056D3
+"Channel 4",channel4,siChannel4,#AAFF89
+"Charles",charles,siCharles,#F3F5F5
+"Chart.js",chartdotjs,siChartdotjs,#FF6384
+"ChartMogul",chartmogul,siChartmogul,#13324B
+"Chase",chase,siChase,#117ACA
+"ChatBot",chatbot,siChatbot,#0066FF
+"Chatwoot",chatwoot,siChatwoot,#1F93FF
+"CheckiO",checkio,siCheckio,#008DB6
+"Checkmarx",checkmarx,siCheckmarx,#54B848
+"Checkmk",checkmk,siCheckmk,#15D1A0
+"Chedraui",chedraui,siChedraui,#E0832F
+"Cheerio",cheerio,siCheerio,#E88C1F
+"Chef",chef,siChef,#F09820
+"Chemex",chemex,siChemex,#4D2B1A
+"Chess.com",chessdotcom,siChessdotcom,#81B64C
+"Chevrolet",chevrolet,siChevrolet,#CD9834
+"Chia Network",chianetwork,siChianetwork,#5ECE71
+"China Eastern Airlines",chinaeasternairlines,siChinaeasternairlines,#1A2477
+"China Railway",chinarailway,siChinarailway,#FF2600
+"China Southern Airlines",chinasouthernairlines,siChinasouthernairlines,#008BCB
+"Chocolatey",chocolatey,siChocolatey,#80B5E3
+"Chromatic",chromatic,siChromatic,#FC521F
+"Chrome Web Store",chromewebstore,siChromewebstore,#4285F4
+"Chrysler",chrysler,siChrysler,#000000
+"Chupa Chups",chupachups,siChupachups,#CF103E
+"Cilium",cilium,siCilium,#F8C517
+"Cinema 4D",cinema4d,siCinema4d,#011A6A
+"Cinnamon",cinnamon,siCinnamon,#DC682E
+"Cinny",cinny,siCinny,#000000
+"Circle",circle,siCircle,#8669AE
+"CircleCI",circleci,siCircleci,#343434
+"CircuitVerse",circuitverse,siCircuitverse,#42B883
+"Cirrus CI",cirrusci,siCirrusci,#4051B5
+"Cisco",cisco,siCisco,#1BA0D7
+"Citrix",citrix,siCitrix,#452170
+"Citroën",citroen,siCitroen,#DA291C
+"CiviCRM",civicrm,siCivicrm,#81C459
+"Civo",civo,siCivo,#239DFF
+"Clarifai",clarifai,siClarifai,#1955FF
+"Claris",claris,siClaris,#000000
+"Clarivate",clarivate,siClarivate,#93FF9E
+"Claude",claude,siClaude,#D97757
+"Claude Code",claudecode,siClaudecode,#D97757
+"Clerk",clerk,siClerk,#6C47FF
+"Clever Cloud",clevercloud,siClevercloud,#171C36
+"ClickHouse",clickhouse,siClickhouse,#FFCC01
+"ClickUp",clickup,siClickup,#7B68EE
+"Cline",cline,siCline,#18181B
+"CLion",clion,siClion,#000000
+"Clockify",clockify,siClockify,#03A9F4
+"Clojure",clojure,siClojure,#5881D8
+"Cloud 66",cloud66,siCloud66,#3C72B9
+"Cloud Foundry",cloudfoundry,siCloudfoundry,#0C9ED5
+"Cloud Native Build",cloudnativebuild,siCloudnativebuild,#F76945
+"CloudBees",cloudbees,siCloudbees,#1997B5
+"CloudCannon",cloudcannon,siCloudcannon,#407AFC
+"Cloudera",cloudera,siCloudera,#F96702
+"Cloudflare",cloudflare,siCloudflare,#F38020
+"Cloudflare Pages",cloudflarepages,siCloudflarepages,#F38020
+"Cloudflare Workers",cloudflareworkers,siCloudflareworkers,#F38020
+"Cloudinary",cloudinary,siCloudinary,#3448C5
+"Cloudron",cloudron,siCloudron,#03A9F4
+"Cloudsmith",cloudsmith,siCloudsmith,#2A6FE1
+"Cloudways",cloudways,siCloudways,#2C39BD
+"Clubforce",clubforce,siClubforce,#191176
+"Clubhouse",clubhouse,siClubhouse,#FFE450
+"Clyp",clyp,siClyp,#3CBDB1
+"CMake",cmake,siCmake,#064F8C
+"CNCF",cncf,siCncf,#231F20
+"CNES",cnes,siCnes,#204F8C
+"CNET",cnet,siCnet,#E71D1D
+"CNN",cnn,siCnn,#CC0000
+"Co-op",coop,siCoop,#00B1E7
+"cobalt",cobalt,siCobalt,#FFFFFF
+"Coca-Cola",cocacola,siCocacola,#D00013
+"Cockpit",cockpit,siCockpit,#2A7AE2
+"Cockroach Labs",cockroachlabs,siCockroachlabs,#6933FF
+"CocoaPods",cocoapods,siCocoapods,#EE3322
+"Cocos",cocos,siCocos,#55C2E1
+"Coda",coda,siCoda,#F46A54
+"Codacy",codacy,siCodacy,#222F29
+"Code Climate",codeclimate,siCodeclimate,#000000
+"Code::Blocks",codeblocks,siCodeblocks,#41AD48
+"Codeberg",codeberg,siCodeberg,#2185D0
+"CodeBuddy",codebuddy,siCodebuddy,#6C4DFF
+"Codecademy",codecademy,siCodecademy,#1F4056
+"CodeceptJS",codeceptjs,siCodeceptjs,#F6E05E
+"CodeChef",codechef,siCodechef,#5B4638
+"Codecov",codecov,siCodecov,#F01F7A
+"CodeCrafters",codecrafters,siCodecrafters,#171920
+"CodeFactor",codefactor,siCodefactor,#F44A6A
+"Codeforces",codeforces,siCodeforces,#1F8ACB
+"Codefresh",codefresh,siCodefresh,#08B1AB
+"CodeIgniter",codeigniter,siCodeigniter,#EF4223
+"Codemagic",codemagic,siCodemagic,#F45E3F
+"Codementor",codementor,siCodementor,#003648
+"CodeMirror",codemirror,siCodemirror,#D30707
+"CodeNewbie",codenewbie,siCodenewbie,#9013FE
+"CodeProject",codeproject,siCodeproject,#FF9900
+"Coder",coder,siCoder,#090B0B
+"CodeRabbit",coderabbit,siCoderabbit,#FF570A
+"CodersRank",codersrank,siCodersrank,#67A4AC
+"Coderwall",coderwall,siCoderwall,#3E8DCC
+"CodeSandbox",codesandbox,siCodesandbox,#151515
+"Codeship",codeship,siCodeship,#004466
+"CodeSignal",codesignal,siCodesignal,#1062FB
+"CodeStream",codestream,siCodestream,#008C99
+"Codewars",codewars,siCodewars,#B1361E
+"Coding Ninjas",codingninjas,siCodingninjas,#DD6620
+"CodinGame",codingame,siCodingame,#F2BB13
+"Codio",codio,siCodio,#4574E0
+"CoffeeScript",coffeescript,siCoffeescript,#2F2625
+"Coggle",coggle,siCoggle,#9ED56B
+"Coinbase",coinbase,siCoinbase,#0052FF
+"CoinMarketCap",coinmarketcap,siCoinmarketcap,#17181B
+"Collabora Online",collaboraonline,siCollaboraonline,#5C2983
+"ComicFury",comicfury,siComicfury,#79BD42
+"comma",comma,siComma,#51FF00
+"Commerzbank",commerzbank,siCommerzbank,#FFCC33
+"commitlint",commitlint,siCommitlint,#000000
+"Commodore",commodore,siCommodore,#1E2A4E
+"Common Lisp",commonlisp,siCommonlisp,#000000
+"Common Workflow Language",commonworkflowlanguage,siCommonworkflowlanguage,#B5314C
+"Compiler Explorer",compilerexplorer,siCompilerexplorer,#67C52A
+"Composer",composer,siComposer,#885630
+"CompTIA",comptia,siComptia,#C8202F
+"Comsol",comsol,siComsol,#368CCB
+"Conan",conan,siConan,#6699CB
+"Concourse",concourse,siConcourse,#3398DC
+"Conda-Forge",condaforge,siCondaforge,#000000
+"Conekta",conekta,siConekta,#0A1837
+"Confluence",confluence,siConfluence,#172B4D
+"Construct 3",construct3,siConstruct3,#00FFDA
+"Consul",consul,siConsul,#F24C53
+"Contabo",contabo,siContabo,#00AAEB
+"Contactless Payment",contactlesspayment,siContactlesspayment,#000000
+"containerd",containerd,siContainerd,#575757
+"Contao",contao,siContao,#F47C00
+"Contensis",contensis,siContensis,#37BFA7
+"Contentful",contentful,siContentful,#2478CC
+"Contentstack",contentstack,siContentstack,#E74C3D
+"Continente",continente,siContinente,#E31E24
+"Contributor Covenant",contributorcovenant,siContributorcovenant,#5E0D73
+"Conventional Commits",conventionalcommits,siConventionalcommits,#FE5196
+"Convertio",convertio,siConvertio,#FF3333
+"Convex",convex,siConvex,#EE342F
+"Cookiecutter",cookiecutter,siCookiecutter,#D4AA00
+"Cooler Master",coolermaster,siCoolermaster,#1E1E28
+"Coolify",coolify,siCoolify,#6B16ED
+"Copa Airlines",copaairlines,siCopaairlines,#0032A0
+"Coppel",coppel,siCoppel,#0266AE
+"Cora",cora,siCora,#E61845
+"Coreboot",coreboot,siCoreboot,#000000
+"CorelDRAW",coreldraw,siCoreldraw,#000000
+"Corona Engine",coronaengine,siCoronaengine,#F96F29
+"Corona Renderer",coronarenderer,siCoronarenderer,#E6502A
+"Corsair",corsair,siCorsair,#231F20
+"Couchbase",couchbase,siCouchbase,#EA2328
+"Counter-Strike",counterstrike,siCounterstrike,#000000
+"CountingWorks PRO",countingworkspro,siCountingworkspro,#2E3084
+"Coursera",coursera,siCoursera,#0056D2
+"Coveralls",coveralls,siCoveralls,#3F5767
+"Coze",coze,siCoze,#4D53E8
+"cPanel",cpanel,siCpanel,#FF6C2C
+"Craft CMS",craftcms,siCraftcms,#E5422B
+"Craftsman",craftsman,siCraftsman,#D6001C
+"CrateDB",cratedb,siCratedb,#009DC7
+"Crayon",crayon,siCrayon,#FF6A4C
+"Creality",creality,siCreality,#000000
+"Create React App",createreactapp,siCreatereactapp,#09D3AC
+"Creative Commons",creativecommons,siCreativecommons,#ED592F
+"Creative Technology",creativetechnology,siCreativetechnology,#000000
+"Credly",credly,siCredly,#FF6B00
+"Crehana",crehana,siCrehana,#4B22F4
+"Crew United",crewunited,siCrewunited,#000000
+"CrewAI",crewai,siCrewai,#FF5A50
+"Critical Role",criticalrole,siCriticalrole,#000000
+"Crowdin",crowdin,siCrowdin,#2E3340
+"Crowdsource",crowdsource,siCrowdsource,#4285F4
+"Crunchbase",crunchbase,siCrunchbase,#0288D1
+"Crunchyroll",crunchyroll,siCrunchyroll,#FF5E00
+"CRYENGINE",cryengine,siCryengine,#000000
+"Cryptomator",cryptomator,siCryptomator,#49B04A
+"CryptPad",cryptpad,siCryptpad,#0087FF
+"Crystal",crystal,siCrystal,#000000
+"CSDN",csdn,siCsdn,#FC5531
+"CSS",css,siCss,#663399
+"CSS Design Awards",cssdesignawards,siCssdesignawards,#280FEE
+"CSS Modules",cssmodules,siCssmodules,#000000
+"CSS Wizardry",csswizardry,siCsswizardry,#F43059
+"CTS",cts,siCts,#E53236
+"Cucumber",cucumber,siCucumber,#23D96C
+"Cultura",cultura,siCultura,#1D2C54
+"curl",curl,siCurl,#073551
+"CurseForge",curseforge,siCurseforge,#F16436
+"Cursor",cursor,siCursor,#000000
+"Custom Ink",customink,siCustomink,#FA3C00
+"CyberDefenders",cyberdefenders,siCyberdefenders,#335EEA
+"Cycling '74",cycling74,siCycling74,#111111
+"Cypress",cypress,siCypress,#69D3A7
+"Cytoscape.js",cytoscapedotjs,siCytoscapedotjs,#F7DF1E
+"D",d,siD,#B03931
+"D-EDGE",dedge,siDedge,#432975
+"D-Wave Systems",dwavesystems,siDwavesystems,#008CD7
+"D3",d3,siD3,#F9A03C
+"Dacia",dacia,siDacia,#646B52
+"DAF",daf,siDaf,#00529B
+"daily.dev",dailydotdev,siDailydotdev,#CE3DF3
+"Dailymotion",dailymotion,siDailymotion,#0A0A0A
+"daisyUI",daisyui,siDaisyui,#FFC63A
+"Dapr",dapr,siDapr,#0D2192
+"Dark Reader",darkreader,siDarkreader,#141E24
+"Dart",dart,siDart,#0175C2
+"Darty",darty,siDarty,#EB1B23
+"Das Erste",daserste,siDaserste,#001A4B
+"Dash",dash,siDash,#008DE4
+"Dash0",dash0,siDash0,#EA3D3B
+"Dashlane",dashlane,siDashlane,#0E353D
+"Dask",dask,siDask,#FC6E6B
+"Dassault Systèmes",dassaultsystemes,siDassaultsystemes,#005386
+"data.ai",datadotai,siDatadotai,#000000
+"Databricks",databricks,siDatabricks,#FF3621
+"DataCamp",datacamp,siDatacamp,#03EF62
+"Datadog",datadog,siDatadog,#632CA6
+"DataGrip",datagrip,siDatagrip,#000000
+"Dataiku",dataiku,siDataiku,#2AB1AC
+"DataStax",datastax,siDatastax,#000000
+"date-fns",datefns,siDatefns,#770C56
+"DATEV",datev,siDatev,#9BD547
+"DatoCMS",datocms,siDatocms,#FF7751
+"Datto",datto,siDatto,#199ED9
+"DaVinci Resolve",davinciresolve,siDavinciresolve,#233A51
+"Dazhong Dianping",dazhongdianping,siDazhongdianping,#FF6633
+"DAZN",dazn,siDazn,#F8F8F5
+"DBeaver",dbeaver,siDbeaver,#382923
+"dblp",dblp,siDblp,#004F9F
+"DC Entertainment",dcentertainment,siDcentertainment,#0078F0
+"De'Longhi",delonghi,siDelonghi,#072240
+"Debian",debian,siDebian,#A81D33
+"Debrid-Link",debridlink,siDebridlink,#264E70
+"Decap CMS",decapcms,siDecapcms,#FF0082
+"Decentraland",decentraland,siDecentraland,#FF2D55
+"DeepCool",deepcool,siDeepcool,#068584
+"Deepgram",deepgram,siDeepgram,#13EF93
+"deepin",deepin,siDeepin,#007CFF
+"DeepL",deepl,siDeepl,#0F2B46
+"DeepMind",deepmind,siDeepmind,#4285F4
+"Deepnote",deepnote,siDeepnote,#3793EF
+"DeepSeek",deepseek,siDeepseek,#5786FE
+"Deezer",deezer,siDeezer,#A238FF
+"Deliveroo",deliveroo,siDeliveroo,#00CCBC
+"Dell",dell,siDell,#007DB8
+"Delphi",delphi,siDelphi,#E62431
+"Delta",delta,siDelta,#003366
+"Deluge",deluge,siDeluge,#094491
+"Deno",deno,siDeno,#000000
+"Deno Deploy",denodeploy,siDenodeploy,#002633
+"Denon",denon,siDenon,#0B131A
+"Dependabot",dependabot,siDependabot,#025E8C
+"Depositphotos",depositphotos,siDepositphotos,#000000
+"Der Spiegel",derspiegel,siDerspiegel,#E64415
+"Deutsche Bahn",deutschebahn,siDeutschebahn,#F01414
+"Deutsche Bank",deutschebank,siDeutschebank,#0018A8
+"Deutsche Post",deutschepost,siDeutschepost,#FFCC00
+"Deutsche Telekom",deutschetelekom,siDeutschetelekom,#E20074
+"Deutsche Welle",deutschewelle,siDeutschewelle,#05B2FC
+"dev.to",devdotto,siDevdotto,#0A0A0A
+"Devbox",devbox,siDevbox,#280459
+"Development Containers",developmentcontainers,siDevelopmentcontainers,#2753E3
+"DevExpress",devexpress,siDevexpress,#FF7200
+"DeviantArt",deviantart,siDeviantart,#05CC47
+"Devpost",devpost,siDevpost,#003E54
+"devRant",devrant,siDevrant,#F99A66
+"Devuan",devuan,siDevuan,#004489
+"Dgraph",dgraph,siDgraph,#E50695
+"DHL",dhl,siDhl,#FFCC00
+"diagrams.net",diagramsdotnet,siDiagramsdotnet,#F08705
+"Dialogflow",dialogflow,siDialogflow,#FF9800
+"Diaspora",diaspora,siDiaspora,#000000
+"DiceBear",dicebear,siDicebear,#0284C7
+"Dictionary.com",dictionarydotcom,siDictionarydotcom,#0049D7
+"Dify",dify,siDify,#0033FF
+"Digg",digg,siDigg,#000000
+"Digi-Key Electronics",digikeyelectronics,siDigikeyelectronics,#CC0000
+"DigitalOcean",digitalocean,siDigitalocean,#0080FF
+"Diners Club",dinersclub,siDinersclub,#004C97
+"Dior",dior,siDior,#000000
+"Directus",directus,siDirectus,#263238
+"Discogs",discogs,siDiscogs,#333333
+"Discord",discord,siDiscord,#5865F2
+"discord.js",discorddotjs,siDiscorddotjs,#5865F2
+"Discourse",discourse,siDiscourse,#000000
+"Discover",discover,siDiscover,#FF6000
+"Disqus",disqus,siDisqus,#2E9FFF
+"Disroot",disroot,siDisroot,#50162D
+"Distrobox",distrobox,siDistrobox,#4F433C
+"Distrokid",distrokid,siDistrokid,#231F20
+"Django",django,siDjango,#092E20
+"DJI",dji,siDji,#000000
+"Dlib",dlib,siDlib,#008000
+"DLNA",dlna,siDlna,#48A842
+"dlthub",dlthub,siDlthub,#59C1D5
+"dm",dm,siDm,#002878
+"DMM",dmm,siDmm,#000000
+"Docker",docker,siDocker,#2496ED
+"Docs.rs",docsdotrs,siDocsdotrs,#000000
+"Docsify",docsify,siDocsify,#2ECE53
+"Doctrine",doctrine,siDoctrine,#FC6A31
+"Docusaurus",docusaurus,siDocusaurus,#3ECC5F
+"Dodo Payments",dodopayments,siDodopayments,#C6FE1E
+"Dogecoin",dogecoin,siDogecoin,#C2A633
+"DOI",doi,siDoi,#FAB70C
+"Dolby",dolby,siDolby,#000000
+"Dolibarr",dolibarr,siDolibarr,#263C5C
+"Dolphin",dolphin,siDolphin,#00AAFF
+"DoorDash",doordash,siDoordash,#FF3008
+"Dota 2",dota2,siDota2,#BF2E1A
+"Douban",douban,siDouban,#2D963D
+"Douban Read",doubanread,siDoubanread,#24D2C8
+"Dovecot",dovecot,siDovecot,#54BCAB
+"Dovetail",dovetail,siDovetail,#190041
+"Downdetector",downdetector,siDowndetector,#FF160A
+"Doxygen",doxygen,siDoxygen,#2C4AA8
+"DPD",dpd,siDpd,#DC0032
+"Dragonframe",dragonframe,siDragonframe,#D4911E
+"Draugiem.lv",draugiemdotlv,siDraugiemdotlv,#FF6600
+"Dreamstime",dreamstime,siDreamstime,#50A901
+"Dribbble",dribbble,siDribbble,#EA4C89
+"Drizzle",drizzle,siDrizzle,#C5F74F
+"Drone",drone,siDrone,#212121
+"Drooble",drooble,siDrooble,#19C4BE
+"Dropbox",dropbox,siDropbox,#0061FF
+"Drupal",drupal,siDrupal,#0678BE
+"DS Automobiles",dsautomobiles,siDsautomobiles,#1D1717
+"DTS",dts,siDts,#F98B2B
+"DTube",dtube,siDtube,#F01A30
+"Ducati",ducati,siDucati,#CC0000
+"DuckDB",duckdb,siDuckdb,#FFF000
+"DuckDuckGo",duckduckgo,siDuckduckgo,#DE5833
+"Dungeons & Dragons",dungeonsanddragons,siDungeonsanddragons,#ED1C24
+"Dunked",dunked,siDunked,#2DA9D7
+"Dunzo",dunzo,siDunzo,#00D290
+"Duolingo",duolingo,siDuolingo,#58CC02
+"Duplicati",duplicati,siDuplicati,#1E3A8A
+"DVC",dvc,siDvc,#13ADC7
+"dwm",dwm,siDwm,#1177AA
+"Dynatrace",dynatrace,siDynatrace,#1496FF
+"E.Leclerc",edotleclerc,siEdotleclerc,#0066CC
+"E3",e3,siE3,#E73D2F
+"EA",ea,siEa,#000000
+"EAC",eac,siEac,#000000
+"Eagle",eagle,siEagle,#0072EF
+"EasyEDA",easyeda,siEasyeda,#1765F6
+"easyJet",easyjet,siEasyjet,#FF6600
+"eBay",ebay,siEbay,#E53238
+"EBOX",ebox,siEbox,#BE2323
+"Eclipse Adoptium",eclipseadoptium,siEclipseadoptium,#FF1464
+"Eclipse Che",eclipseche,siEclipseche,#525C86
+"Eclipse IDE",eclipseide,siEclipseide,#2C2255
+"Eclipse Jetty",eclipsejetty,siEclipsejetty,#FC390E
+"Eclipse Mosquitto",eclipsemosquitto,siEclipsemosquitto,#3C5280
+"Eclipse Vert.x",eclipsevertdotx,siEclipsevertdotx,#782A90
+"Ecosia",ecosia,siEcosia,#008009
+"Ecovacs",ecovacs,siEcovacs,#1E384B
+"EDEKA",edeka,siEdeka,#1B66B3
+"Edge Impulse",edgeimpulse,siEdgeimpulse,#3B47C2
+"EditorConfig",editorconfig,siEditorconfig,#FEFEFE
+"Educative",educative,siEducative,#4951F5
+"edX",edx,siEdx,#02262B
+"Effect",effect,siEffect,#FFFFFF
+"egghead",egghead,siEgghead,#FCFBFA
+"Egnyte",egnyte,siEgnyte,#00968F
+"Eight",eight,siEight,#0054FF
+"Eight Sleep",eightsleep,siEightsleep,#262729
+"EJS",ejs,siEjs,#B4CA65
+"Elastic",elastic,siElastic,#005571
+"Elastic Cloud",elasticcloud,siElasticcloud,#005571
+"Elastic Stack",elasticstack,siElasticstack,#005571
+"Elasticsearch",elasticsearch,siElasticsearch,#005571
+"Elavon",elavon,siElavon,#0C2074
+"Electron",electron,siElectron,#47848F
+"Electron Fiddle",electronfiddle,siElectronfiddle,#E79537
+"electron-builder",electronbuilder,siElectronbuilder,#000000
+"Elegoo",elegoo,siElegoo,#2C3A83
+"Element",element,siElement,#0DBD8B
+"elementary",elementary,siElementary,#64BAFF
+"Elementor",elementor,siElementor,#92003B
+"ElevenLabs",elevenlabs,siElevenlabs,#000000
+"Eleventy",eleventy,siEleventy,#222222
+"Elgato",elgato,siElgato,#101010
+"Elixir",elixir,siElixir,#4B275F
+"Elk",elk,siElk,#EA9E44
+"Elm",elm,siElm,#1293D8
+"Elsevier",elsevier,siElsevier,#FF6C00
+"Embarcadero",embarcadero,siEmbarcadero,#ED1F35
+"Embark",embark,siEmbark,#000000
+"Ember.js",emberdotjs,siEmberdotjs,#E04E39
+"Emby",emby,siEmby,#52B54B
+"Emirates",emirates,siEmirates,#D71921
+"Emlakjet",emlakjet,siEmlakjet,#0AE524
+"EndeavourOS",endeavouros,siEndeavouros,#7F7FFF
+"Enpass",enpass,siEnpass,#0D47A1
+"ENS",ens,siEns,#0080BC
+"Ente",ente,siEnte,#00BC45
+"EnterpriseDB",enterprisedb,siEnterprisedb,#FF3E00
+"Envato",envato,siEnvato,#87E64B
+"Envoy Proxy",envoyproxy,siEnvoyproxy,#AC6199
+"EPEL",epel,siEpel,#FC0000
+"Epic Games",epicgames,siEpicgames,#313131
+"Epson",epson,siEpson,#003399
+"Equinix Metal",equinixmetal,siEquinixmetal,#ED2224
+"Eraser",eraser,siEraser,#EC2C40
+"Ericsson",ericsson,siEricsson,#0082F0
+"Erlang",erlang,siErlang,#A90533
+"ERPNext",erpnext,siErpnext,#0089FF
+"esbuild",esbuild,siEsbuild,#FFCF00
+"ESEA",esea,siEsea,#0E9648
+"ESLGaming",eslgaming,siEslgaming,#FFFF09
+"ESLint",eslint,siEslint,#4B32C3
+"Esoteric Software",esotericsoftware,siEsotericsoftware,#3FA9F5
+"ESPHome",esphome,siEsphome,#18BCF2
+"Espressif",espressif,siEspressif,#E7352C
+"ESRI",esri,siEsri,#000000
+"etcd",etcd,siEtcd,#419EDA
+"Ethereum",ethereum,siEthereum,#3C3C3D
+"Ethers",ethers,siEthers,#2535A0
+"Ethiopian Airlines",ethiopianairlines,siEthiopianairlines,#648B1A
+"Etihad Airways",etihadairways,siEtihadairways,#BD8B13
+"Etsy",etsy,siEtsy,#F16521
+"European Union",europeanunion,siEuropeanunion,#003399
+"Event Store",eventstore,siEventstore,#5AB552
+"Evernote",evernote,siEvernote,#00A82D
+"Every.org",everydotorg,siEverydotorg,#2BD7B0
+"Excalidraw",excalidraw,siExcalidraw,#6965DB
+"Exercism",exercism,siExercism,#009CAB
+"Exordo",exordo,siExordo,#DAA449
+"Exoscale",exoscale,siExoscale,#DA291C
+"Expedia",expedia,siExpedia,#191E3B
+"Expensify",expensify,siExpensify,#0185FF
+"Experts Exchange",expertsexchange,siExpertsexchange,#00AAE7
+"Expo",expo,siExpo,#1C2024
+"Express",express,siExpress,#0A0A0A
+"Express.com",expressdotcom,siExpressdotcom,#000000
+"ExpressVPN",expressvpn,siExpressvpn,#DA3940
+"EyeEm",eyeem,siEyeem,#000000
+"F-Droid",fdroid,siFdroid,#1976D2
+"F#",fsharp,siFsharp,#378BBA
+"F1",f1,siF1,#E10600
+"F5",f5,siF5,#E4002B
+"Facebook",facebook,siFacebook,#0866FF
+"Facebook Gaming",facebookgaming,siFacebookgaming,#005FED
+"Facebook Live",facebooklive,siFacebooklive,#ED4242
+"FACEIT",faceit,siFaceit,#FF5500
+"Facepunch",facepunch,siFacepunch,#EC1C24
+"Fairphone",fairphone,siFairphone,#4495D1
+"Faker",faker,siFaker,#779B2E
+"Falco",falco,siFalco,#00AEC7
+"Falcon",falcon,siFalcon,#F0AD4E
+"FamPay",fampay,siFampay,#FFAD00
+"Fandango",fandango,siFandango,#FF7300
+"Fandom",fandom,siFandom,#FA005A
+"Fanfou",fanfou,siFanfou,#00CCFF
+"Fantom",fantom,siFantom,#0928FF
+"Farcaster",farcaster,siFarcaster,#855DCD
+"FareHarbor",fareharbor,siFareharbor,#0A6ECE
+"FARFETCH",farfetch,siFarfetch,#000000
+"FastAPI",fastapi,siFastapi,#009688
+"Fastify",fastify,siFastify,#000000
+"Fastlane",fastlane,siFastlane,#00F200
+"Fastly",fastly,siFastly,#FF282D
+"Fathom",fathom,siFathom,#9187FF
+"Fauna",fauna,siFauna,#3A1AB6
+"Favro",favro,siFavro,#512DA8
+"Fawry",fawry,siFawry,#FFD300
+"FCC",fcc,siFcc,#1C3664
+"FedEx",fedex,siFedex,#4D148C
+"Fedora",fedora,siFedora,#51A2DA
+"Feedly",feedly,siFeedly,#2BB24C
+"Ferrari",ferrari,siFerrari,#D40000
+"Ferrari N.V.",ferrarinv,siFerrarinv,#EB2E2C
+"FerretDB",ferretdb,siFerretdb,#042133
+"FFmpeg",ffmpeg,siFfmpeg,#007808
+"Fi",fi,siFi,#00B899
+"Fiat",fiat,siFiat,#941711
+"Fido Alliance",fidoalliance,siFidoalliance,#FFBF3B
+"FIFA",fifa,siFifa,#326295
+"Fig",fig,siFig,#000000
+"Figma",figma,siFigma,#F24E1E
+"figshare",figshare,siFigshare,#556472
+"Fila",fila,siFila,#002D62
+"Filament",filament,siFilament,#FDAE4B
+"File.io",filedotio,siFiledotio,#3D3C9D
+"Filen",filen,siFilen,#000000
+"Files",files,siFiles,#4285F4
+"FileZilla",filezilla,siFilezilla,#BF0000
+"Fillout",fillout,siFillout,#FFC738
+"Fineco",fineco,siFineco,#00549F
+"Fing",fing,siFing,#009AEE
+"Firebase",firebase,siFirebase,#DD2C00
+"Firefish",firefish,siFirefish,#F07A5B
+"Firefly III",fireflyiii,siFireflyiii,#CD5029
+"Firefox",firefox,siFirefox,#FF7139
+"Firefox Browser",firefoxbrowser,siFirefoxbrowser,#FF7139
+"Fireship",fireship,siFireship,#EB844E
+"Firewalla",firewalla,siFirewalla,#C8332D
+"FIRST",first,siFirst,#0066B3
+"Fish Audio",fishaudio,siFishaudio,#9B90E8
+"fish shell",fishshell,siFishshell,#34C534
+"Fitbit",fitbit,siFitbit,#00B0B9
+"FiveM",fivem,siFivem,#F40552
+"Fiverr",fiverr,siFiverr,#1DBF73
+"Fizz",fizz,siFizz,#00D672
+"Flashforge",flashforge,siFlashforge,#000000
+"Flask",flask,siFlask,#3BABC3
+"Flat",flat,siFlat,#3481FE
+"Flathub",flathub,siFlathub,#000000
+"Flatpak",flatpak,siFlatpak,#4A90D9
+"Flickr",flickr,siFlickr,#0063DC
+"Flightaware",flightaware,siFlightaware,#19315B
+"Flipboard",flipboard,siFlipboard,#E12828
+"Floatplane",floatplane,siFloatplane,#00AEEF
+"Flood",flood,siFlood,#4285F4
+"Floorp",floorp,siFloorp,#5309E8
+"Flower",flower,siFlower,#F2B705
+"Fluent Bit",fluentbit,siFluentbit,#49BDA5
+"Fluentd",fluentd,siFluentd,#0E83C8
+"Fluke",fluke,siFluke,#FFC20E
+"Flutter",flutter,siFlutter,#02569B
+"Flux",flux,siFlux,#5468FF
+"Fluxer",fluxer,siFluxer,#4641D9
+"Fly.io",flydotio,siFlydotio,#24175B
+"Flyway",flyway,siFlyway,#CC0200
+"FMOD",fmod,siFmod,#000000
+"Fnac",fnac,siFnac,#E1A925
+"Folium",folium,siFolium,#77B829
+"Folo",folo,siFolo,#FF5C00
+"Fonoma",fonoma,siFonoma,#02B78F
+"Font Awesome",fontawesome,siFontawesome,#538DD7
+"FontBase",fontbase,siFontbase,#3D03A7
+"FontForge",fontforge,siFontforge,#F2712B
+"foobar2000",foobar2000,siFoobar2000,#000000
+"foodpanda",foodpanda,siFoodpanda,#D70F64
+"Ford",ford,siFord,#00274E
+"Forgejo",forgejo,siForgejo,#FB923C
+"Formbricks",formbricks,siFormbricks,#00C4B8
+"Formik",formik,siFormik,#2563EB
+"Formspree",formspree,siFormspree,#E5122E
+"Formstack",formstack,siFormstack,#21B573
+"Fortinet",fortinet,siFortinet,#EE3124
+"Fortnite",fortnite,siFortnite,#000000
+"Fortran",fortran,siFortran,#734F96
+"Fossa",fossa,siFossa,#289E6D
+"Fossil SCM",fossilscm,siFossilscm,#548294
+"Foundry Virtual Tabletop",foundryvirtualtabletop,siFoundryvirtualtabletop,#FE6A1F
+"Foursquare",foursquare,siFoursquare,#3333FF
+"FOX",fox,siFox,#000000
+"Foxtel",foxtel,siFoxtel,#EB5205
+"Fozzy",fozzy,siFozzy,#F15B29
+"Framer",framer,siFramer,#0055FF
+"Framework",framework,siFramework,#000000
+"Framework7",framework7,siFramework7,#EE350F
+"Franprix",franprix,siFranprix,#EC6237
+"Frappe",frappe,siFrappe,#0089FF
+"Fraunhofer-Gesellschaft",fraunhofergesellschaft,siFraunhofergesellschaft,#179C7D
+"FreeBSD",freebsd,siFreebsd,#AB2B28
+"FreeCAD",freecad,siFreecad,#418FDE
+"freeCodeCamp",freecodecamp,siFreecodecamp,#0A0A23
+"freedesktop.org",freedesktopdotorg,siFreedesktopdotorg,#3B80AE
+"Freelancer",freelancer,siFreelancer,#29B2FE
+"freelancermap",freelancermap,siFreelancermap,#00CFD6
+"FreeNAS",freenas,siFreenas,#343434
+"freenet",freenet,siFreenet,#84BC34
+"Freepik",freepik,siFreepik,#1273EB
+"FreeTube",freetube,siFreetube,#F04242
+"Fresh",fresh,siFresh,#FFDB1E
+"FreshRSS",freshrss,siFreshrss,#0062BE
+"Frigate",frigate,siFrigate,#000000
+"FRITZ!",fritz,siFritz,#E2001A
+"Frontend Mentor",frontendmentor,siFrontendmentor,#3F54A3
+"Frontify",frontify,siFrontify,#2D3232
+"Fubo",fubo,siFubo,#C83D1E
+"Fueler",fueler,siFueler,#09C9E3
+"Fuga Cloud",fugacloud,siFugacloud,#242F4B
+"Fujifilm",fujifilm,siFujifilm,#FB0020
+"Fujitsu",fujitsu,siFujitsu,#FF0000
+"Fur Affinity",furaffinity,siFuraffinity,#36566F
+"Furry Network",furrynetwork,siFurrynetwork,#2E75B4
+"FusionAuth",fusionauth,siFusionauth,#F58320
+"FutureLearn",futurelearn,siFuturelearn,#DE00A5
+"Fyle",fyle,siFyle,#FF2E63
+"G2",g2,siG2,#FF492C
+"G2A",g2a,siG2a,#F05F00
+"G2G",g2g,siG2g,#ED1C24
+"Galaxus",galaxus,siGalaxus,#000000
+"Game Developer",gamedeveloper,siGamedeveloper,#E60012
+"Game Jolt",gamejolt,siGamejolt,#CCFF00
+"Game Science",gamescience,siGamescience,#000000
+"GameBanana",gamebanana,siGamebanana,#FCEF40
+"Gameloft",gameloft,siGameloft,#000000
+"Gamemaker",gamemaker,siGamemaker,#000000
+"Gandi",gandi,siGandi,#6640FE
+"Garmin",garmin,siGarmin,#000000
+"Garuda Linux",garudalinux,siGarudalinux,#8839EF
+"Gatling",gatling,siGatling,#FF9E2A
+"Gatsby",gatsby,siGatsby,#663399
+"Gcore",gcore,siGcore,#FF4C00
+"GDAL",gdal,siGdal,#5CAE58
+"GeeksforGeeks",geeksforgeeks,siGeeksforgeeks,#2F8D46
+"General Electric",generalelectric,siGeneralelectric,#0870D8
+"General Motors",generalmotors,siGeneralmotors,#0170CE
+"Genius",genius,siGenius,#FFFF64
+"Gentoo",gentoo,siGentoo,#54487A
+"Geocaching",geocaching,siGeocaching,#00874D
+"Geode",geode,siGeode,#8D7ACF
+"GeoPandas",geopandas,siGeopandas,#139C5A
+"Gerrit",gerrit,siGerrit,#EEEEEE
+"GetX",getx,siGetx,#8A2BE2
+"Ghost",ghost,siGhost,#15171A
+"Ghostery",ghostery,siGhostery,#00AEF0
+"Ghostfolio",ghostfolio,siGhostfolio,#36CFCC
+"Ghostty",ghostty,siGhostty,#3551F3
+"GIMP",gimp,siGimp,#8C8073
+"Gin",gin,siGin,#008ECF
+"GIPHY",giphy,siGiphy,#FF6666
+"Git",git,siGit,#F03C2E
+"Git Extensions",gitextensions,siGitextensions,#212121
+"Git for Windows",gitforwindows,siGitforwindows,#80B3FF
+"Git LFS",gitlfs,siGitlfs,#F64935
+"GitBook",gitbook,siGitbook,#BBDDE5
+"GitCode",gitcode,siGitcode,#DA203E
+"Gitconnected",gitconnected,siGitconnected,#2E69AE
+"Gitea",gitea,siGitea,#609926
+"Gitee",gitee,siGitee,#C71D23
+"GitHub",github,siGithub,#181717
+"GitHub Actions",githubactions,siGithubactions,#2088FF
+"GitHub Copilot",githubcopilot,siGithubcopilot,#000000
+"GitHub Pages",githubpages,siGithubpages,#222222
+"GitHub Sponsors",githubsponsors,siGithubsponsors,#EA4AAA
+"gitignore.io",gitignoredotio,siGitignoredotio,#204ECF
+"GitKraken",gitkraken,siGitkraken,#179287
+"GitLab",gitlab,siGitlab,#FC6D26
+"Gitpod",gitpod,siGitpod,#FFAE33
+"Gitter",gitter,siGitter,#ED1965
+"GL.iNet",gldotinet,siGldotinet,#636363
+"Glance",glance,siGlance,#D9C38C
+"Glass",glass,siGlass,#FFCC00
+"Glassdoor",glassdoor,siGlassdoor,#00A162
+"Gleam",gleam,siGleam,#FFAFF3
+"Glide",glide,siGlide,#18BED4
+"Glitch",glitch,siGlitch,#3333FF
+"Globus",globus,siGlobus,#CA6201
+"Glovo",glovo,siGlovo,#F2CC38
+"glTF",gltf,siGltf,#87C540
+"Gmail",gmail,siGmail,#EA4335
+"GMX",gmx,siGmx,#1C449B
+"GNOME",gnome,siGnome,#4A86CF
+"GNOME Terminal",gnometerminal,siGnometerminal,#241F31
+"GNU",gnu,siGnu,#A42E2B
+"GNU Bash",gnubash,siGnubash,#4EAA25
+"GNU Emacs",gnuemacs,siGnuemacs,#7F5AB6
+"GNU IceCat",gnuicecat,siGnuicecat,#002F5B
+"GNU Privacy Guard",gnuprivacyguard,siGnuprivacyguard,#0093DD
+"GNU social",gnusocial,siGnusocial,#A22430
+"Go",go,siGo,#00ADD8
+"GoCD",gocd,siGocd,#94399E
+"GoDaddy",godaddy,siGodaddy,#1BDBDB
+"Godot Engine",godotengine,siGodotengine,#478CBF
+"Godox",godox,siGodox,#FF6600
+"GoFundMe",gofundme,siGofundme,#00B964
+"GOG.com",gogdotcom,siGogdotcom,#86328A
+"Gojek",gojek,siGojek,#00AA13
+"GoLand",goland,siGoland,#000000
+"Goldman Sachs",goldmansachs,siGoldmansachs,#7399C6
+"Goodreads",goodreads,siGoodreads,#1E1914
+"Google",google,siGoogle,#4285F4
+"Google AdMob",googleadmob,siGoogleadmob,#EA4335
+"Google Ads",googleads,siGoogleads,#4285F4
+"Google AdSense",googleadsense,siGoogleadsense,#4285F4
+"Google Analytics",googleanalytics,siGoogleanalytics,#E37400
+"Google Apps Script",googleappsscript,siGoogleappsscript,#4285F4
+"Google Assistant",googleassistant,siGoogleassistant,#4285F4
+"Google Authenticator",googleauthenticator,siGoogleauthenticator,#4285F4
+"Google BigQuery",googlebigquery,siGooglebigquery,#669DF6
+"Google Bigtable",googlebigtable,siGooglebigtable,#669DF6
+"Google Calendar",googlecalendar,siGooglecalendar,#4285F4
+"Google Campaign Manager 360",googlecampaignmanager360,siGooglecampaignmanager360,#1E8E3E
+"Google Cardboard",googlecardboard,siGooglecardboard,#FF7143
+"Google Cast",googlecast,siGooglecast,#4285F4
+"Google Chat",googlechat,siGooglechat,#34A853
+"Google Chrome",googlechrome,siGooglechrome,#4285F4
+"Google Chronicle",googlechronicle,siGooglechronicle,#4285F4
+"Google Classroom",googleclassroom,siGoogleclassroom,#0F9D58
+"Google Cloud",googlecloud,siGooglecloud,#4285F4
+"Google Cloud Composer",googlecloudcomposer,siGooglecloudcomposer,#4285F4
+"Google Cloud Spanner",googlecloudspanner,siGooglecloudspanner,#4285F4
+"Google Cloud Storage",googlecloudstorage,siGooglecloudstorage,#AECBFA
+"Google Colab",googlecolab,siGooglecolab,#F9AB00
+"Google Container Optimized OS",googlecontaineroptimizedos,siGooglecontaineroptimizedos,#4285F4
+"Google Dataflow",googledataflow,siGoogledataflow,#AECBFA
+"Google Dataproc",googledataproc,siGoogledataproc,#AECBFA
+"Google Display & Video 360",googledisplayandvideo360,siGoogledisplayandvideo360,#34A853
+"Google Docs",googledocs,siGoogledocs,#4285F4
+"Google Drive",googledrive,siGoogledrive,#4285F4
+"Google Earth",googleearth,siGoogleearth,#4285F4
+"Google Earth Engine",googleearthengine,siGoogleearthengine,#4285F4
+"Google Fonts",googlefonts,siGooglefonts,#4285F4
+"Google Forms",googleforms,siGoogleforms,#7248B9
+"Google Gemini",googlegemini,siGooglegemini,#8E75B2
+"Google Home",googlehome,siGooglehome,#4285F4
+"Google Jules",googlejules,siGooglejules,#715CD7
+"Google Keep",googlekeep,siGooglekeep,#FFBB00
+"Google Lens",googlelens,siGooglelens,#4285F4
+"Google Maps",googlemaps,siGooglemaps,#4285F4
+"Google Marketing Platform",googlemarketingplatform,siGooglemarketingplatform,#4285F4
+"Google Meet",googlemeet,siGooglemeet,#00897B
+"Google Messages",googlemessages,siGooglemessages,#1A73E8
+"Google Nearby",googlenearby,siGooglenearby,#4285F4
+"Google News",googlenews,siGooglenews,#174EA6
+"Google Pay",googlepay,siGooglepay,#4285F4
+"Google Photos",googlephotos,siGooglephotos,#4285F4
+"Google Play",googleplay,siGoogleplay,#414141
+"Google Pub/Sub",googlepubsub,siGooglepubsub,#AECBFA
+"Google Scholar",googlescholar,siGooglescholar,#4285F4
+"Google Search Console",googlesearchconsole,siGooglesearchconsole,#458CF5
+"Google Sheets",googlesheets,siGooglesheets,#34A853
+"Google Slides",googleslides,siGoogleslides,#FBBC04
+"Google Street View",googlestreetview,siGooglestreetview,#FEC111
+"Google Summer of Code",googlesummerofcode,siGooglesummerofcode,#F9AB00
+"Google Tag Manager",googletagmanager,siGoogletagmanager,#246FDB
+"Google Tasks",googletasks,siGoogletasks,#2684FC
+"Google Translate",googletranslate,siGoogletranslate,#4285F4
+"Google TV",googletv,siGoogletv,#4285F4
+"GoToMeeting",gotomeeting,siGotomeeting,#F68D2E
+"GPLv3",gplv3,siGplv3,#BD0000
+"Grab",grab,siGrab,#00B14F
+"Gradio",gradio,siGradio,#F97316
+"Gradle",gradle,siGradle,#02303A
+"Gradle Play Publisher",gradleplaypublisher,siGradleplaypublisher,#82B816
+"Grafana",grafana,siGrafana,#F46800
+"Grammarly",grammarly,siGrammarly,#027E6F
+"Grand Frais",grandfrais,siGrandfrais,#ED2D2F
+"GrapheneOS",grapheneos,siGrapheneos,#0053A3
+"Graphite",graphite,siGraphite,#000000
+"Graphite",graphite_editor,siGraphite_editor,#473A3A
+"GraphQL",graphql,siGraphql,#E10098
+"Grav",grav,siGrav,#221E1F
+"Gravatar",gravatar,siGravatar,#1E8CBE
+"Graylog",graylog,siGraylog,#FF3633
+"Greasy Fork",greasyfork,siGreasyfork,#670000
+"Great Learning",greatlearning,siGreatlearning,#0E39A9
+"Greenhouse",greenhouse,siGreenhouse,#24A47F
+"GreenSock",greensock,siGreensock,#88CE02
+"GreptimeDB",greptimedb,siGreptimedb,#8322FF
+"Grid.ai",griddotai,siGriddotai,#78FF96
+"Gridsome",gridsome,siGridsome,#00A672
+"Grocy",grocy,siGrocy,#337AB7
+"GroupMe",groupme,siGroupme,#00AFF0
+"Groupon",groupon,siGroupon,#53A318
+"Grunt",grunt,siGrunt,#FAA918
+"GSAP",gsap,siGsap,#0AE448
+"GSK",gsk,siGsk,#F36633
+"GSMA",gsma,siGsma,#DC002B
+"GSMArena.com",gsmarenadotcom,siGsmarenadotcom,#D50000
+"GStreamer",gstreamer,siGstreamer,#FF3131
+"GTK",gtk,siGtk,#7FE719
+"Guangzhou Metro",guangzhoumetro,siGuangzhoumetro,#C51935
+"Guilded",guilded,siGuilded,#F5C400
+"Guitar Pro",guitarpro,siGuitarpro,#569FFF
+"gulp",gulp,siGulp,#CF4647
+"Gumroad",gumroad,siGumroad,#FF90E8
+"Gumtree",gumtree,siGumtree,#72EF36
+"Gunicorn",gunicorn,siGunicorn,#499848
+"Gurobi",gurobi,siGurobi,#EE3524
+"Gusto",gusto,siGusto,#F45D48
+"Gutenberg",gutenberg,siGutenberg,#000000
+"H&M",handm,siHandm,#E50010
+"H2 Database",h2database,siH2database,#09476B
+"H3",h3,siH3,#1E54B7
+"Habr",habr,siHabr,#65A3BE
+"Hack Club",hackclub,siHackclub,#EC3750
+"Hack The Box",hackthebox,siHackthebox,#9FEF00
+"Hackaday",hackaday,siHackaday,#1A1A1A
+"Hacker Noon",hackernoon,siHackernoon,#00FE00
+"HackerEarth",hackerearth,siHackerearth,#2C3454
+"HackerOne",hackerone,siHackerone,#494649
+"HackerRank",hackerrank,siHackerrank,#00EA64
+"HackMD",hackmd,siHackmd,#453AFF
+"Hackster",hackster,siHackster,#2E9FE6
+"HAL",hal,siHal,#B03532
+"Handlebars.js",handlebarsdotjs,siHandlebarsdotjs,#000000
+"Handshake",handshake,siHandshake,#D3FB52
+"Handshake",handshake_protocol,siHandshake_protocol,#000000
+"HappyCow",happycow,siHappycow,#7C4EC4
+"Harbor",harbor,siHarbor,#60B932
+"HarmonyOS",harmonyos,siHarmonyos,#000000
+"Hashcat",hashcat,siHashcat,#FFFFFF
+"HashiCorp",hashicorp,siHashicorp,#000000
+"Hashnode",hashnode,siHashnode,#2962FF
+"Haskell",haskell,siHaskell,#5D4F85
+"Hasura",hasura,siHasura,#1EB4D4
+"Hatena Bookmark",hatenabookmark,siHatenabookmark,#00A4DE
+"Have I Been Pwned",haveibeenpwned,siHaveibeenpwned,#030304
+"Havells",havells,siHavells,#ED1C24
+"Haxe",haxe,siHaxe,#EA8220
+"Haystack",haystack,siHaystack,#0EAF9C
+"HBO",hbo,siHbo,#000000
+"HBO Max",hbomax,siHbomax,#000000
+"HCL",hcl,siHcl,#006BB6
+"HDFC Bank",hdfcbank,siHdfcbank,#004B8D
+"Headless UI",headlessui,siHeadlessui,#66E3FF
+"Headphone Zone",headphonezone,siHeadphonezone,#3C07FF
+"Headspace",headspace,siHeadspace,#F47D31
+"Hearth",hearth,siHearth,#A33035
+"hearthis.at",hearthisdotat,siHearthisdotat,#000000
+"Hedera",hedera,siHedera,#222222
+"HedgeDoc",hedgedoc,siHedgedoc,#B51F08
+"Helium",helium,siHelium,#0ACF83
+"Helium Browser",heliumbrowser,siHeliumbrowser,#3450D1
+"Helix",helix,siHelix,#281733
+"HelloFresh",hellofresh,siHellofresh,#99CC33
+"Helly Hansen",hellyhansen,siHellyhansen,#DA2128
+"Helm",helm,siHelm,#0F1689
+"Help Scout",helpscout,siHelpscout,#1292EE
+"HelpDesk",helpdesk,siHelpdesk,#2FC774
+"Hepsiemlak",hepsiemlak,siHepsiemlak,#E1251B
+"HERE",here,siHere,#00AFAA
+"Hermes",hermes,siHermes,#0091CD
+"Heroic Games Launcher",heroicgameslauncher,siHeroicgameslauncher,#4B93FF
+"HeroUI",heroui,siHeroui,#000000
+"Hetzner",hetzner,siHetzner,#D50C2D
+"Hevy",hevy,siHevy,#000000
+"Hexlet",hexlet,siHexlet,#116EF5
+"Hexo",hexo,siHexo,#0E83CD
+"HEY",hey,siHey,#5522FA
+"Hi Bob",hibob,siHibob,#E42C51
+"Hibernate",hibernate,siHibernate,#59666C
+"Hilton",hilton,siHilton,#231F20
+"Hilton Hotels & Resorts",hiltonhotelsandresorts,siHiltonhotelsandresorts,#1E4380
+"Hitachi",hitachi,siHitachi,#E60027
+"Hive",hive,siHive,#FF7A00
+"Hive",hive_blockchain,siHive_blockchain,#E31337
+"HiveMQ",hivemq,siHivemq,#FFC000
+"Homarr",homarr,siHomarr,#FA5252
+"Home Assistant",homeassistant,siHomeassistant,#18BCF2
+"Home Assistant Community Store",homeassistantcommunitystore,siHomeassistantcommunitystore,#41BDF5
+"HomeAdvisor",homeadvisor,siHomeadvisor,#F68315
+"Homebrew",homebrew,siHomebrew,#FBB040
+"Homebridge",homebridge,siHomebridge,#491F59
+"Homepage",homepage,siHomepage,#009BD5
+"homify",homify,siHomify,#7DCDA3
+"Honda",honda,siHonda,#E40521
+"Honey",honey,siHoney,#FF6801
+"Honeybadger",honeybadger,siHoneybadger,#EA5937
+"Honeygain",honeygain,siHoneygain,#F9C900
+"Hono",hono,siHono,#E36002
+"Honor",honor,siHonor,#000000
+"Hootsuite",hootsuite,siHootsuite,#FF4C46
+"Hoppscotch",hoppscotch,siHoppscotch,#09090B
+"Hostinger",hostinger,siHostinger,#673DE6
+"Hotels.com",hotelsdotcom,siHotelsdotcom,#EF3346
+"Hotjar",hotjar,siHotjar,#FF3C00
+"Hotwire",hotwire,siHotwire,#FFE801
+"Houdini",houdini,siHoudini,#FF4713
+"Houzz",houzz,siHouzz,#4DBC15
+"HP",hp,siHp,#0096D6
+"HSBC",hsbc,siHsbc,#DB0011
+"HTC",htc,siHtc,#A5CF4C
+"HTC Vive",htcvive,siHtcvive,#00B2E3
+"HTML Academy",htmlacademy,siHtmlacademy,#302683
+"HTML5",html5,siHtml5,#E34F26
+"htmx",htmx,siHtmx,#3366CC
+"htop",htop,siHtop,#009020
+"HTTPie",httpie,siHttpie,#73DC8C
+"Huawei",huawei,siHuawei,#FF0000
+"HubSpot",hubspot,siHubspot,#FF7A59
+"Hugging Face",huggingface,siHuggingface,#FFD21E
+"Hugo",hugo,siHugo,#FF4088
+"Humble Bundle",humblebundle,siHumblebundle,#CC2929
+"HumHub",humhub,siHumhub,#1B8291
+"Hungry Jack's",hungryjacks,siHungryjacks,#D0021B
+"Husqvarna",husqvarna,siHusqvarna,#273A60
+"Hyper",hyper,siHyper,#000000
+"Hyperskill",hyperskill,siHyperskill,#8C5AFF
+"HyperX",hyperx,siHyperx,#E21836
+"Hypothesis",hypothesis,siHypothesis,#BD1C2B
+"Hyprland",hyprland,siHyprland,#58E1FF
+"Hyundai",hyundai,siHyundai,#002C5E
+"i18next",i18next,siI18next,#26A69A
+"i3",i3,siI3,#52C0FF
+"IATA",iata,siIata,#004E81
+"iBeacon",ibeacon,siIbeacon,#3D7EBB
+"Iberia",iberia,siIberia,#D7192D
+"Iced",iced,siIced,#3645FF
+"Iceland",iceland,siIceland,#CC092F
+"ICICI Bank",icicibank,siIcicibank,#AE282E
+"Icinga",icinga,siIcinga,#06062C
+"iCloud",icloud,siIcloud,#3693F3
+"IcoMoon",icomoon,siIcomoon,#825794
+"ICON",icon,siIcon,#31B8BB
+"Iconfinder",iconfinder,siIconfinder,#1A1B1F
+"Iconify",iconify,siIconify,#026C9C
+"IconJar",iconjar,siIconjar,#16A5F3
+"Icons8",icons8,siIcons8,#1FB141
+"ICQ",icq,siIcq,#24FF00
+"IEEE",ieee,siIeee,#00629B
+"iFixit",ifixit,siIfixit,#0071CE
+"iFood",ifood,siIfood,#EA1D2C
+"IFTTT",ifttt,siIfttt,#000000
+"IGDB",igdb,siIgdb,#9147FF
+"IGN",ign,siIgn,#BF1313
+"iHeartRadio",iheartradio,siIheartradio,#C6002B
+"IKEA",ikea,siIkea,#0058A3
+"Île-de-France Mobilités",iledefrancemobilites,siIledefrancemobilites,#67B4E7
+"iLovePDF",ilovepdf,siIlovepdf,#E5322D
+"Image Toolbox",imagetoolbox,siImagetoolbox,#60EA78
+"Image.sc",imagedotsc,siImagedotsc,#039CB2
+"ImageJ",imagej,siImagej,#00D8E0
+"IMDb",imdb,siImdb,#F5C518
+"iMessage",imessage,siImessage,#34DA50
+"Imgur",imgur,siImgur,#1BB76E
+"Immer",immer,siImmer,#00E7C3
+"Immersive Translate",immersivetranslate,siImmersivetranslate,#EA4C89
+"Immich",immich,siImmich,#4250AF
+"Imou",imou,siImou,#E89313
+"ImprovMX",improvmx,siImprovmx,#2FBEFF
+"Indeed",indeed,siIndeed,#003A9B
+"Indian Super League",indiansuperleague,siIndiansuperleague,#ED2F21
+"Indie Hackers",indiehackers,siIndiehackers,#0E2439
+"IndieWeb",indieweb,siIndieweb,#FF0000
+"IndiGo",indigo,siIndigo,#09009B
+"Inductive Automation",inductiveautomation,siInductiveautomation,#445C6D
+"Inertia",inertia,siInertia,#9553E9
+"INFINITI",infiniti,siInfiniti,#020B24
+"InfinityFree",infinityfree,siInfinityfree,#7738C8
+"InfluxDB",influxdb,siInfluxdb,#22ADF6
+"Infomaniak",infomaniak,siInfomaniak,#0098FF
+"InfoQ",infoq,siInfoq,#2C6CAF
+"Infosys",infosys,siInfosys,#007CC3
+"Infracost",infracost,siInfracost,#DB44B8
+"Infuse",infuse,siInfuse,#FF8000
+"Ingress",ingress,siIngress,#783CBD
+"Inkdrop",inkdrop,siInkdrop,#7A78D7
+"Inkscape",inkscape,siInkscape,#000000
+"Inoreader",inoreader,siInoreader,#1875F3
+"Inquirer",inquirer,siInquirer,#F0DB4F
+"Insomnia",insomnia,siInsomnia,#4000BF
+"INSPIRE",inspire,siInspire,#00E5FF
+"Insta360",insta360,siInsta360,#FFEE00
+"Instacart",instacart,siInstacart,#43B02A
+"Instagram",instagram,siInstagram,#FF0069
+"Instapaper",instapaper,siInstapaper,#1F1F1F
+"Instatus",instatus,siInstatus,#4EE3C2
+"Instructables",instructables,siInstructables,#FABF15
+"Instructure",instructure,siInstructure,#2A7BA0
+"Intel",intel,siIntel,#0071C5
+"IntelliJ IDEA",intellijidea,siIntellijidea,#000000
+"Interaction Design Foundation",interactiondesignfoundation,siInteractiondesignfoundation,#2B2B2B
+"InteractJS",interactjs,siInteractjs,#2599ED
+"Interbase",interbase,siInterbase,#E62431
+"Intercom",intercom,siIntercom,#6AFDEF
+"Intermarche",intermarche,siIntermarche,#E2001A
+"Internet Archive",internetarchive,siInternetarchive,#666666
+"Internet Computer",internetcomputer,siInternetcomputer,#3B00B9
+"Intigriti",intigriti,siIntigriti,#161A36
+"Intuit",intuit,siIntuit,#236CFF
+"Invidious",invidious,siInvidious,#00B6F0
+"Invoice Ninja",invoiceninja,siInvoiceninja,#000000
+"ioBroker",iobroker,siIobroker,#3399CC
+"Ionic",ionic,siIonic,#3880FF
+"Ionos",ionos,siIonos,#003D8F
+"iOS",ios,siIos,#000000
+"IOTA",iota,siIota,#131F37
+"IPFS",ipfs,siIpfs,#65C2CB
+"IRIS",iris,siIris,#25313C
+"iRobot",irobot,siIrobot,#6CB86A
+"ISC2",isc2,siIsc2,#468145
+"ISRO",isro,siIsro,#F58220
+"Issuu",issuu,siIssuu,#F36D5D
+"Istio",istio,siIstio,#466BB0
+"Itch.io",itchdotio,siItchdotio,#FA5C5C
+"iTerm2",iterm2,siIterm2,#000000
+"iTunes",itunes,siItunes,#FB5BC5
+"ITVx",itvx,siItvx,#DEEB52
+"IVECO",iveco,siIveco,#1554FF
+"Jabber",jabber,siJabber,#CC0000
+"Jaeger",jaeger,siJaeger,#66CFE3
+"Jameson",jameson,siJameson,#004027
+"Jamstack",jamstack,siJamstack,#F0047F
+"Japan Airlines",japanairlines,siJapanairlines,#C00000
+"Jasmine",jasmine,siJasmine,#8A4182
+"JavaScript",javascript,siJavascript,#F7DF1E
+"JBL",jbl,siJbl,#FF3300
+"JCB",jcb,siJcb,#0B4EA2
+"JDoodle",jdoodle,siJdoodle,#FD5200
+"Jeep",jeep,siJeep,#000000
+"Jekyll",jekyll,siJekyll,#CC0000
+"Jellyfin",jellyfin,siJellyfin,#00A4DC
+"Jenkins",jenkins,siJenkins,#D24939
+"Jest",jest,siJest,#C21325
+"JET",jet,siJet,#FBBA00
+"JetBlue",jetblue,siJetblue,#001E59
+"JetBrains",jetbrains,siJetbrains,#000000
+"Jetpack Compose",jetpackcompose,siJetpackcompose,#4285F4
+"JFrog",jfrog,siJfrog,#40BE46
+"JFrog Pipelines",jfrogpipelines,siJfrogpipelines,#40BE46
+"JHipster",jhipster,siJhipster,#3E8ACC
+"Jinja",jinja,siJinja,#7E0C1B
+"Jio",jio,siJio,#0A2885
+"Jira",jira,siJira,#0052CC
+"Jira Software",jirasoftware,siJirasoftware,#0052CC
+"JitPack",jitpack,siJitpack,#000000
+"Jitsi",jitsi,siJitsi,#97979A
+"John Deere",johndeere,siJohndeere,#367C2B
+"Joomla",joomla,siJoomla,#5091CD
+"Joplin",joplin,siJoplin,#1071D3
+"Jordan",jordan,siJordan,#000000
+"JOUAV",jouav,siJouav,#E1B133
+"Jovian",jovian,siJovian,#0D61FF
+"JPEG",jpeg,siJpeg,#8A8A8A
+"jQuery",jquery,siJquery,#0769AD
+"JR Group",jrgroup,siJrgroup,#44AF35
+"jsDelivr",jsdelivr,siJsdelivr,#E84D3D
+"JSFiddle",jsfiddle,siJsfiddle,#0084FF
+"JSON",json,siJson,#000000
+"JSON Web Tokens",jsonwebtokens,siJsonwebtokens,#000000
+"JSR",jsr,siJsr,#F7DF1E
+"JSS",jss,siJss,#F7DF1E
+"JUCE",juce,siJuce,#8DC63F
+"Juejin",juejin,siJuejin,#007FFF
+"JUKE",juke,siJuke,#6CD74A
+"Julia",julia,siJulia,#9558B2
+"Juniper Networks",junipernetworks,siJunipernetworks,#84B135
+"JUnit5",junit5,siJunit5,#25A162
+"Jupyter",jupyter,siJupyter,#F37626
+"Just",just,siJust,#000000
+"Just Eat",justeat,siJusteat,#FF8000
+"JustGiving",justgiving,siJustgiving,#AD29B6
+"K3s",k3s,siK3s,#FFC61C
+"k6",k6,siK6,#7D64FF
+"Kaggle",kaggle,siKaggle,#20BEFF
+"Kagi",kagi,siKagi,#FFB319
+"Kahoot!",kahoot,siKahoot,#46178F
+"KaiOS",kaios,siKaios,#6F02B5
+"Kakao",kakao,siKakao,#FFCD00
+"KakaoTalk",kakaotalk,siKakaotalk,#FFCD00
+"Kali Linux",kalilinux,siKalilinux,#557C94
+"Kamailio",kamailio,siKamailio,#506365
+"Kando",kando,siKando,#EACFCF
+"Kaniko",kaniko,siKaniko,#FFA600
+"Karakeep",karakeep,siKarakeep,#000000
+"Karlsruher Verkehrsverbund",karlsruherverkehrsverbund,siKarlsruherverkehrsverbund,#9B2321
+"Kasa Smart",kasasmart,siKasasmart,#4ACBD6
+"KashFlow",kashflow,siKashflow,#E5426E
+"Kaspersky",kaspersky,siKaspersky,#006D5C
+"Katana",katana,siKatana,#000000
+"Kaufland",kaufland,siKaufland,#E10915
+"KDE",kde,siKde,#1D99F3
+"KDE neon",kdeneon,siKdeneon,#3DC08D
+"KDE Plasma",kdeplasma,siKdeplasma,#1D99F3
+"Kdenlive",kdenlive,siKdenlive,#527EB2
+"Kedro",kedro,siKedro,#FFC900
+"Keenetic",keenetic,siKeenetic,#009EE2
+"Keep a Changelog",keepachangelog,siKeepachangelog,#E05735
+"KeePassXC",keepassxc,siKeepassxc,#6CAC4D
+"Keeper",keeper,siKeeper,#FFC700
+"KeeWeb",keeweb,siKeeweb,#528BFF
+"Kenmei",kenmei,siKenmei,#545C64
+"Kentico",kentico,siKentico,#F05A22
+"Keploy",keploy,siKeploy,#FF914D
+"Keras",keras,siKeras,#D00000
+"Keybase",keybase,siKeybase,#33A0FF
+"KeyCDN",keycdn,siKeycdn,#047AED
+"Keycloak",keycloak,siKeycloak,#4D4D4D
+"Keystone",keystone,siKeystone,#166BFF
+"KFC",kfc,siKfc,#F40027
+"Khan Academy",khanacademy,siKhanacademy,#14BF96
+"Khronos Group",khronosgroup,siKhronosgroup,#CC3333
+"Kia",kia,siKia,#05141F
+"Kibana",kibana,siKibana,#005571
+"KiCad",kicad,siKicad,#314CB0
+"Kick",kick,siKick,#53FC19
+"Kickstarter",kickstarter,siKickstarter,#05CE78
+"Kik",kik,siKik,#82BC23
+"Kimi",kimi,siKimi,#000000
+"Kingston Technology",kingstontechnology,siKingstontechnology,#000000
+"Kinopoisk",kinopoisk,siKinopoisk,#FF5500
+"Kinsta",kinsta,siKinsta,#5333ED
+"Kirby",kirby,siKirby,#000000
+"Kit",kit,siKit,#000000
+"Kitsu",kitsu,siKitsu,#FD755C
+"Kiwix",kiwix,siKiwix,#000000
+"Klarna",klarna,siKlarna,#FFB3C7
+"Kleinanzeigen",kleinanzeigen,siKleinanzeigen,#1D4B00
+"KLM",klm,siKlm,#00A1DE
+"Klook",klook,siKlook,#FF5722
+"Knative",knative,siKnative,#0865AD
+"Knex.js",knexdotjs,siKnexdotjs,#D26B38
+"KNIME",knime,siKnime,#FDD800
+"Knip",knip,siKnip,#F56E0F
+"KnowledgeBase",knowledgebase,siKnowledgebase,#9146FF
+"Known",known,siKnown,#333333
+"Ko-fi",kofi,siKofi,#FF6433
+"Koa",koa,siKoa,#33333D
+"Koc",koc,siKoc,#F9423A
+"Kodak",kodak,siKodak,#ED0000
+"Kodi",kodi,siKodi,#17B2E7
+"Kodular",kodular,siKodular,#4527A0
+"Koenigsegg",koenigsegg,siKoenigsegg,#000000
+"Kofax",kofax,siKofax,#00558C
+"Komoot",komoot,siKomoot,#6AA127
+"Konami",konami,siKonami,#B60014
+"Kong",kong,siKong,#003459
+"Kongregate",kongregate,siKongregate,#F04438
+"Konva",konva,siKonva,#0D83CD
+"KOReader",koreader,siKoreader,#00A89C
+"Kotlin",kotlin,siKotlin,#7F52FF
+"Koyeb",koyeb,siKoyeb,#121212
+"Kred",kred,siKred,#72BE50
+"Krita",krita,siKrita,#3BABFF
+"KTM",ktm,siKtm,#FF6600
+"Ktor",ktor,siKtor,#087CFA
+"Kuaishou",kuaishou,siKuaishou,#FF4906
+"Kubernetes",kubernetes,siKubernetes,#326CE5
+"Kubespray",kubespray,siKubespray,#3D647F
+"Kubuntu",kubuntu,siKubuntu,#0079C1
+"KuCoin",kucoin,siKucoin,#01BC8D
+"Kueski",kueski,siKueski,#0075FF
+"Kuma",kuma,siKuma,#290B53
+"Kununu",kununu,siKununu,#FFC62E
+"Kuula",kuula,siKuula,#4092B4
+"KX",kx,siKx,#101820
+"Kyocera",kyocera,siKyocera,#DF0522
+"L'Équipe",lequipe,siLequipe,#E42829
+"LabEx",labex,siLabex,#2E7EEE
+"LabVIEW",labview,siLabview,#FFDB00
+"LADA",lada,siLada,#ED6B21
+"Lamborghini",lamborghini,siLamborghini,#B6A272
+"LangChain",langchain,siLangchain,#7FC8FF
+"LangChain Corporate",langchaincorporate,siLangchaincorporate,#7FC8FF
+"Langflow",langflow,siLangflow,#000000
+"LangGraph",langgraph,siLanggraph,#7FC8FF
+"LanguageTool",languagetool,siLanguagetool,#45A1FC
+"Lapce",lapce,siLapce,#3B82F6
+"Laragon",laragon,siLaragon,#0E83CD
+"Laravel",laravel,siLaravel,#FF2D20
+"Laravel Horizon",laravelhorizon,siLaravelhorizon,#405263
+"Laravel Nova",laravelnova,siLaravelnova,#252D37
+"Last.fm",lastdotfm,siLastdotfm,#D51007
+"LastPass",lastpass,siLastpass,#D32D27
+"LaTeX",latex,siLatex,#008080
+"Launchpad",launchpad,siLaunchpad,#E95420
+"Lazarus",lazarus,siLazarus,#000000
+"LazyVim",lazyvim,siLazyvim,#2E7DE9
+"LBRY",lbry,siLbry,#2F9176
+"Leader Price",leaderprice,siLeaderprice,#E50005
+"Leaflet",leaflet,siLeaflet,#199900
+"League of Legends",leagueoflegends,siLeagueoflegends,#C28F2C
+"Leanpub",leanpub,siLeanpub,#262425
+"LeetCode",leetcode,siLeetcode,#FFA116
+"Lefthook",lefthook,siLefthook,#FF1E1E
+"Legacy Games",legacygames,siLegacygames,#144B9E
+"Leica",leica,siLeica,#E20612
+"Lemmy",lemmy,siLemmy,#000000
+"Lemon Squeezy",lemonsqueezy,siLemonsqueezy,#FFC233
+"Lenovo",lenovo,siLenovo,#E2231A
+"Lens",lens,siLens,#3D90CE
+"Leptos",leptos,siLeptos,#EF3939
+"Lerna",lerna,siLerna,#C084FC
+"Leroy Merlin",leroymerlin,siLeroymerlin,#78BE20
+"Les libraires",leslibraires,siLeslibraires,#CF4A0C
+"Less",less,siLess,#1D365D
+"Let's Encrypt",letsencrypt,siLetsencrypt,#003A70
+"Letterboxd",letterboxd,siLetterboxd,#202830
+"levels.fyi",levelsdotfyi,siLevelsdotfyi,#788B95
+"LG",lg,siLg,#A50034
+"Li-Ning",lining,siLining,#C5242C
+"Libera.Chat",liberadotchat,siLiberadotchat,#FF55DD
+"Liberapay",liberapay,siLiberapay,#F6C915
+"Libraries.io",librariesdotio,siLibrariesdotio,#337AB7
+"LibraryThing",librarything,siLibrarything,#251A15
+"LibreOffice",libreoffice,siLibreoffice,#18A303
+"LibreOffice Base",libreofficebase,siLibreofficebase,#7324A9
+"LibreOffice Calc",libreofficecalc,siLibreofficecalc,#007C3C
+"LibreOffice Draw",libreofficedraw,siLibreofficedraw,#CB6D30
+"LibreOffice Impress",libreofficeimpress,siLibreofficeimpress,#D0120D
+"LibreOffice Math",libreofficemath,siLibreofficemath,#C10018
+"LibreOffice Writer",libreofficewriter,siLibreofficewriter,#083FA6
+"LibreTranslate",libretranslate,siLibretranslate,#1565C0
+"LibreTube",libretube,siLibretube,#FF9699
+"LibreWolf",librewolf,siLibrewolf,#00ACFF
+"libuv",libuv,siLibuv,#403C3D
+"Lichess",lichess,siLichess,#000000
+"Lidl",lidl,siLidl,#0050AA
+"LIFX",lifx,siLifx,#000000
+"LightBurn",lightburn,siLightburn,#57182D
+"Lighthouse",lighthouse,siLighthouse,#F44B21
+"Lightning",lightning,siLightning,#792EE5
+"LimeSurvey",limesurvey,siLimesurvey,#14AE5C
+"LINE",line,siLine,#00C300
+"LineageOS",lineageos,siLineageos,#167C80
+"Linear",linear,siLinear,#5E6AD2
+"Linkerd",linkerd,siLinkerd,#2BEDA7
+"Linkfire",linkfire,siLinkfire,#FF3850
+"Linksys",linksys,siLinksys,#000000
+"Linktree",linktree,siLinktree,#43E55E
+"Linkvertise",linkvertise,siLinkvertise,#FF8114
+"Linphone",linphone,siLinphone,#FF5E00
+"LintCode",lintcode,siLintcode,#13B4FF
+"Linux",linux,siLinux,#FCC624
+"Linux Containers",linuxcontainers,siLinuxcontainers,#333333
+"Linux Foundation",linuxfoundation,siLinuxfoundation,#003778
+"Linux Mint",linuxmint,siLinuxmint,#86BE43
+"Linux Professional Institute",linuxprofessionalinstitute,siLinuxprofessionalinstitute,#FDC300
+"LinuxServer",linuxserver,siLinuxserver,#DA3B8A
+"Lion Air",lionair,siLionair,#ED3237
+"Liquibase",liquibase,siLiquibase,#2962FF
+"ListenHub",listenhub,siListenhub,#000000
+"listmonk",listmonk,siListmonk,#0055D4
+"Lit",lit,siLit,#324FFF
+"Litecoin",litecoin,siLitecoin,#A6A9AA
+"Literal",literal,siLiteral,#000000
+"LITIENGINE",litiengine,siLitiengine,#00A5BC
+"LiveChat",livechat,siLivechat,#FF5100
+"LiveJournal",livejournal,siLivejournal,#00B0EA
+"LiveKit",livekit,siLivekit,#FFFFFF
+"Livewire",livewire,siLivewire,#4E56A6
+"LLVM",llvm,siLlvm,#262D3A
+"LM Studio",lmstudio,siLmstudio,#000000
+"LMMS",lmms,siLmms,#10B146
+"Lobsters",lobsters,siLobsters,#AC130D
+"Local",local,siLocal,#51BB7B
+"LocalSend",localsend,siLocalsend,#008080
+"LocalXpose",localxpose,siLocalxpose,#6023C0
+"Locust",locust,siLocust,#B8EE4B
+"Lodash",lodash,siLodash,#3492FF
+"LogMeIn",logmein,siLogmein,#45B6F2
+"Logseq",logseq,siLogseq,#85C8C8
+"Logstash",logstash,siLogstash,#005571
+"Longhorn",longhorn,siLonghorn,#5F224B
+"Looker",looker,siLooker,#4285F4
+"Loom",loom,siLoom,#625DF5
+"Loop",loop,siLoop,#F29400
+"LoopBack",loopback,siLoopback,#3F5DFF
+"Loops",loops,siLoops,#FC5200
+"Loot Crate",lootcrate,siLootcrate,#1E1E1E
+"Lospec",lospec,siLospec,#EAEAEA
+"LOT Polish Airlines",lotpolishairlines,siLotpolishairlines,#11397E
+"LottieFiles",lottiefiles,siLottiefiles,#00DDB3
+"LTspice",ltspice,siLtspice,#900028
+"Lua",lua,siLua,#000080
+"Luanti",luanti,siLuanti,#53AC56
+"Luau",luau,siLuau,#00A2FF
+"Lubuntu",lubuntu,siLubuntu,#0068C8
+"Lucia",lucia,siLucia,#5F57FF
+"Lucid",lucid,siLucid,#282C33
+"Lucide",lucide,siLucide,#F56565
+"Ludwig",ludwig,siLudwig,#FFFFFF
+"Lufthansa",lufthansa,siLufthansa,#05164D
+"Lumen",lumen,siLumen,#E74430
+"Lunacy",lunacy,siLunacy,#179DE3
+"Luogu",luogu,siLuogu,#5B9BD5
+"Lutris",lutris,siLutris,#FF9900
+"LVGL",lvgl,siLvgl,#343839
+"Lydia",lydia,siLydia,#0180FF
+"Lyft",lyft,siLyft,#FF00BF
+"M5Stack",m5stack,siM5stack,#0077C8
+"MAAS",maas,siMaas,#E95420
+"macOS",macos,siMacos,#000000
+"MacPaw",macpaw,siMacpaw,#000000
+"MacPorts",macports,siMacports,#1E79E9
+"Macy's",macys,siMacys,#E21A2C
+"Magasins U",magasinsu,siMagasinsu,#E71B34
+"Magic",magic,siMagic,#6851FF
+"Magisk",magisk,siMagisk,#00AF9C
+"Mahindra",mahindra,siMahindra,#DD052B
+"mail.com",maildotcom,siMaildotcom,#004788
+"Mail.Ru",maildotru,siMaildotru,#005FF9
+"mailbox",mailbox,siMailbox,#ABE659
+"MailChimp",mailchimp,siMailchimp,#FFE01B
+"Mailgun",mailgun,siMailgun,#F06B66
+"Mailtrap",mailtrap,siMailtrap,#22D172
+"MainWP",mainwp,siMainwp,#7FB100
+"Major League Hacking",majorleaguehacking,siMajorleaguehacking,#265A8F
+"Make",make,siMake,#6D00CC
+"MakerBot",makerbot,siMakerbot,#FF1E0D
+"Malt",malt,siMalt,#FC5757
+"Malwarebytes",malwarebytes,siMalwarebytes,#0D3ECC
+"Mamba UI",mambaui,siMambaui,#6D28D9
+"MAMP",mamp,siMamp,#02749C
+"MAN",man,siMan,#E40045
+"ManageIQ",manageiq,siManageiq,#EF2929
+"Mangacollec",mangacollec,siMangacollec,#DA1F05
+"MangaUpdates",mangaupdates,siMangaupdates,#FF8C15
+"Manjaro",manjaro,siManjaro,#35BFA4
+"Mantine",mantine,siMantine,#339AF0
+"Mapbox",mapbox,siMapbox,#000000
+"Mapillary",mapillary,siMapillary,#00AF66
+"MapLibre",maplibre,siMaplibre,#396CB2
+"MapTiler",maptiler,siMaptiler,#323357
+"MariaDB",mariadb,siMariadb,#003545
+"MariaDB Foundation",mariadbfoundation,siMariadbfoundation,#1F305F
+"Markdown",markdown,siMarkdown,#000000
+"Marko",marko,siMarko,#2596BE
+"Marriott",marriott,siMarriott,#A70023
+"MarvelApp",marvelapp,siMarvelapp,#1FB6FF
+"Maserati",maserati,siMaserati,#0C2340
+"MasterCard",mastercard,siMastercard,#EB001B
+"mastercomfig",mastercomfig,siMastercomfig,#009688
+"Mastodon",mastodon,siMastodon,#6364FF
+"Material Design",materialdesign,siMaterialdesign,#6750A4
+"Material Design Icons",materialdesignicons,siMaterialdesignicons,#2196F3
+"Material for MkDocs",materialformkdocs,siMaterialformkdocs,#526CFE
+"Matillion",matillion,siMatillion,#19E57F
+"Matomo",matomo,siMatomo,#3152A0
+"Matrix",matrix,siMatrix,#000000
+"Matter.js",matterdotjs,siMatterdotjs,#4B5562
+"Mattermost",mattermost,siMattermost,#0058CC
+"Matternet",matternet,siMatternet,#261C29
+"Mautic",mautic,siMautic,#4E5E9E
+"Max",max,siMax,#525252
+"Max-Planck-Gesellschaft",maxplanckgesellschaft,siMaxplanckgesellschaft,#006C66
+"Maytag",maytag,siMaytag,#002E5F
+"Mazda",mazda,siMazda,#101010
+"Maze",maze,siMaze,#000000
+"McAfee",mcafee,siMcafee,#C01818
+"McDonald's",mcdonalds,siMcdonalds,#FBC817
+"McLaren",mclaren,siMclaren,#FF0000
+"MDBList",mdblist,siMdblist,#4284CA
+"mdBook",mdbook,siMdbook,#000000
+"MDN Web Docs",mdnwebdocs,siMdnwebdocs,#000000
+"MDX",mdx,siMdx,#1B1F24
+"Mealie",mealie,siMealie,#E58325
+"MediaFire",mediafire,siMediafire,#1299F3
+"MediaMarkt",mediamarkt,siMediamarkt,#DF0000
+"MediaPipe",mediapipe,siMediapipe,#0097A7
+"MediaTek",mediatek,siMediatek,#EC9430
+"MediBang Paint",medibangpaint,siMedibangpaint,#00DBDE
+"Medium",medium,siMedium,#000000
+"Medusa",medusa,siMedusa,#000000
+"Meetup",meetup,siMeetup,#ED1C40
+"MEGA",mega,siMega,#D9272E
+"Meilisearch",meilisearch,siMeilisearch,#FF5CAA
+"Meituan",meituan,siMeituan,#FFD100
+"Meizu",meizu,siMeizu,#FF4132
+"Mendeley",mendeley,siMendeley,#9D1620
+"MentorCruise",mentorcruise,siMentorcruise,#172E59
+"Mercado Pago",mercadopago,siMercadopago,#00B1EA
+"Merck",merck,siMerck,#007A73
+"Mercurial",mercurial,siMercurial,#999999
+"Mermaid",mermaid,siMermaid,#FF3670
+"Messenger",messenger,siMessenger,#0866FF
+"Meta",meta,siMeta,#0467DF
+"Meta AI",metaai,siMetaai,#9844FF
+"Metabase",metabase,siMetabase,#509EE3
+"Metacritic",metacritic,siMetacritic,#000000
+"MetaFilter",metafilter,siMetafilter,#065A8F
+"MetaGer",metager,siMetager,#F47216
+"Metasploit",metasploit,siMetasploit,#2596CD
+"Meteor",meteor,siMeteor,#DE4F4F
+"Metro",metro,siMetro,#EF4242
+"Metro de la Ciudad de México",metrodelaciudaddemexico,siMetrodelaciudaddemexico,#F77E1C
+"Metro de Madrid",metrodemadrid,siMetrodemadrid,#255E9C
+"Métro de Paris",metrodeparis,siMetrodeparis,#003E95
+"MeWe",mewe,siMewe,#17377F
+"Mezmo",mezmo,siMezmo,#E9FF92
+"MG",mg,siMg,#FF0000
+"Micro Editor",microeditor,siMicroeditor,#2E3192
+"micro:bit",microbit,siMicrobit,#00ED00
+"Micro.blog",microdotblog,siMicrodotblog,#FF8800
+"MicroPython",micropython,siMicropython,#2B2728
+"Microstation",microstation,siMicrostation,#62BB47
+"MicroStrategy",microstrategy,siMicrostrategy,#D9232E
+"MIDI",midi,siMidi,#000000
+"Migadu",migadu,siMigadu,#0043CE
+"Mihon",mihon,siMihon,#0058A0
+"miHoYo",mihoyo,siMihoyo,#4EA4DD
+"MikroTik",mikrotik,siMikrotik,#293239
+"Milanote",milanote,siMilanote,#31303A
+"Milvus",milvus,siMilvus,#00A1EA
+"Minds",minds,siMinds,#FED12F
+"MinGW-w64",mingww64,siMingww64,#000000
+"Mini",mini,siMini,#000000
+"MiniMax",minimax,siMinimax,#E73562
+"MinIO",minio,siMinio,#C72E49
+"Mintlify",mintlify,siMintlify,#18E299
+"Minutemailer",minutemailer,siMinutemailer,#30B980
+"Miraheze",miraheze,siMiraheze,#FFFC00
+"Miro",miro,siMiro,#050038
+"Misskey",misskey,siMisskey,#A1CA03
+"Mistral AI",mistralai,siMistralai,#FA520F
+"Mitsubishi",mitsubishi,siMitsubishi,#E60012
+"Mix",mix,siMix,#FF8126
+"Mixcloud",mixcloud,siMixcloud,#5000FF
+"Mixpanel",mixpanel,siMixpanel,#7856FF
+"MLB",mlb,siMlb,#041E42
+"MLflow",mlflow,siMlflow,#0194E2
+"MobX",mobx,siMobx,#FF9955
+"MobX-State-Tree",mobxstatetree,siMobxstatetree,#FF7102
+"Mocha",mocha,siMocha,#8D6748
+"Mock Service Worker",mockserviceworker,siMockserviceworker,#FF6A33
+"Modal",modal,siModal,#7FEE64
+"Model Context Protocol",modelcontextprotocol,siModelcontextprotocol,#000000
+"ModelScope",modelscope,siModelscope,#624AFF
+"Modin",modin,siModin,#001729
+"Modrinth",modrinth,siModrinth,#00AF5C
+"MODX",modx,siModx,#102C53
+"Mojeek",mojeek,siMojeek,#7AB93C
+"Moleculer",moleculer,siMoleculer,#3CAFCE
+"Momenteo",momenteo,siMomenteo,#5A6AB1
+"Monero",monero,siMonero,#FF6600
+"MoneyGram",moneygram,siMoneygram,#DA291C
+"MongoDB",mongodb,siMongodb,#47A248
+"Mongoose",mongoose,siMongoose,#880000
+"Mongoose",mongoosedotws,siMongoosedotws,#F04D35
+"Monica",monica,siMonica,#2C2B29
+"monkey tie",monkeytie,siMonkeytie,#1A52C2
+"Monkeytype",monkeytype,siMonkeytype,#E2B714
+"MonoGame",monogame,siMonogame,#E73C00
+"Monoprix",monoprix,siMonoprix,#FB1911
+"Monster",monster,siMonster,#6D4C9F
+"Monzo",monzo,siMonzo,#14233C
+"Moo",moo,siMoo,#00945E
+"Moodle",moodle,siMoodle,#F98012
+"Moonrepo",moonrepo,siMoonrepo,#6F53F3
+"Moonshot AI",moonshotai,siMoonshotai,#000000
+"Moq",moq,siMoq,#F4BE00
+"Moqups",moqups,siMoqups,#006BE5
+"Morrisons",morrisons,siMorrisons,#007531
+"Moscow Metro",moscowmetro,siMoscowmetro,#D9232E
+"Motorola",motorola,siMotorola,#E1140A
+"Movistar",movistar,siMovistar,#019DF4
+"Mozilla",mozilla,siMozilla,#161616
+"mpv",mpv,siMpv,#691F69
+"MQTT",mqtt,siMqtt,#660066
+"MSI",msi,siMsi,#FF0000
+"MSI Business",msibusiness,siMsibusiness,#9A8555
+"MTA",mta,siMta,#0039A6
+"MTR",mtr,siMtr,#AC2E45
+"MUBI",mubi,siMubi,#000000
+"MUI",mui,siMui,#007FFF
+"Müller",muller,siMuller,#F46519
+"Mullvad",mullvad,siMullvad,#294D73
+"Multisim",multisim,siMultisim,#57B685
+"Mumble",mumble,siMumble,#000000
+"MUO",muo,siMuo,#C60D0D
+"Mural",mural,siMural,#FF4B4B
+"MusicBrainz",musicbrainz,siMusicbrainz,#BA478F
+"MX Linux",mxlinux,siMxlinux,#000000
+"MyAnimeList",myanimelist,siMyanimelist,#2E51A2
+"MyGet",myget,siMyget,#0C79CE
+"MYOB",myob,siMyob,#7B14EF
+"MyShows",myshows,siMyshows,#CC0000
+"Myspace",myspace,siMyspace,#030303
+"MySQL",mysql,siMysql,#4479A1
+"N26",n26,siN26,#48AC98
+"n8n",n8n,siN8n,#EA4B71
+"Namebase",namebase,siNamebase,#0068FF
+"Namecheap",namecheap,siNamecheap,#DE3723
+"NameMC",namemc,siNamemc,#12161A
+"NameSilo",namesilo,siNamesilo,#031B4E
+"Namu Wiki",namuwiki,siNamuwiki,#008275
+"Nano",nano,siNano,#209CE9
+"Nano Stores",nanostores,siNanostores,#000000
+"Napster",napster,siNapster,#2259FF
+"NASA",nasa,siNasa,#E03C31
+"National Grid",nationalgrid,siNationalgrid,#00148C
+"National Rail",nationalrail,siNationalrail,#003366
+"NativeScript",nativescript,siNativescript,#65ADF1
+"NATS.io",natsdotio,siNatsdotio,#27AAE1
+"Naver",naver,siNaver,#03C75A
+"NBA",nba,siNba,#253B73
+"NBB",nbb,siNbb,#FF7100
+"NBC",nbc,siNbc,#222222
+"NDI",ndi,siNdi,#000000
+"NDR",ndr,siNdr,#0C1754
+"NEAR",near,siNear,#000000
+"Nebula",nebula,siNebula,#2CADFE
+"NEC",nec,siNec,#1414A0
+"Nederlandse Spoorwegen",nederlandsespoorwegen,siNederlandsespoorwegen,#003082
+"Neo4j",neo4j,siNeo4j,#4581C3
+"Neon",neon,siNeon,#34D59A
+"Neovim",neovim,siNeovim,#57A143
+"Neptune",neptune,siNeptune,#5B69C2
+"NestJS",nestjs,siNestjs,#E0234E
+"NetApp",netapp,siNetapp,#0067C5
+"NetBSD",netbsd,siNetbsd,#FF6600
+"netcup",netcup,siNetcup,#056473
+"Netdata",netdata,siNetdata,#00AB44
+"NetEase Cloud Music",neteasecloudmusic,siNeteasecloudmusic,#D43C33
+"Netflix",netflix,siNetflix,#E50914
+"NETGEAR",netgear,siNetgear,#2C262D
+"Netim",netim,siNetim,#FE8427
+"Netlify",netlify,siNetlify,#00C7B7
+"Nette",nette,siNette,#3484D2
+"Netto",netto,siNetto,#FFE500
+"Neutralinojs",neutralinojs,siNeutralinojs,#F89901
+"New Balance",newbalance,siNewbalance,#CF0A2C
+"New Japan Pro-Wrestling",newjapanprowrestling,siNewjapanprowrestling,#FF160B
+"New Relic",newrelic,siNewrelic,#1CE783
+"New York Times",newyorktimes,siNewyorktimes,#000000
+"Newegg",newegg,siNewegg,#E05E00
+"Newgrounds",newgrounds,siNewgrounds,#FDA238
+"NewPipe",newpipe,siNewpipe,#CD201F
+"NEXON",nexon,siNexon,#000000
+"Next.js",nextdotjs,siNextdotjs,#000000
+"nextbike",nextbike,siNextbike,#0046D7
+"NextBillion.ai",nextbilliondotai,siNextbilliondotai,#8D5A9E
+"Nextcloud",nextcloud,siNextcloud,#0082C9
+"NextDNS",nextdns,siNextdns,#007BFF
+"Nextdoor",nextdoor,siNextdoor,#8ED500
+"Nextflow",nextflow,siNextflow,#0DC09D
+"Nextra",nextra,siNextra,#000000
+"nf-core",nfcore,siNfcore,#24B064
+"NFC",nfc,siNfc,#002E5F
+"NGINX",nginx,siNginx,#009639
+"Nginx Proxy Manager",nginxproxymanager,siNginxproxymanager,#F15833
+"ngrok",ngrok,siNgrok,#1F1E37
+"NgRx",ngrx,siNgrx,#BA2BD2
+"NHL",nhl,siNhl,#000000
+"Nhost",nhost,siNhost,#0052CD
+"NiceHash",nicehash,siNicehash,#FBC342
+"niconico",niconico,siNiconico,#231815
+"Nike",nike,siNike,#111111
+"Nikon",nikon,siNikon,#FFE100
+"Nim",nim,siNim,#FFE953
+"niri",niri,siNiri,#D55C44
+"Nissan",nissan,siNissan,#C3002F
+"NixOS",nixos,siNixos,#5277C3
+"Nobara Linux",nobaralinux,siNobaralinux,#000000
+"Node-RED",nodered,siNodered,#8F0000
+"Node.js",nodedotjs,siNodedotjs,#5FA04E
+"NodeBB",nodebb,siNodebb,#1E5EBC
+"NodeGui",nodegui,siNodegui,#000000
+"Nodemon",nodemon,siNodemon,#76D04B
+"Nokia",nokia,siNokia,#005AFF
+"Nomad",nomad,siNomad,#00CA8E
+"Norco",norco,siNorco,#00FF00
+"Nordic Semiconductor",nordicsemiconductor,siNordicsemiconductor,#00A9CE
+"NordVPN",nordvpn,siNordvpn,#4687FF
+"Normalize.css",normalizedotcss,siNormalizedotcss,#E3695F
+"Norton",norton,siNorton,#FFE01A
+"Norwegian",norwegian,siNorwegian,#D81939
+"Note",note,siNote,#000000
+"NotebookLM",notebooklm,siNotebooklm,#000000
+"Notepad++",notepadplusplus,siNotepadplusplus,#90E59A
+"Notion",notion,siNotion,#000000
+"Notist",notist,siNotist,#333333
+"Noun Project",nounproject,siNounproject,#000000
+"Novu",novu,siNovu,#000000
+"NOW",now,siNow,#001211
+"npm",npm,siNpm,#CB3837
+"Nrwl",nrwl,siNrwl,#96D7E8
+"NSIS",nsis,siNsis,#01B0F0
+"ntfy",ntfy,siNtfy,#317F6F
+"Nubank",nubank,siNubank,#820AD1
+"Nucleo",nucleo,siNucleo,#252B2D
+"NuGet",nuget,siNuget,#004880
+"Nuke",nuke,siNuke,#000000
+"Numba",numba,siNumba,#00A3E0
+"NumPy",numpy,siNumpy,#013243
+"Nunjucks",nunjucks,siNunjucks,#1C4913
+"Nushell",nushell,siNushell,#4E9A06
+"Nutanix",nutanix,siNutanix,#024DA1
+"Nuxt",nuxt,siNuxt,#00DC82
+"NVIDIA",nvidia,siNvidia,#76B900
+"nvm",nvm,siNvm,#F4DD4B
+"Nx",nx,siNx,#143055
+"NXP",nxp,siNxp,#000000
+"NZXT",nzxt,siNzxt,#000000
+"O'Reilly",oreilly,siOreilly,#D3002D
+"O2",o2,siO2,#0050FF
+"ÖBB",obb,siObb,#E40327
+"OBS Studio",obsstudio,siObsstudio,#302E31
+"Observable",observable,siObservable,#353E58
+"Obsidian",obsidian,siObsidian,#7C3AED
+"Obtainium",obtainium,siObtainium,#D2BCFD
+"OCaml",ocaml,siOcaml,#EC6813
+"OCLC",oclc,siOclc,#007DBA
+"oclif",oclif,siOclif,#000000
+"Octane Render",octanerender,siOctanerender,#000000
+"Octave",octave,siOctave,#0790C0
+"October CMS",octobercms,siOctobercms,#DB6A26
+"OctoPrint",octoprint,siOctoprint,#13C100
+"Octopus Deploy",octopusdeploy,siOctopusdeploy,#2F93E0
+"Oculus",oculus,siOculus,#1C1E20
+"Odido",odido,siOdido,#2C72FF
+"Odin",odin,siOdin,#3882D2
+"Odnoklassniki",odnoklassniki,siOdnoklassniki,#EE8208
+"Odoo",odoo,siOdoo,#714B67
+"Odysee",odysee,siOdysee,#EF1970
+"Oh Dear",ohdear,siOhdear,#FF3900
+"okcupid",okcupid,siOkcupid,#0500BE
+"Okta",okta,siOkta,#007DC1
+"OKX",okx,siOkx,#000000
+"Ollama",ollama,siOllama,#000000
+"Omada Cloud",omadacloud,siOmadacloud,#10C1D0
+"Omarchy",omarchy,siOmarchy,#9ECE6A
+"OnePlus",oneplus,siOneplus,#F5010C
+"OneStream",onestream,siOnestream,#000000
+"OnlyFans",onlyfans,siOnlyfans,#00AFF0
+"ONLYOFFICE",onlyoffice,siOnlyoffice,#444444
+"ONNX",onnx,siOnnx,#005CED
+"OnStar",onstar,siOnstar,#003D7D
+"OOMOL",oomol,siOomol,#0D1117
+"Opel",opel,siOpel,#F7FF14
+"Open Access",openaccess,siOpenaccess,#F68212
+"Open Badges",openbadges,siOpenbadges,#073B5A
+"Open Bug Bounty",openbugbounty,siOpenbugbounty,#F67909
+"Open Collective",opencollective,siOpencollective,#7FADF2
+"Open Containers Initiative",opencontainersinitiative,siOpencontainersinitiative,#262261
+"Open Source Hardware",opensourcehardware,siOpensourcehardware,#0099B0
+"Open Source Initiative",opensourceinitiative,siOpensourceinitiative,#3DA639
+"Open3D",open3d,siOpen3d,#000000
+"OpenAI Gym",openaigym,siOpenaigym,#0081A5
+"OpenAPI Initiative",openapiinitiative,siOpenapiinitiative,#6BA539
+"OpenBao",openbao,siOpenbao,#336D5C
+"OpenBSD",openbsd,siOpenbsd,#F2CA30
+"OpenCage",opencage,siOpencage,#1A8865
+"OpenCode",opencode,siOpencode,#000000
+"OpenCritic",opencritic,siOpencritic,#FC3E04
+"OpenCV",opencv,siOpencv,#5C3EE8
+"OpenFaaS",openfaas,siOpenfaas,#3B5EE9
+"OpenGL",opengl,siOpengl,#5586A4
+"openHAB",openhab,siOpenhab,#E64A19
+"OpenID",openid,siOpenid,#F78C40
+"OpenJDK",openjdk,siOpenjdk,#000000
+"OpenJS Foundation",openjsfoundation,siOpenjsfoundation,#0075C9
+"Openlayers",openlayers,siOpenlayers,#1F6B75
+"openmediavault",openmediavault,siOpenmediavault,#5DACDF
+"OpenMined",openmined,siOpenmined,#ED986C
+"OpenNebula",opennebula,siOpennebula,#0097C2
+"OpenProject",openproject,siOpenproject,#0770B8
+"OpenRouter",openrouter,siOpenrouter,#94A3B8
+"OpenSCAD",openscad,siOpenscad,#F9D72C
+"OpenSea",opensea,siOpensea,#2081E2
+"OpenSearch",opensearch,siOpensearch,#005EB8
+"OpenSSL",openssl,siOpenssl,#721412
+"OpenStack",openstack,siOpenstack,#ED1944
+"OpenStreetMap",openstreetmap,siOpenstreetmap,#7EBC6F
+"openSUSE",opensuse,siOpensuse,#73BA25
+"OpenTelemetry",opentelemetry,siOpentelemetry,#000000
+"OpenText",opentext,siOpentext,#000000
+"OpenTofu",opentofu,siOpentofu,#FFDA18
+"OpenTUI",opentui,siOpentui,#000000
+"Openverse",openverse,siOpenverse,#FFE033
+"OpenVPN",openvpn,siOpenvpn,#EA7E20
+"OpenWrt",openwrt,siOpenwrt,#00B5E2
+"OpenZeppelin",openzeppelin,siOpenzeppelin,#4E5EE4
+"OpenZFS",openzfs,siOpenzfs,#2A667F
+"Opera",opera,siOpera,#FF1B2D
+"Opera GX",operagx,siOperagx,#EE2950
+"OPNsense",opnsense,siOpnsense,#E44A20
+"OPPO",oppo,siOppo,#2D683D
+"Opsgenie",opsgenie,siOpsgenie,#172B4D
+"OpsLevel",opslevel,siOpslevel,#0A53E0
+"Optimism",optimism,siOptimism,#FF0420
+"Optuna",optuna,siOptuna,#002C76
+"Orange",orange,siOrange,#FF7900
+"Orchard Core",orchardcore,siOrchardcore,#41B670
+"ORCID",orcid,siOrcid,#A6CE39
+"Org",org,siOrg,#77AA99
+"Organic Maps",organicmaps,siOrganicmaps,#006C35
+"Origin",origin,siOrigin,#F56C2D
+"Ory",ory,siOry,#4F46E5
+"Osano",osano,siOsano,#7764FA
+"OSF",osf,siOsf,#2CB9F1
+"OSGeo",osgeo,siOsgeo,#4CB05B
+"Oshkosh",oshkosh,siOshkosh,#E6830F
+"OsmAnd",osmand,siOsmand,#FF8800
+"OSMC",osmc,siOsmc,#17394A
+"osu!",osu,siOsu,#FF66AA
+"Otto",otto,siOtto,#D4021D
+"Outline",outline,siOutline,#000000
+"Overcast",overcast,siOvercast,#FC7E0F
+"Overleaf",overleaf,siOverleaf,#47A141
+"OVH",ovh,siOvh,#123F6D
+"OWASP",owasp,siOwasp,#000000
+"OWASP Dependency-Check",dependencycheck,siDependencycheck,#F78D0A
+"ownCloud",owncloud,siOwncloud,#041E42
+"Oxc",oxc,siOxc,#00F7F1
+"Oxygen",oxygen,siOxygen,#3A209E
+"OYO",oyo,siOyo,#EE2E24
+"p5.js",p5dotjs,siP5dotjs,#ED225D
+"Packagist",packagist,siPackagist,#F28D1A
+"Packer",packer,siPacker,#02A8EF
+"Packt",packt,siPackt,#F37143
+"Paddle",paddle,siPaddle,#FDDD35
+"PaddlePaddle",paddlepaddle,siPaddlepaddle,#0062B0
+"Paddy Power",paddypower,siPaddypower,#004833
+"Padlet",padlet,siPadlet,#FF4081
+"Pagekit",pagekit,siPagekit,#212121
+"PagerDuty",pagerduty,siPagerduty,#06AC38
+"PageSpeed Insights",pagespeedinsights,siPagespeedinsights,#4285F4
+"PagSeguro",pagseguro,siPagseguro,#FFC801
+"Palantir",palantir,siPalantir,#101113
+"Palo Alto Networks",paloaltonetworks,siPaloaltonetworks,#F04E23
+"Palo Alto Software",paloaltosoftware,siPaloaltosoftware,#83DA77
+"Panasonic",panasonic,siPanasonic,#0049AB
+"pandas",pandas,siPandas,#150458
+"Pandoc",pandoc,siPandoc,#4093DA
+"Pandora",pandora,siPandora,#224099
+"Pangolin",pangolin,siPangolin,#F36118
+"Pantheon",pantheon,siPantheon,#FFDC28
+"Paperless-ngx",paperlessngx,siPaperlessngx,#17541F
+"Papers With Code",paperswithcode,siPaperswithcode,#21CBCE
+"Paperspace",paperspace,siPaperspace,#000000
+"Paradox Interactive",paradoxinteractive,siParadoxinteractive,#101010
+"Paramount+",paramountplus,siParamountplus,#0064FF
+"Parity Substrate",paritysubstrate,siParitysubstrate,#282828
+"Parrot Security",parrotsecurity,siParrotsecurity,#15E0ED
+"Parse.ly",parsedotly,siParsedotly,#5BA745
+"Passbolt",passbolt,siPassbolt,#D40101
+"Passport",passport,siPassport,#34E27A
+"Pastebin",pastebin,siPastebin,#02456C
+"Patreon",patreon,siPatreon,#000000
+"PAYBACK",payback,siPayback,#003EB0
+"Paychex",paychex,siPaychex,#004B8D
+"Payhip",payhip,siPayhip,#5C6AC4
+"Payload CMS",payloadcms,siPayloadcms,#000000
+"Payoneer",payoneer,siPayoneer,#FF4800
+"PayPal",paypal,siPaypal,#002991
+"Paysafe",paysafe,siPaysafe,#5A28FF
+"Paytm",paytm,siPaytm,#20336B
+"PCGamingWiki",pcgamingwiki,siPcgamingwiki,#556DB3
+"PDM",pdm,siPdm,#AC75D7
+"PDQ",pdq,siPdq,#231F20
+"Peak Design",peakdesign,siPeakdesign,#1C1B1C
+"Pearson",pearson,siPearson,#000000
+"Peerlist",peerlist,siPeerlist,#00AA45
+"PeerTube",peertube,siPeertube,#F1680D
+"Pegasus Airlines",pegasusairlines,siPegasusairlines,#FDC43E
+"Pelican",pelican,siPelican,#14A0C4
+"Peloton",peloton,siPeloton,#181A1D
+"Penny",penny,siPenny,#CD1414
+"Penpot",penpot,siPenpot,#000000
+"Percy",percy,siPercy,#9E66BF
+"Perforce",perforce,siPerforce,#4C00FF
+"Perl",perl,siPerl,#0073A1
+"Perplexity",perplexity,siPerplexity,#1FB8CD
+"Persistent",persistent,siPersistent,#FD5F07
+"Personio",personio,siPersonio,#000000
+"Pets at Home",petsathome,siPetsathome,#00AA28
+"Peugeot",peugeot,siPeugeot,#000000
+"Pexels",pexels,siPexels,#05A081
+"pfSense",pfsense,siPfsense,#212121
+"Phabricator",phabricator,siPhabricator,#4A5F88
+"Philips Hue",philipshue,siPhilipshue,#0065D3
+"Phoenix Framework",phoenixframework,siPhoenixframework,#FD4F00
+"PhonePe",phonepe,siPhonepe,#5F259F
+"Phosphor Icons",phosphoricons,siPhosphoricons,#3C402B
+"Photobucket",photobucket,siPhotobucket,#1C47CB
+"Photocrowd",photocrowd,siPhotocrowd,#3DAD4B
+"Photon",photon,siPhoton,#004480
+"Photopea",photopea,siPhotopea,#18A497
+"PHP",php,siPhp,#777BB4
+"phpBB",phpbb,siPhpbb,#009BDF
+"phpMyAdmin",phpmyadmin,siPhpmyadmin,#6C78AF
+"PhpStorm",phpstorm,siPhpstorm,#000000
+"Pi",pi,siPi,#000000
+"Pi Network",pinetwork,siPinetwork,#F4AF47
+"Pi-hole",pihole,siPihole,#96060C
+"Piaggio Group",piaggiogroup,siPiaggiogroup,#000000
+"Piapro",piapro,siPiapro,#E4007B
+"Picard Surgelés",picardsurgeles,siPicardsurgeles,#2D4999
+"Picarto.TV",picartodottv,siPicartodottv,#1DA456
+"Picnic",picnic,siPicnic,#E1171E
+"PicPay",picpay,siPicpay,#21C25E
+"Picrew",picrew,siPicrew,#FFBD16
+"Picsart",picsart,siPicsart,#C209C1
+"Picxy",picxy,siPicxy,#2E3192
+"Pimcore",pimcore,siPimcore,#6428B4
+"Pinboard",pinboard,siPinboard,#0000FF
+"Pine Script",pinescript,siPinescript,#00B453
+"Pingdom",pingdom,siPingdom,#FFF000
+"Pinia",pinia,siPinia,#FFD859
+"pino",pino,siPino,#687634
+"Pinterest",pinterest,siPinterest,#BD081C
+"Pioneer DJ",pioneerdj,siPioneerdj,#1A1928
+"Pipecat",pipecat,siPipecat,#000000
+"Piped",piped,siPiped,#F84330
+"pipx",pipx,siPipx,#2CFFAA
+"Pivotal Tracker",pivotaltracker,siPivotaltracker,#517A9E
+"Piwigo",piwigo,siPiwigo,#FF7700
+"Pix",pix,siPix,#77B6A8
+"Pixabay",pixabay,siPixabay,#191B26
+"Pixelfed",pixelfed,siPixelfed,#6366F1
+"pixiv",pixiv,siPixiv,#0096FA
+"Pixlr",pixlr,siPixlr,#3EBBDF
+"pkgsrc",pkgsrc,siPkgsrc,#FF6600
+"Plane",plane,siPlane,#121212
+"Planet",planet,siPlanet,#009DB1
+"PlanetScale",planetscale,siPlanetscale,#000000
+"PlanGrid",plangrid,siPlangrid,#0085DE
+"Platform.sh",platformdotsh,siPlatformdotsh,#1A182A
+"PlatformIO",platformio,siPlatformio,#F5822A
+"Platzi",platzi,siPlatzi,#98CA3F
+"Plausible Analytics",plausibleanalytics,siPlausibleanalytics,#5850EC
+"PlayCanvas",playcanvas,siPlaycanvas,#E05F2C
+"Player FM",playerfm,siPlayerfm,#C8122A
+"Player.me",playerdotme,siPlayerdotme,#C0379A
+"PlayStation",playstation,siPlaystation,#0070D1
+"PlayStation 2",playstation2,siPlaystation2,#003791
+"PlayStation 3",playstation3,siPlaystation3,#003791
+"PlayStation 4",playstation4,siPlaystation4,#003791
+"PlayStation 5",playstation5,siPlaystation5,#003791
+"PlayStation Portable",playstationportable,siPlaystationportable,#003791
+"PlayStation Vita",playstationvita,siPlaystationvita,#003791
+"Pleroma",pleroma,siPleroma,#FBA457
+"Plesk",plesk,siPlesk,#52BBE6
+"Plex",plex,siPlex,#EBAF00
+"Plotly",plotly,siPlotly,#7A76FF
+"Plume",plume,siPlume,#7C5CDF
+"Pluralsight",pluralsight,siPluralsight,#F15B2A
+"Plurk",plurk,siPlurk,#FF574D
+"PM2",pm2,siPm2,#2B037A
+"pnpm",pnpm,siPnpm,#F69220
+"Pocket Casts",pocketcasts,siPocketcasts,#F43E37
+"PocketBase",pocketbase,siPocketbase,#B8DBE4
+"Podcast Addict",podcastaddict,siPodcastaddict,#F4842D
+"Podcast Index",podcastindex,siPodcastindex,#F90000
+"Podman",podman,siPodman,#892CA0
+"Poe",poe,siPoe,#5D5CDE
+"Poetry",poetry,siPoetry,#60A5FA
+"Polars",polars,siPolars,#0075FF
+"Polestar",polestar,siPolestar,#000000
+"Polkadot",polkadot,siPolkadot,#E6007A
+"Poly",poly,siPoly,#EB3C00
+"Polygon",polygon,siPolygon,#7B3FE4
+"Polymer Project",polymerproject,siPolymerproject,#FF4470
+"Polywork",polywork,siPolywork,#543DE0
+"Pomerium",pomerium,siPomerium,#6F43E7
+"Pond5",pond5,siPond5,#000000
+"Pop!_OS",popos,siPopos,#48B9C7
+"Porkbun",porkbun,siPorkbun,#EF7878
+"Porsche",porsche,siPorsche,#B12B28
+"PortableApps.com",portableappsdotcom,siPortableappsdotcom,#818F95
+"Portainer",portainer,siPortainer,#13BEF9
+"PortSwigger",portswigger,siPortswigger,#FF6633
+"Posit",posit,siPosit,#447099
+"PostCSS",postcss,siPostcss,#DD3A0A
+"PostgreSQL",postgresql,siPostgresql,#4169E1
+"PostHog",posthog,siPosthog,#000000
+"Postiz",postiz,siPostiz,#612BD3
+"Postman",postman,siPostman,#FF6C37
+"Postmates",postmates,siPostmates,#FFDF18
+"POWERS",powers,siPowers,#E74536
+"pr.co",prdotco,siPrdotco,#0080FF
+"pre-commit",precommit,siPrecommit,#FAB040
+"Preact",preact,siPreact,#673AB8
+"Prefect",prefect,siPrefect,#070E10
+"prek",prek,siPrek,#F54327
+"PreMiD",premid,siPremid,#7289DA
+"Premier League",premierleague,siPremierleague,#360D3A
+"PrepBytes",prepbytes,siPrepbytes,#5A87C6
+"PrestaShop",prestashop,siPrestashop,#DF0067
+"Presto",presto,siPresto,#5890FF
+"Prettier",prettier,siPrettier,#F7B93E
+"Pretzel",pretzel,siPretzel,#1BB3A4
+"Prevention",prevention,siPrevention,#44C1C5
+"Prezi",prezi,siPrezi,#3181FF
+"PrimeFaces",primefaces,siPrimefaces,#263238
+"PrimeNG",primeng,siPrimeng,#DD0031
+"PrimeReact",primereact,siPrimereact,#03C4E8
+"PrimeVue",primevue,siPrimevue,#41B883
+"Printables",printables,siPrintables,#FA6831
+"Prisma",prisma,siPrisma,#2D3748
+"Prismic",prismic,siPrismic,#5163BA
+"Private Division",privatedivision,siPrivatedivision,#000000
+"Private Internet Access",privateinternetaccess,siPrivateinternetaccess,#1E811F
+"Pro Tools",protools,siProtools,#7ACB10
+"Probot",probot,siProbot,#00B0D8
+"Processing Foundation",processingfoundation,siProcessingfoundation,#006699
+"ProcessOn",processon,siProcesson,#067BEF
+"ProcessWire",processwire,siProcesswire,#2480E6
+"Product Hunt",producthunt,siProducthunt,#DA552F
+"Progate",progate,siProgate,#380953
+"Progress",progress,siProgress,#5CE500
+"Prometheus",prometheus,siPrometheus,#E6522C
+"Pronouns.page",pronounsdotpage,siPronounsdotpage,#C71585
+"ProseMirror",prosemirror,siProsemirror,#000000
+"ProSieben",prosieben,siProsieben,#E6000F
+"Proteus",proteus,siProteus,#1C79B3
+"Proto.io",protodotio,siProtodotio,#34A7C1
+"protocols.io",protocolsdotio,siProtocolsdotio,#4D9FE7
+"Proton",proton,siProton,#6D4AFF
+"Proton Calendar",protoncalendar,siProtoncalendar,#50B0E9
+"Proton Drive",protondrive,siProtondrive,#EB508D
+"Proton Mail",protonmail,siProtonmail,#6D4AFF
+"Proton VPN",protonvpn,siProtonvpn,#66DEB1
+"ProtonDB",protondb,siProtondb,#F50057
+"Protractor",protractor,siProtractor,#ED163A
+"Proxmox",proxmox,siProxmox,#E57000
+"Pterodactyl",pterodactyl,siPterodactyl,#10539F
+"PUBG",pubg,siPubg,#F4B942
+"Publons",publons,siPublons,#336699
+"PubMed",pubmed,siPubmed,#326599
+"Pug",pug,siPug,#A86454
+"Pulumi",pulumi,siPulumi,#8A3391
+"Puma",puma,siPuma,#242B2F
+"Puppet",puppet,siPuppet,#FFAE1A
+"Puppeteer",puppeteer,siPuppeteer,#40B5A4
+"PureScript",purescript,siPurescript,#14161A
+"PurgeCSS",purgecss,siPurgecss,#14161A
+"Purism",purism,siPurism,#2D2D2D
+"Pushbullet",pushbullet,siPushbullet,#4AB367
+"Pusher",pusher,siPusher,#300D4F
+"PWA",pwa,siPwa,#5A0FC8
+"PyCharm",pycharm,siPycharm,#000000
+"PyCQA",pycqa,siPycqa,#201B44
+"Pydantic",pydantic,siPydantic,#E92063
+"PyG",pyg,siPyg,#3C2179
+"PyPI",pypi,siPypi,#3775A9
+"PyPy",pypy,siPypy,#193440
+"PyScaffold",pyscaffold,siPyscaffold,#005CA0
+"PySyft",pysyft,siPysyft,#F1BF7A
+"Pytest",pytest,siPytest,#0A9EDC
+"Python",python,siPython,#3776AB
+"PythonAnywhere",pythonanywhere,siPythonanywhere,#1D9FD7
+"PyTorch",pytorch,siPytorch,#EE4C2C
+"PyUp",pyup,siPyup,#9F55FF
+"Qantas",qantas,siQantas,#E40000
+"Qase",qase,siQase,#4F46DC
+"Qatar Airways",qatarairways,siQatarairways,#5C0D34
+"qbittorrent",qbittorrent,siQbittorrent,#2F67BA
+"Qdrant",qdrant,siQdrant,#DC244C
+"QEMU",qemu,siQemu,#FF6600
+"QGIS",qgis,siQgis,#589632
+"Qi",qi,siQi,#000000
+"Qiita",qiita,siQiita,#55C500
+"Qiskit",qiskit,siQiskit,#6929C4
+"QIWI",qiwi,siQiwi,#FF8C00
+"Qlik",qlik,siQlik,#009848
+"Qlty",qlty,siQlty,#66FAEC
+"QMK",qmk,siQmk,#333333
+"QNAP",qnap,siQnap,#0C2E82
+"Qodo",qodo,siQodo,#7968FA
+"QQ",qq,siQq,#1EBAFC
+"Qt",qt,siQt,#41CD52
+"Quad9",quad9,siQuad9,#DC205E
+"Qualcomm",qualcomm,siQualcomm,#3253DC
+"Qualtrics",qualtrics,siQualtrics,#00B4EF
+"Qualys",qualys,siQualys,#ED2E26
+"Quantcast",quantcast,siQuantcast,#000000
+"QuantConnect",quantconnect,siQuantconnect,#F98309
+"Quarkus",quarkus,siQuarkus,#4695EB
+"Quarto",quarto,siQuarto,#39729E
+"Quasar",quasar,siQuasar,#050A14
+"Qubes OS",qubesos,siQubesos,#3874D8
+"Quest",quest,siQuest,#FB4F14
+"QuickBooks",quickbooks,siQuickbooks,#2CA01C
+"QuickLook",quicklook,siQuicklook,#0078D3
+"QuickTime",quicktime,siQuicktime,#1C69F0
+"quicktype",quicktype,siQuicktype,#159588
+"Quizlet",quizlet,siQuizlet,#4255FF
+"Quora",quora,siQuora,#B92B27
+"Qwant",qwant,siQwant,#282B2F
+"QWen",qwen,siQwen,#6950EF
+"Qwik",qwik,siQwik,#AC7EF4
+"Qwiklabs",qwiklabs,siQwiklabs,#F5CD0E
+"Qzone",qzone,siQzone,#FECE00
+"R",r,siR,#276DC3
+"R3",r3,siR3,#EC1D24
+"RabbitMQ",rabbitmq,siRabbitmq,#FF6600
+"Racket",racket,siRacket,#9F1D20
+"RAD Studio",radstudio,siRadstudio,#E62431
+"Radar",radar,siRadar,#007AFF
+"radarr",radarr,siRadarr,#FFCB3D
+"Radiant Earth",radiantearth,siRadiantearth,#469695
+"Radio France",radiofrance,siRadiofrance,#2B00E7
+"Radix UI",radixui,siRadixui,#161618
+"Railway",railway,siRailway,#0B0D0E
+"Rainmeter",rainmeter,siRainmeter,#19519B
+"RainYun",rainyun,siRainyun,#DAD9D9
+"Rakuten",rakuten,siRakuten,#BF0000
+"Rakuten Kobo",rakutenkobo,siRakutenkobo,#BF0000
+"Ram",ram,siRam,#000000
+"Rancher",rancher,siRancher,#0075A8
+"Rapid",rapid,siRapid,#0055DA
+"Rarible",rarible,siRarible,#FEDA03
+"Rasa",rasa,siRasa,#5A17EE
+"Raspberry Pi",raspberrypi,siRaspberrypi,#A22846
+"Ratatui",ratatui,siRatatui,#000000
+"Ravelry",ravelry,siRavelry,#EE6E62
+"Ray",ray,siRay,#028CF0
+"Raycast",raycast,siRaycast,#FF6363
+"Raylib",raylib,siRaylib,#000000
+"Razer",razer,siRazer,#00FF00
+"Razorpay",razorpay,siRazorpay,#0C2451
+"Rclone",rclone,siRclone,#3F79AD
+"React",react,siReact,#61DAFB
+"React Bootstrap",reactbootstrap,siReactbootstrap,#41E0FD
+"React Hook Form",reacthookform,siReacthookform,#EC5990
+"React Query",reactquery,siReactquery,#FF4154
+"React Router",reactrouter,siReactrouter,#CA4245
+"React Table",reacttable,siReacttable,#FF4154
+"Reactive Resume",reactiveresume,siReactiveresume,#000000
+"ReactiveX",reactivex,siReactivex,#B7178C
+"ReactOS",reactos,siReactos,#0088CC
+"Read the Docs",readthedocs,siReadthedocs,#000000
+"Read.cv",readdotcv,siReaddotcv,#111111
+"ReadMe",readme,siReadme,#018EF5
+"Reason",reason,siReason,#DD4B39
+"Reason Studios",reasonstudios,siReasonstudios,#FFFFFF
+"Recoil",recoil,siRecoil,#3578E5
+"Red",red,siRed,#B32629
+"Red Bull",redbull,siRedbull,#DB0A40
+"Red Candle Games",redcandlegames,siRedcandlegames,#D23735
+"Red Hat",redhat,siRedhat,#EE0000
+"Red Hat Open Shift",redhatopenshift,siRedhatopenshift,#EE0000
+"Redash",redash,siRedash,#FF7964
+"Redbubble",redbubble,siRedbubble,#E41321
+"Reddit",reddit,siReddit,#FF4500
+"Redis",redis,siRedis,#FF4438
+"Redmine",redmine,siRedmine,#B32024
+"Redox",redox,siRedox,#000000
+"Redragon",redragon,siRedragon,#E60012
+"Redsys",redsys,siRedsys,#DC7C26
+"Redux",redux,siRedux,#764ABC
+"Redux-Saga",reduxsaga,siReduxsaga,#999999
+"RedwoodJS",redwoodjs,siRedwoodjs,#BF4722
+"Reebok",reebok,siReebok,#E41D1B
+"Refine",refine,siRefine,#14141F
+"Refined GitHub",refinedgithub,siRefinedgithub,#9E95B7
+"Reflex",reflex,siReflex,#6E56CF
+"Reka UI",rekaui,siRekaui,#16A353
+"Relay",relay,siRelay,#F26B00
+"Reliance Industries Limited",relianceindustrieslimited,siRelianceindustrieslimited,#D1AB66
+"remark",remark,siRemark,#000000
+"Remedy Entertainment",remedyentertainment,siRemedyentertainment,#D6001C
+"Remix",remix,siRemix,#000000
+"remove.bg",removedotbg,siRemovedotbg,#54616C
+"Ren'Py",renpy,siRenpy,#FF7F7F
+"Renault",renault,siRenault,#FFCC33
+"Render",render,siRender,#000000
+"Renovate",renovate,siRenovate,#308BE3
+"Renren",renren,siRenren,#217DC6
+"Replicate",replicate,siReplicate,#000000
+"Replit",replit,siReplit,#F26207
+"Republic of Gamers",republicofgamers,siRepublicofgamers,#FF0029
+"ReScript",rescript,siRescript,#E6484F
+"RescueTime",rescuetime,siRescuetime,#161A3B
+"ResearchGate",researchgate,siResearchgate,#00CCBB
+"Resend",resend,siResend,#000000
+"ReSharper",resharper,siResharper,#000000
+"Resurrection Remix OS",resurrectionremixos,siResurrectionremixos,#000000
+"Retool",retool,siRetool,#3D3D3D
+"Retro Achievements",retroachievements,siRetroachievements,#1065DF
+"RetroArch",retroarch,siRetroarch,#000000
+"RetroPie",retropie,siRetropie,#CC0000
+"ReVanced",revanced,siRevanced,#9ED5FF
+"reveal.js",revealdotjs,siRevealdotjs,#F2E142
+"RevenueCat",revenuecat,siRevenuecat,#F2545B
+"ReverbNation",reverbnation,siReverbnation,#E43526
+"Revolt.chat",revoltdotchat,siRevoltdotchat,#FF4655
+"Revolut",revolut,siRevolut,#191C1F
+"REWE",rewe,siRewe,#CC071E
+"Rezgo",rezgo,siRezgo,#F76C00
+"Rhinoceros",rhinoceros,siRhinoceros,#801010
+"Rich",rich,siRich,#FAE742
+"Rider",rider,siRider,#000000
+"Rimac Automobili",rimacautomobili,siRimacautomobili,#0A222E
+"Rime",rime,siRime,#000000
+"Ring",ring,siRing,#1C9AD6
+"Riot Games",riotgames,siRiotgames,#EB0029
+"Ripple",ripple,siRipple,#0085C0
+"RISC-V",riscv,siRiscv,#283272
+"Riseup",riseup,siRiseup,#FF0000
+"Ritz Carlton",ritzcarlton,siRitzcarlton,#000000
+"Rive",rive,siRive,#1D1D1D
+"roadmap.sh",roadmapdotsh,siRoadmapdotsh,#000000
+"Roam Research",roamresearch,siRoamresearch,#343A40
+"Robinhood",robinhood,siRobinhood,#CCFF00
+"Roblox",roblox,siRoblox,#000000
+"Roblox Studio",robloxstudio,siRobloxstudio,#00A2FF
+"Roboflow",roboflow,siRoboflow,#6706CE
+"Robot Framework",robotframework,siRobotframework,#000000
+"Rocket",rocket,siRocket,#D33847
+"Rocket.Chat",rocketdotchat,siRocketdotchat,#F5455C
+"RocksDB",rocksdb,siRocksdb,#2A2A2A
+"Rockstar Games",rockstargames,siRockstargames,#FCAF17
+"Rockwell Automation",rockwellautomation,siRockwellautomation,#CD163F
+"Rocky Linux",rockylinux,siRockylinux,#10B981
+"Roku",roku,siRoku,#662D91
+"Roll20",roll20,siRoll20,#E10085
+"Rollbar",rollbar,siRollbar,#3569F3
+"Rolldown",rolldown,siRolldown,#FF4100
+"Rolls-Royce",rollsroyce,siRollsroyce,#281432
+"rollup.js",rollupdotjs,siRollupdotjs,#EC4A3F
+"Rook",rook,siRook,#2AC6EA
+"Roon",roon,siRoon,#2039F3
+"ROOT",root,siRoot,#1ED3E4
+"Root Me",rootme,siRootme,#000000
+"Roots",roots,siRoots,#525DDC
+"Roots Bedrock",rootsbedrock,siRootsbedrock,#525DDC
+"Roots Sage",rootssage,siRootssage,#525DDC
+"ROS",ros,siRos,#22314E
+"Rossmann",rossmann,siRossmann,#C3002D
+"Rotary International",rotaryinternational,siRotaryinternational,#F7A81B
+"Rotten Tomatoes",rottentomatoes,siRottentomatoes,#FA320A
+"Roundcube",roundcube,siRoundcube,#37BEFF
+"RSocket",rsocket,siRsocket,#EF0092
+"RSS",rss,siRss,#FFA500
+"RStudio IDE",rstudioide,siRstudioide,#75AADB
+"RTÉ",rte,siRte,#00A7B3
+"RTL",rtl,siRtl,#FA002E
+"RTLZWEI",rtlzwei,siRtlzwei,#00BCF6
+"RTM",rtm,siRtm,#36474F
+"RuboCop",rubocop,siRubocop,#000000
+"Ruby",ruby,siRuby,#CC342D
+"Ruby on Rails",rubyonrails,siRubyonrails,#D30001
+"Ruby Sinatra",rubysinatra,siRubysinatra,#000000
+"RubyGems",rubygems,siRubygems,#E9573F
+"RubyMine",rubymine,siRubymine,#000000
+"Ruff",ruff,siRuff,#D7FF64
+"Rumahweb",rumahweb,siRumahweb,#2EB4E3
+"Rumble",rumble,siRumble,#85C742
+"Rundeck",rundeck,siRundeck,#F73F39
+"Runkeeper",runkeeper,siRunkeeper,#001E62
+"RunKit",runkit,siRunkit,#491757
+"Runrun.it",runrundotit,siRunrundotit,#DB3729
+"Rust",rust,siRust,#000000
+"RustDesk",rustdesk,siRustdesk,#024EFF
+"RustFS",rustfs,siRustfs,#0196D0
+"RxDB",rxdb,siRxdb,#8D1F89
+"Ryanair",ryanair,siRyanair,#073590
+"Rye",rye,siRye,#000000
+"S7 Airlines",s7airlines,siS7airlines,#C4D600
+"Sabanci",sabanci,siSabanci,#004B93
+"Safari",safari,siSafari,#006CFF
+"Sage",sage,siSage,#00D639
+"SageMath",sagemath,siSagemath,#3333FF
+"Sahibinden",sahibinden,siSahibinden,#FFE800
+"Sailfish OS",sailfishos,siSailfishos,#053766
+"Sails.js",sailsdotjs,siSailsdotjs,#14ACC2
+"Salla",salla,siSalla,#BAF3E6
+"Salt Project",saltproject,siSaltproject,#57BCAD
+"Sam's Club",samsclub,siSamsclub,#0067A0
+"Samsung",samsung,siSamsung,#1428A0
+"Samsung Pay",samsungpay,siSamsungpay,#1428A0
+"San Francisco Municipal Railway",sanfranciscomunicipalrailway,siSanfranciscomunicipalrailway,#BA0C2F
+"Sanic",sanic,siSanic,#FF0D68
+"Sanity",sanity,siSanity,#0D0E12
+"São Paulo Metro",saopaulometro,siSaopaulometro,#004382
+"SAP",sap,siSap,#0FAAFF
+"Sartorius",sartorius,siSartorius,#FFED00
+"Sass",sass,siSass,#CC6699
+"Sat.1",sat1,siSat1,#047DA3
+"Satellite",satellite,siSatellite,#000000
+"Saturn",saturn,siSaturn,#EB680B
+"Sauce Labs",saucelabs,siSaucelabs,#3DDC91
+"Saudia",saudia,siSaudia,#026938
+"Scala",scala,siScala,#DC322F
+"Scalar",scalar,siScalar,#1A1A1A
+"Scaleway",scaleway,siScaleway,#4F0599
+"Scan",scan,siScan,#004C97
+"Scania",scania,siScania,#041E42
+"Schneider Electric",schneiderelectric,siSchneiderelectric,#3DCD58
+"scikit-learn",scikitlearn,siScikitlearn,#F7931E
+"Scilab",scilab,siScilab,#CD1925
+"SciPy",scipy,siScipy,#8CAAE6
+"Scopus",scopus,siScopus,#E9711C
+"SCP Foundation",scpfoundation,siScpfoundation,#FFFFFF
+"Scrapbox",scrapbox,siScrapbox,#06B632
+"Scrapy",scrapy,siScrapy,#60A839
+"Scratch",scratch,siScratch,#855CD6
+"Screencastify",screencastify,siScreencastify,#FF8282
+"Scrimba",scrimba,siScrimba,#2B283A
+"ScrollReveal",scrollreveal,siScrollreveal,#FFCB36
+"Scrum Alliance",scrumalliance,siScrumalliance,#009FDA
+"Scrutinizer CI",scrutinizerci,siScrutinizerci,#8A9296
+"ScyllaDB",scylladb,siScylladb,#6CD5E7
+"Seafile",seafile,siSeafile,#FF9800
+"Seagate",seagate,siSeagate,#6EBE49
+"SearXNG",searxng,siSearxng,#3050FF
+"SEAT",seat,siSeat,#33302E
+"SeatGeek",seatgeek,siSeatgeek,#FF5B49
+"SecurityScorecard",securityscorecard,siSecurityscorecard,#7033FD
+"Sefaria",sefaria,siSefaria,#212E50
+"Sega",sega,siSega,#0089CF
+"Selenium",selenium,siSelenium,#43B02A
+"Sellfy",sellfy,siSellfy,#21B352
+"Semantic Scholar",semanticscholar,siSemanticscholar,#1857B6
+"Semantic UI",semanticui,siSemanticui,#00B5AD
+"Semantic UI React",semanticuireact,siSemanticuireact,#35BDB2
+"Semantic Web",semanticweb,siSemanticweb,#005A9C
+"semantic-release",semanticrelease,siSemanticrelease,#494949
+"Semaphore CI",semaphoreci,siSemaphoreci,#19A974
+"Semrush",semrush,siSemrush,#FF642D
+"SemVer",semver,siSemver,#3F4551
+"Sencha",sencha,siSencha,#86BC40
+"Sennheiser",sennheiser,siSennheiser,#000000
+"Sensu",sensu,siSensu,#89C967
+"Sentry",sentry,siSentry,#362D59
+"SEPA",sepa,siSepa,#2350A9
+"Sequelize",sequelize,siSequelize,#52B0E7
+"ServBay",servbay,siServbay,#00103C
+"Server Fault",serverfault,siServerfault,#E7282D
+"Serverless",serverless,siServerless,#FD5750
+"Session",session,siSession,#000000
+"Sessionize",sessionize,siSessionize,#1AB394
+"Setapp",setapp,siSetapp,#E6C3A5
+"Setuptools",setuptools,siSetuptools,#336790
+"SFML",sfml,siSfml,#8CC445
+"shadcn/ui",shadcnui,siShadcnui,#000000
+"Shadow",shadow,siShadow,#0A0C0D
+"Shanghai Metro",shanghaimetro,siShanghaimetro,#EC1C24
+"ShareX",sharex,siSharex,#2885F1
+"sharp",sharp,siSharp,#99CC00
+"Shazam",shazam,siShazam,#0088FF
+"Shell",shell,siShell,#FFD500
+"Shelly",shelly,siShelly,#4495D1
+"Shenzhen Metro",shenzhenmetro,siShenzhenmetro,#009943
+"Shields.io",shieldsdotio,siShieldsdotio,#000000
+"Shikimori",shikimori,siShikimori,#343434
+"Shopee",shopee,siShopee,#EE4D2D
+"Shopify",shopify,siShopify,#7AB55C
+"Shopware",shopware,siShopware,#189EFF
+"Shortcut",shortcut,siShortcut,#494BCB
+"Showpad",showpad,siShowpad,#2D2E83
+"Showtime",showtime,siShowtime,#B10000
+"Showwcase",showwcase,siShowwcase,#0A0D14
+"Sidekiq",sidekiq,siSidekiq,#B1003E
+"SideQuest",sidequest,siSidequest,#101227
+"Siemens",siemens,siSiemens,#009999
+"SiFive",sifive,siSifive,#252323
+"Signal",signal,siSignal,#3B45FD
+"Silver Airways",silverairways,siSilverairways,#D0006F
+"Similarweb",similarweb,siSimilarweb,#092540
+"Simkl",simkl,siSimkl,#000000
+"Simple Analytics",simpleanalytics,siSimpleanalytics,#FF4F64
+"Simple Icons",simpleicons,siSimpleicons,#111111
+"Simple Icons CDN",simpleiconscdn,siSimpleiconscdn,#111111
+"SimpleLocalize",simplelocalize,siSimplelocalize,#222B33
+"SimpleLogin",simplelogin,siSimplelogin,#EA319F
+"Simplenote",simplenote,siSimplenote,#3361CC
+"SimpleX",simplex,siSimplex,#000000
+"Sina Weibo",sinaweibo,siSinaweibo,#E6162D
+"Singapore Airlines",singaporeairlines,siSingaporeairlines,#F99F1C
+"SingleStore",singlestore,siSinglestore,#AA00FF
+"Sitecore",sitecore,siSitecore,#EB1F1F
+"SitePoint",sitepoint,siSitepoint,#258AAF
+"SiYuan",siyuan,siSiyuan,#D23F31
+"Skaffold",skaffold,siSkaffold,#2AA2D6
+"Skeleton",skeleton,siSkeleton,#000000
+"Sketch",sketch,siSketch,#F7B500
+"Sketchfab",sketchfab,siSketchfab,#1CAAD9
+"SketchUp",sketchup,siSketchup,#005F9E
+"Skillshare",skillshare,siSkillshare,#00FF84
+"ŠKODA",skoda,siSkoda,#0E3A2F
+"Sky",sky,siSky,#0072C9
+"Skypack",skypack,siSkypack,#3167FF
+"Slackware",slackware,siSlackware,#000000
+"Slashdot",slashdot,siSlashdot,#026664
+"SlickPic",slickpic,siSlickpic,#FF880F
+"Slides",slides,siSlides,#E4637C
+"SlideShare",slideshare,siSlideshare,#008ED2
+"Slint",slint,siSlint,#2379F4
+"smart",smart,siSmart,#D7E600
+"SmartThings",smartthings,siSmartthings,#15BFFF
+"Smashing Magazine",smashingmagazine,siSmashingmagazine,#E85C33
+"Smoothcomp",smoothcomp,siSmoothcomp,#000000
+"SMRT",smrt,siSmrt,#EE2E24
+"SmugMug",smugmug,siSmugmug,#6DB944
+"Snapchat",snapchat,siSnapchat,#FFFC00
+"Snapcraft",snapcraft,siSnapcraft,#E95420
+"Snapdragon",snapdragon,siSnapdragon,#C33139
+"SNCF",sncf,siSncf,#CA0939
+"Snort",snort,siSnort,#F6A7AA
+"Snowflake",snowflake,siSnowflake,#29B5E8
+"Snowpack",snowpack,siSnowpack,#2E5E82
+"Snyk",snyk,siSnyk,#4C4A73
+"Social Blade",socialblade,siSocialblade,#B3382C
+"Society6",society6,siSociety6,#000000
+"Socket",socket,siSocket,#C93CD7
+"Socket.io",socketdotio,siSocketdotio,#010101
+"Softcatalà",softcatala,siSoftcatala,#BA2626
+"Softpedia",softpedia,siSoftpedia,#002873
+"Sogou",sogou,siSogou,#FB6022
+"Solana",solana,siSolana,#9945FF
+"Solid",solid,siSolid,#2C4F7C
+"Solidity",solidity,siSolidity,#363636
+"Sololearn",sololearn,siSololearn,#149EF2
+"Solus",solus,siSolus,#5294E2
+"solved.ac",solveddotac,siSolveddotac,#17CE3A
+"Sonar",sonar,siSonar,#FD3456
+"SonarQube Cloud",sonarqubecloud,siSonarqubecloud,#126ED3
+"SonarQube for IDE",sonarqubeforide,siSonarqubeforide,#126ED3
+"SonarQube Server",sonarqubeserver,siSonarqubeserver,#126ED3
+"sonarr",sonarr,siSonarr,#2596BE
+"Sonatype",sonatype,siSonatype,#1B1C30
+"Songkick",songkick,siSongkick,#F80046
+"Songoda",songoda,siSongoda,#FC494A
+"SonicWall",sonicwall,siSonicwall,#FF791A
+"Sonos",sonos,siSonos,#000000
+"Sony",sony,siSony,#FFFFFF
+"Soriana",soriana,siSoriana,#D52B1E
+"Soundcharts",soundcharts,siSoundcharts,#0C1528
+"SoundCloud",soundcloud,siSoundcloud,#FF5500
+"Source Engine",sourceengine,siSourceengine,#F79A10
+"SourceForge",sourceforge,siSourceforge,#FF6600
+"SourceHut",sourcehut,siSourcehut,#000000
+"Sourcetree",sourcetree,siSourcetree,#0052CC
+"Southwest Airlines",southwestairlines,siSouthwestairlines,#304CB2
+"Spacemacs",spacemacs,siSpacemacs,#9266CC
+"Spaceship",spaceship,siSpaceship,#394EFF
+"SpaceX",spacex,siSpacex,#000000
+"spaCy",spacy,siSpacy,#09A3D5
+"Spark AR",sparkar,siSparkar,#FF5C83
+"Sparkasse",sparkasse,siSparkasse,#FF0000
+"SparkFun",sparkfun,siSparkfun,#E53525
+"SparkPost",sparkpost,siSparkpost,#FA6423
+"SPDX",spdx,siSpdx,#4398CC
+"Speaker Deck",speakerdeck,siSpeakerdeck,#009287
+"Spectrum",spectrum,siSpectrum,#7B16FF
+"Speedtest",speedtest,siSpeedtest,#141526
+"SpeedyPage",speedypage,siSpeedypage,#1C71F9
+"Sphere Online Judge",spoj,siSpoj,#337AB7
+"Sphinx",sphinx,siSphinx,#000000
+"SpiderMonkey",spidermonkey,siSpidermonkey,#FFD681
+"SpigotMC",spigotmc,siSpigotmc,#ED8106
+"Spine",spine,siSpine,#FF4000
+"Spinnaker",spinnaker,siSpinnaker,#139BB4
+"Splunk",splunk,siSplunk,#000000
+"Spond",spond,siSpond,#EE4353
+"Spotify",spotify,siSpotify,#1ED760
+"Spotlight",spotlight,siSpotlight,#352A71
+"Spreadshirt",spreadshirt,siSpreadshirt,#00B2A5
+"Spreaker",spreaker,siSpreaker,#F5C300
+"Spring",spring,siSpring,#6DB33F
+"Spring",spring_creators,siSpring_creators,#000000
+"Spring Boot",springboot,siSpringboot,#6DB33F
+"Spring Security",springsecurity,siSpringsecurity,#6DB33F
+"Spyder IDE",spyderide,siSpyderide,#8C0000
+"SQLAlchemy",sqlalchemy,siSqlalchemy,#D71F00
+"SQLite",sqlite,siSqlite,#003B57
+"Square",square,siSquare,#3E4348
+"Square Enix",squareenix,siSquareenix,#ED1C24
+"Squarespace",squarespace,siSquarespace,#000000
+"SRG SSR",srgssr,siSrgssr,#AF001E
+"SSRN",ssrn,siSsrn,#154881
+"SST",sst,siSst,#E27152
+"Stack Exchange",stackexchange,siStackexchange,#1E5397
+"Stack Overflow",stackoverflow,siStackoverflow,#F58025
+"Stackbit",stackbit,siStackbit,#207BEA
+"StackBlitz",stackblitz,siStackblitz,#1269D3
+"StackEdit",stackedit,siStackedit,#606060
+"StackHawk",stackhawk,siStackhawk,#00CBC6
+"StackShare",stackshare,siStackshare,#0690FA
+"Stadia",stadia,siStadia,#CD2640
+"Staffbase",staffbase,siStaffbase,#00A4FD
+"Stagetimer",stagetimer,siStagetimer,#00A66C
+"Standard Resume",standardresume,siStandardresume,#2A3FFB
+"StandardJS",standardjs,siStandardjs,#F3DF49
+"Star Trek",startrek,siStartrek,#FFE200
+"Starbucks",starbucks,siStarbucks,#006241
+"Stardock",stardock,siStardock,#004B8D
+"Starling Bank",starlingbank,siStarlingbank,#6935D3
+"Starship",starship,siStarship,#DD0B78
+"start.gg",startdotgg,siStartdotgg,#2E75BA
+"Startpage",startpage,siStartpage,#6563FF
+"STARZ",starz,siStarz,#082125
+"Statamic",statamic,siStatamic,#FF269E
+"Statista",statista,siStatista,#001327
+"Statuspage",statuspage,siStatuspage,#172B4D
+"Statuspal",statuspal,siStatuspal,#4934BF
+"Steam",steam,siSteam,#000000
+"Steam Deck",steamdeck,siSteamdeck,#1A9FFF
+"SteamDB",steamdb,siSteamdb,#000000
+"Steamworks",steamworks,siSteamworks,#1E1E1E
+"Steelseries",steelseries,siSteelseries,#FF5200
+"Steem",steem,siSteem,#171FC9
+"Steemit",steemit,siSteemit,#06D6A9
+"Steinberg",steinberg,siSteinberg,#C90827
+"Stellar",stellar,siStellar,#FDDA24
+"Stencil",stencil,siStencil,#5530FF
+"Stencyl",stencyl,siStencyl,#8E1C04
+"Stimulus",stimulus,siStimulus,#77E8B9
+"STMicroelectronics",stmicroelectronics,siStmicroelectronics,#03234B
+"StockX",stockx,siStockx,#006340
+"StopStalk",stopstalk,siStopstalk,#536DFE
+"Storyblok",storyblok,siStoryblok,#09B3AF
+"Storybook",storybook,siStorybook,#FF4785
+"Strapi",strapi,siStrapi,#4945FF
+"Strava",strava,siStrava,#FC4C02
+"Streamlabs",streamlabs,siStreamlabs,#80F5D2
+"Streamlit",streamlit,siStreamlit,#FF4B4B
+"StreamRunners",streamrunners,siStreamrunners,#6644F8
+"Stremio",stremio,siStremio,#685CEE
+"Stripe",stripe,siStripe,#635BFF
+"strongSwan",strongswan,siStrongswan,#E00033
+"Stryker",stryker,siStryker,#E74C3C
+"StubHub",stubhub,siStubhub,#003168
+"Studio 3T",studio3t,siStudio3t,#17AF66
+"styled-components",styledcomponents,siStyledcomponents,#DB7093
+"stylelint",stylelint,siStylelint,#263238
+"StyleShare",styleshare,siStyleshare,#212121
+"Stylus",stylus,siStylus,#333333
+"Subaru",subaru,siSubaru,#013C74
+"Sublime Text",sublimetext,siSublimetext,#FF9800
+"Substack",substack,siSubstack,#FF6719
+"Subtitle Edit",subtitleedit,siSubtitleedit,#CC2424
+"Subversion",subversion,siSubversion,#809CC9
+"suckless",suckless,siSuckless,#1177AA
+"Sui",sui,siSui,#4DA2FF
+"Suitest",suitest,siSuitest,#F06060
+"Sumo Logic",sumologic,siSumologic,#000099
+"Suno",suno,siSuno,#000000
+"Sunrise",sunrise,siSunrise,#DA291C
+"Supabase",supabase,siSupabase,#3FCF8E
+"Super User",superuser,siSuperuser,#38A1CE
+"Supercell",supercell,siSupercell,#FFFFFF
+"Supercrease",supercrease,siSupercrease,#000000
+"Supermicro",supermicro,siSupermicro,#151F6D
+"Surfshark",surfshark,siSurfshark,#1EBFBF
+"SurrealDB",surrealdb,siSurrealdb,#FF00A0
+"SurveyMonkey",surveymonkey,siSurveymonkey,#00BF6F
+"SUSE",suse,siSuse,#0C322C
+"Suzuki",suzuki,siSuzuki,#E30613
+"Svelte",svelte,siSvelte,#FF3E00
+"SVG",svg,siSvg,#FFB13B
+"SVG.js",svgdotjs,siSvgdotjs,#FF0066
+"SVGO",svgo,siSvgo,#3E7FC1
+"SvgTrace",svgtrace,siSvgtrace,#F453C4
+"Swagger",swagger,siSwagger,#85EA2D
+"Swarm",swarm,siSwarm,#FFA633
+"Sway",sway,siSway,#68751C
+"SWC",swc,siSwc,#F8C457
+"Swift",swift,siSwift,#F05138
+"Swiggy",swiggy,siSwiggy,#FC8019
+"Swiper",swiper,siSwiper,#6332F6
+"Swisscows",swisscows,siSwisscows,#000000
+"SWR",swr,siSwr,#000000
+"Symantec",symantec,siSymantec,#FDB511
+"Symbolab",symbolab,siSymbolab,#DB3F59
+"Symfony",symfony,siSymfony,#000000
+"Symphony",symphony,siSymphony,#0098FF
+"SymPy",sympy,siSympy,#3B5526
+"Syncthing",syncthing,siSyncthing,#0891D1
+"Synology",synology,siSynology,#B5B5B6
+"System76",system76,siSystem76,#585048
+"Tabelog",tabelog,siTabelog,#F2CC38
+"TableCheck",tablecheck,siTablecheck,#7935D2
+"Taco Bell",tacobell,siTacobell,#38096C
+"tado°",tado,siTado,#FFA900
+"Taichi Graphics",taichigraphics,siTaichigraphics,#000000
+"Taichi Lang",taichilang,siTaichilang,#000000
+"Tails",tails,siTails,#56347C
+"Tailscale",tailscale,siTailscale,#242424
+"Tailwind CSS",tailwindcss,siTailwindcss,#06B6D4
+"Taipy",taipy,siTaipy,#FF371A
+"Take-Two Interactive Software",taketwointeractivesoftware,siTaketwointeractivesoftware,#000000
+"Talend",talend,siTalend,#FF6D70
+"Talenthouse",talenthouse,siTalenthouse,#000000
+"Talos",talos,siTalos,#FF7300
+"Tamiya",tamiya,siTamiya,#000000
+"Tampermonkey",tampermonkey,siTampermonkey,#00485B
+"Tangled",tangled,siTangled,#000000
+"TanStack",tanstack,siTanstack,#ECE8D1
+"Taobao",taobao,siTaobao,#E94F20
+"Tapas",tapas,siTapas,#FFCE00
+"Target",target,siTarget,#CC0000
+"TAROM",tarom,siTarom,#003366
+"Tarteaucitron",tarteaucitron,siTarteaucitron,#F7D917
+"Task",task,siTask,#29BEB0
+"Tasmota",tasmota,siTasmota,#1FA3EC
+"Tata",tata,siTata,#486AAE
+"Tata Consultancy Services",tcs,siTcs,#EE3984
+"Tauri",tauri,siTauri,#24C8D8
+"TaxBuzz",taxbuzz,siTaxbuzz,#ED8B0B
+"Teal",teal,siTeal,#005149
+"TeamCity",teamcity,siTeamcity,#000000
+"TeamSpeak",teamspeak,siTeamspeak,#4B69B6
+"TeamViewer",teamviewer,siTeamviewer,#050A52
+"TechCrunch",techcrunch,siTechcrunch,#029F00
+"TED",ted,siTed,#E62B1E
+"TeePublic",teepublic,siTeepublic,#4E64DF
+"Teespring",teespring,siTeespring,#ED2761
+"Tekton",tekton,siTekton,#FD495C
+"TELE 5",tele5,siTele5,#FF00FF
+"Télé-Québec",telequebec,siTelequebec,#1343FB
+"Telefónica",telefonica,siTelefonica,#0066FF
+"Telegram",telegram,siTelegram,#26A5E4
+"Telegraph",telegraph,siTelegraph,#FAFAFA
+"Telenor",telenor,siTelenor,#00C8FF
+"Temporal",temporal,siTemporal,#000000
+"Tencent Hy",tencenthy,siTencenthy,#0052D9
+"TensorFlow",tensorflow,siTensorflow,#FF6F00
+"Teradata",teradata,siTeradata,#F37440
+"teratail",teratail,siTeratail,#F4C51C
+"Termius",termius,siTermius,#000000
+"Terraform",terraform,siTerraform,#844FBA
+"Tesco",tesco,siTesco,#00539F
+"Tesla",tesla,siTesla,#CC0000
+"TestCafe",testcafe,siTestcafe,#36B6E5
+"Testin",testin,siTestin,#007DD7
+"Testing Library",testinglibrary,siTestinglibrary,#E33332
+"TestRail",testrail,siTestrail,#65C179
+"Tether",tether,siTether,#50AF95
+"Textpattern",textpattern,siTextpattern,#FFDA44
+"Textual",textual,siTextual,#FFFFFF
+"TGA",tga,siTga,#0014FF
+"Thangs",thangs,siThangs,#FFBC00
+"Thanos",thanos,siThanos,#6D41FF
+"The Algorithms",thealgorithms,siThealgorithms,#00BCB4
+"The Boring Company",theboringcompany,siTheboringcompany,#000000
+"The Conversation",theconversation,siTheconversation,#D8352A
+"THE FINALS",thefinals,siThefinals,#D31F3C
+"The Guardian",theguardian,siTheguardian,#052962
+"The Irish Times",theirishtimes,siTheirishtimes,#000000
+"The Mighty",themighty,siThemighty,#D0072A
+"The Models Resource",themodelsresource,siThemodelsresource,#3A75BD
+"The Movie Database",themoviedatabase,siThemoviedatabase,#01B4E4
+"The North Face",thenorthface,siThenorthface,#000000
+"The Odin Project",theodinproject,siTheodinproject,#A9792B
+"The Planetary Society",theplanetarysociety,siTheplanetarysociety,#000000
+"The Register",theregister,siTheregister,#FF0000
+"The Sounds Resource",thesoundsresource,siThesoundsresource,#39BE6B
+"The Spriters Resource",thespritersresource,siThespritersresource,#BE3939
+"The StoryGraph",thestorygraph,siThestorygraph,#000000
+"The Washington Post",thewashingtonpost,siThewashingtonpost,#231F20
+"The Weather Channel",theweatherchannel,siTheweatherchannel,#003399
+"Thingiverse",thingiverse,siThingiverse,#248BFB
+"Things",things,siThings,#2473E7
+"ThinkPad",thinkpad,siThinkpad,#EE2624
+"thirdweb",thirdweb,siThirdweb,#F213A4
+"Threadless",threadless,siThreadless,#0099FF
+"Threads",threads,siThreads,#000000
+"Three.js",threedotjs,siThreedotjs,#000000
+"Threema",threema,siThreema,#3FE669
+"Thumbtack",thumbtack,siThumbtack,#009FD9
+"Thunderbird",thunderbird,siThunderbird,#0A84FF
+"Thunderstore",thunderstore,siThunderstore,#23FFB0
+"Thurgauer Kantonalbank",thurgauerkantonalbank,siThurgauerkantonalbank,#006D41
+"Thymeleaf",thymeleaf,siThymeleaf,#005F0F
+"Ticket Tailor",tickettailor,siTickettailor,#222432
+"Ticketmaster",ticketmaster,siTicketmaster,#026CDF
+"TickTick",ticktick,siTicktick,#4772FA
+"TIDAL",tidal,siTidal,#000000
+"TiDB",tidb,siTidb,#DC150B
+"TiddlyWiki",tiddlywiki,siTiddlywiki,#111111
+"Tide",tide,siTide,#4050FB
+"Tidyverse",tidyverse,siTidyverse,#1A162D
+"TietoEVRY",tietoevry,siTietoevry,#063752
+"TikTok",tiktok,siTiktok,#000000
+"Tilda Publishing",tildapublishing,siTildapublishing,#FFA282
+"Tile",tile,siTile,#000000
+"Timescale",timescale,siTimescale,#FDB515
+"Tina",tina,siTina,#EC4815
+"Tinder",tinder,siTinder,#FF6B6B
+"Tindie",tindie,siTindie,#17AEB9
+"Tinkercad",tinkercad,siTinkercad,#1477D1
+"tinygrad",tinygrad,siTinygrad,#FFFFFF
+"TinyLetter",tinyletter,siTinyletter,#ED1C24
+"Tistory",tistory,siTistory,#000000
+"tldraw",tldraw,siTldraw,#FAFAFA
+"tmux",tmux,siTmux,#1BB91F
+"Todoist",todoist,siTodoist,#E44332
+"Toggl",toggl,siToggl,#FFDE91
+"Toggl Track",toggltrack,siToggltrack,#E57CD8
+"Tokio",tokio,siTokio,#000000
+"Tokyo Metro",tokyometro,siTokyometro,#149DD3
+"Toll",toll,siToll,#007A68
+"TOML",toml,siToml,#9C4121
+"Tomorrowland",tomorrowland,siTomorrowland,#000000
+"TomTom",tomtom,siTomtom,#DF1B12
+"TON",ton,siTon,#0098EA
+"Top.gg",topdotgg,siTopdotgg,#FF3366
+"Topcoder",topcoder,siTopcoder,#29A7DF
+"Toptal",toptal,siToptal,#3863A0
+"Tor Browser",torbrowser,siTorbrowser,#7D4698
+"Tor Project",torproject,siTorproject,#7D4698
+"Torizon",torizon,siTorizon,#FAAF00
+"Toshiba",toshiba,siToshiba,#FF0000
+"TOTVS",totvs,siTotvs,#363636
+"TourBox",tourbox,siTourbox,#231F20
+"Tower",tower,siTower,#00CAF4
+"Toyota",toyota,siToyota,#EB0A1E
+"TP-Link",tplink,siTplink,#4ACBD6
+"tqdm",tqdm,siTqdm,#FFC107
+"Traccar",traccar,siTraccar,#000000
+"TradingView",tradingview,siTradingview,#131622
+"TRAE",trae,siTrae,#32F08C
+"Traefik Mesh",traefikmesh,siTraefikmesh,#9D0FB0
+"Traefik Proxy",traefikproxy,siTraefikproxy,#24A1C1
+"Trailforks",trailforks,siTrailforks,#FFCD00
+"TrainerRoad",trainerroad,siTrainerroad,#DA291C
+"Trakt",trakt,siTrakt,#9F42C6
+"Transifex",transifex,siTransifex,#0064AB
+"Transmission",transmission,siTransmission,#D70008
+"Transport for Ireland",transportforireland,siTransportforireland,#00B274
+"Transport for London",transportforlondon,siTransportforlondon,#113B92
+"Travis CI",travisci,siTravisci,#3EAAAF
+"Traxsource",traxsource,siTraxsource,#40A0FF
+"Treehouse",treehouse,siTreehouse,#5FCF80
+"Trello",trello,siTrello,#0052CC
+"Trend Micro",trendmicro,siTrendmicro,#D71921
+"Tresorit",tresorit,siTresorit,#00A9E2
+"Treyarch",treyarch,siTreyarch,#000000
+"Trezor",trezor,siTrezor,#141609
+"Tricentis",tricentis,siTricentis,#12438C
+"Trilium",trilium,siTrilium,#000000
+"Triller",triller,siTriller,#FF0089
+"TrillerTV",trillertv,siTrillertv,#E61414
+"Trimble",trimble,siTrimble,#0063A3
+"Trino",trino,siTrino,#DD00A1
+"Trip.com",tripdotcom,siTripdotcom,#287DFA
+"Tripadvisor",tripadvisor,siTripadvisor,#34E0A1
+"trivago",trivago,siTrivago,#E32851
+"Trivy",trivy,siTrivy,#1904DA
+"TRMNL",trmnl,siTrmnl,#F8654B
+"Trove",trove,siTrove,#2D004B
+"tRPC",trpc,siTrpc,#2596BE
+"TrueNAS",truenas,siTruenas,#0095D5
+"TrueUp",trueup,siTrueup,#4E71DA
+"trulia",trulia,siTrulia,#0A0B09
+"Trusted Shops",trustedshops,siTrustedshops,#FFDC0F
+"Trustpilot",trustpilot,siTrustpilot,#00B67A
+"Try It Online",tryitonline,siTryitonline,#303030
+"TryHackMe",tryhackme,siTryhackme,#212C42
+"ts-node",tsnode,siTsnode,#3178C6
+"Tubi",tubi,siTubi,#7408FF
+"TUI",tui,siTui,#D40E14
+"Tumblr",tumblr,siTumblr,#36465D
+"Turbo",turbo,siTurbo,#5CD8E5
+"Turborepo",turborepo,siTurborepo,#FF1E56
+"TurboSquid",turbosquid,siTurbosquid,#FF8135
+"Turkish Airlines",turkishairlines,siTurkishairlines,#C70A0C
+"Turso",turso,siTurso,#4FF8D2
+"Tuta",tuta,siTuta,#850122
+"TUXEDO Computers",tuxedocomputers,siTuxedocomputers,#000000
+"TV Time",tvtime,siTvtime,#FFD400
+"TV4 Play",tv4play,siTv4play,#E0001C
+"Twenty",twenty,siTwenty,#000000
+"Twinkly",twinkly,siTwinkly,#FCC15E
+"Twinmotion",twinmotion,siTwinmotion,#000000
+"Twitch",twitch,siTwitch,#9146FF
+"ty",ty,siTy,#46EBE1
+"Typeform",typeform,siTypeform,#262627
+"TypeORM",typeorm,siTypeorm,#FE0803
+"Typer",typer,siTyper,#000000
+"TypeScript",typescript,siTypescript,#3178C6
+"TYPO3",typo3,siTypo3,#FF8700
+"Typst",typst,siTypst,#239DAD
+"U.S. News",udotsdotnews,siUdotsdotnews,#005EA6
+"Uber",uber,siUber,#000000
+"Uber Eats",ubereats,siUbereats,#06C167
+"Ubiquiti",ubiquiti,siUbiquiti,#0559C9
+"Ubisoft",ubisoft,siUbisoft,#000000
+"uBlock Origin",ublockorigin,siUblockorigin,#800000
+"Ubuntu",ubuntu,siUbuntu,#E95420
+"Ubuntu MATE",ubuntumate,siUbuntumate,#84A454
+"Udacity",udacity,siUdacity,#02B3E4
+"Udemy",udemy,siUdemy,#A435F0
+"UFC",ufc,siUfc,#D20A0A
+"UIkit",uikit,siUikit,#2396F3
+"UiPath",uipath,siUipath,#FA4616
+"UKCA",ukca,siUkca,#000000
+"Ultralytics",ultralytics,siUltralytics,#111F68
+"Ulule",ulule,siUlule,#18A5D6
+"Umami",umami,siUmami,#000000
+"Umbraco",umbraco,siUmbraco,#3544B1
+"Umbrel",umbrel,siUmbrel,#5351FB
+"UML",uml,siUml,#FABD14
+"Unacademy",unacademy,siUnacademy,#08BD80
+"Under Armour",underarmour,siUnderarmour,#1D1D1D
+"Underscore.js",underscoredotjs,siUnderscoredotjs,#0371B5
+"Undertale",undertale,siUndertale,#E71D29
+"Unicode",unicode,siUnicode,#5455FE
+"Unilever",unilever,siUnilever,#1F36C7
+"Uniqlo",uniqlo,siUniqlo,#FF0000
+"Uniqlo",uniqlo_ja,siUniqlo_ja,#FF0000
+"United Airlines",unitedairlines,siUnitedairlines,#002244
+"United Nations",unitednations,siUnitednations,#009EDB
+"Unity",unity,siUnity,#FFFFFF
+"UnJS",unjs,siUnjs,#ECDC5A
+"Unlicense",unlicense,siUnlicense,#808080
+"UnoCSS",unocss,siUnocss,#333333
+"unpkg",unpkg,siUnpkg,#000000
+"Unraid",unraid,siUnraid,#F15A2C
+"Unreal Engine",unrealengine,siUnrealengine,#0E1128
+"Unsplash",unsplash,siUnsplash,#000000
+"Unstop",unstop,siUnstop,#1C4980
+"Untappd",untappd,siUntappd,#FFC000
+"UpCloud",upcloud,siUpcloud,#7B00FF
+"Uphold",uphold,siUphold,#49CC68
+"UpLabs",uplabs,siUplabs,#3930D8
+"Upptime",upptime,siUpptime,#1ABC9C
+"UPS",ups,siUps,#150400
+"Upstash",upstash,siUpstash,#00E9A3
+"Uptime Kuma",uptimekuma,siUptimekuma,#5CDD8B
+"Upwork",upwork,siUpwork,#6FDA44
+"UserVoice",uservoice,siUservoice,#FF6720
+"USPS",usps,siUsps,#333366
+"uTorrent",utorrent,siUtorrent,#76B83F
+"uv",uv,siUv,#DE5FE9
+"V",v,siV,#5D87BF
+"v0",v0,siV0,#000000
+"V2EX",v2ex,siV2ex,#1F1F1F
+"V8",v8,siV8,#4B8BF5
+"Vaadin",vaadin,siVaadin,#00B4F0
+"Vagrant",vagrant,siVagrant,#1868F2
+"Vala",vala,siVala,#7239B3
+"Valorant",valorant,siValorant,#FA4454
+"Valve",valve,siValve,#F74843
+"Vanilla Extract",vanillaextract,siVanillaextract,#F786AD
+"Vapor",vapor,siVapor,#0D0D0D
+"Vault",vault,siVault,#FFEC6E
+"Vaultwarden",vaultwarden,siVaultwarden,#000000
+"Vauxhall",vauxhall,siVauxhall,#EB001E
+"vBulletin",vbulletin,siVbulletin,#184D66
+"Vectary",vectary,siVectary,#6100FF
+"Vector Logo Zone",vectorlogozone,siVectorlogozone,#184D66
+"Vectorworks",vectorworks,siVectorworks,#000000
+"Veeam",veeam,siVeeam,#00B336
+"VEED",veed,siVeed,#B6FF60
+"Veepee",veepee,siVeepee,#EC008C
+"Vega",vega,siVega,#2450B2
+"VEGAS",vegas,siVegas,#1A1A1A
+"Velocity",velocity,siVelocity,#1BBAE0
+"Velog",velog,siVelog,#20C997
+"Vencord",vencord,siVencord,#EB7396
+"Venmo",venmo,siVenmo,#008CFF
+"Vercel",vercel,siVercel,#000000
+"Verdaccio",verdaccio,siVerdaccio,#4B5E40
+"Veritas",veritas,siVeritas,#B1181E
+"Verizon",verizon,siVerizon,#CD040B
+"Vespa",vespa,siVespa,#85B09A
+"Vestel",vestel,siVestel,#DD052B
+"VEXXHOST",vexxhost,siVexxhost,#2A1659
+"vFairs",vfairs,siVfairs,#EF4678
+"Viadeo",viadeo,siViadeo,#F07355
+"Viaplay",viaplay,siViaplay,#FE365F
+"Viber",viber,siViber,#7360F2
+"Viblo",viblo,siViblo,#5387C6
+"VictoriaMetrics",victoriametrics,siVictoriametrics,#621773
+"Victron Energy",victronenergy,siVictronenergy,#0066B2
+"Vikunja",vikunja,siVikunja,#196AFF
+"Vim",vim,siVim,#019733
+"Vimeo",vimeo,siVimeo,#1AB7EA
+"Vimeo Livestream",vimeolivestream,siVimeolivestream,#0A0A20
+"Vinted",vinted,siVinted,#007782
+"Virgin",virgin,siVirgin,#E10A0A
+"Virgin Atlantic",virginatlantic,siVirginatlantic,#DA0530
+"Virgin Media",virginmedia,siVirginmedia,#ED1A37
+"VirtualBox",virtualbox,siVirtualbox,#2F61B4
+"VirusTotal",virustotal,siVirustotal,#394EFF
+"Visa",visa,siVisa,#1A1F71
+"Visual Paradigm",visualparadigm,siVisualparadigm,#CC3333
+"visx",visx,siVisx,#FF1231
+"Vite",vite,siVite,#9135FF
+"VitePress",vitepress,siVitepress,#5C73E7
+"Vitess",vitess,siVitess,#F16728
+"Vitest",vitest,siVitest,#00FF74
+"Viva Wallet",vivawallet,siVivawallet,#1F263A
+"Vivaldi",vivaldi,siVivaldi,#EF3939
+"Vivino",vivino,siVivino,#A61A30
+"Vivint",vivint,siVivint,#212721
+"vivo",vivo,siVivo,#415FFF
+"VK",vk,siVk,#0077FF
+"VLC media player",vlcmediaplayer,siVlcmediaplayer,#FF8800
+"vLLM",vllm,siVllm,#30A2FF
+"VMware",vmware,siVmware,#607078
+"Vodafone",vodafone,siVodafone,#E60000
+"voelkner",voelkner,siVoelkner,#94C125
+"Void Linux",voidlinux,siVoidlinux,#478061
+"VoIP.ms",voipdotms,siVoipdotms,#E1382D
+"Volkswagen",volkswagen,siVolkswagen,#151F5D
+"Volvo",volvo,siVolvo,#003057
+"Vonage",vonage,siVonage,#000000
+"Voron Design",vorondesign,siVorondesign,#ED3023
+"Vowpal Wabbit",vowpalwabbit,siVowpalwabbit,#FF81F9
+"VOX",vox,siVox,#DA074A
+"VRChat",vrchat,siVrchat,#000000
+"VSCO",vsco,siVsco,#000000
+"VSCodium",vscodium,siVscodium,#2F80ED
+"VTEX",vtex,siVtex,#ED125F
+"Vue.js",vuedotjs,siVuedotjs,#4FC08D
+"Vuetify",vuetify,siVuetify,#1867C0
+"VueUse",vueuse,siVueuse,#41B883
+"Vulkan",vulkan,siVulkan,#A41E22
+"Vultr",vultr,siVultr,#007BFC
+"Vyond",vyond,siVyond,#D95E26
+"W3Schools",w3schools,siW3schools,#04AA6D
+"Wacom",wacom,siWacom,#000000
+"Wagmi",wagmi,siWagmi,#000000
+"Wagtail",wagtail,siWagtail,#43B1B0
+"Wails",wails,siWails,#DF0000
+"WakaTime",wakatime,siWakatime,#000000
+"WALKMAN",walkman,siWalkman,#000000
+"Wallabag",wallabag,siWallabag,#3F6184
+"WalletConnect",walletconnect,siWalletconnect,#3B99FC
+"Wantedly",wantedly,siWantedly,#21BDDB
+"Wappalyzer",wappalyzer,siWappalyzer,#4608AD
+"Warp",warp,siWarp,#01A4FF
+"Wasabi",wasabi,siWasabi,#01CD3E
+"wasmCloud",wasmcloud,siWasmcloud,#00BC8E
+"Wasmer",wasmer,siWasmer,#4946DD
+"Watchtower",watchtower,siWatchtower,#416271
+"Wattpad",wattpad,siWattpad,#FF500A
+"Wayland",wayland,siWayland,#FFBC00
+"Waze",waze,siWaze,#33CCFF
+"WazirX",wazirx,siWazirx,#3067F0
+"Wear OS",wearos,siWearos,#4285F4
+"Weasyl",weasyl,siWeasyl,#990000
+"Web Awesome",webawesome,siWebawesome,#F36944
+"WEB.DE",webdotde,siWebdotde,#FFD800
+"Web3.js",web3dotjs,siWeb3dotjs,#F16822
+"WebAssembly",webassembly,siWebassembly,#654FF0
+"WebAuthn",webauthn,siWebauthn,#3423A6
+"webcomponents.org",webcomponentsdotorg,siWebcomponentsdotorg,#29ABE2
+"WebdriverIO",webdriverio,siWebdriverio,#EA5906
+"Webex",webex,siWebex,#000000
+"Webflow",webflow,siWebflow,#146EF5
+"WebGL",webgl,siWebgl,#990000
+"WebGPU",webgpu,siWebgpu,#005A9C
+"Weblate",weblate,siWeblate,#2ECCAA
+"Webmin",webmin,siWebmin,#7DA0D0
+"WebMoney",webmoney,siWebmoney,#036CB5
+"Webpack",webpack,siWebpack,#8DD6F9
+"WebRTC",webrtc,siWebrtc,#333333
+"WebStorm",webstorm,siWebstorm,#000000
+"WEBTOON",webtoon,siWebtoon,#00D564
+"webtrees",webtrees,siWebtrees,#2694E8
+"WeChat",wechat,siWechat,#07C160
+"WeGame",wegame,siWegame,#FAAB00
+"Weights & Biases",weightsandbiases,siWeightsandbiases,#FFBE00
+"Welcome to the Jungle",welcometothejungle,siWelcometothejungle,#FFCD00
+"Wellfound",wellfound,siWellfound,#000000
+"Wells Fargo",wellsfargo,siWellsfargo,#D71E28
+"WEMO",wemo,siWemo,#72D44C
+"WeRead",weread,siWeread,#37A7FF
+"Western Union",westernunion,siWesternunion,#FFDD00
+"WeTransfer",wetransfer,siWetransfer,#409FFF
+"WezTerm",wezterm,siWezterm,#4E49EE
+"wgpu",wgpu,siWgpu,#40E0D0
+"what3words",what3words,siWhat3words,#E11F26
+"WhatsApp",whatsapp,siWhatsapp,#25D366
+"When I Work",wheniwork,siWheniwork,#51A33D
+"wiki.gg",wikidotgg,siWikidotgg,#FF1985
+"Wiki.js",wikidotjs,siWikidotjs,#1976D2
+"Wikibooks",wikibooks,siWikibooks,#006699
+"Wikidata",wikidata,siWikidata,#006699
+"Wikimedia Commons",wikimediacommons,siWikimediacommons,#006699
+"Wikimedia Foundation",wikimediafoundation,siWikimediafoundation,#000000
+"Wikipedia",wikipedia,siWikipedia,#000000
+"Wikiquote",wikiquote,siWikiquote,#006699
+"Wikisource",wikisource,siWikisource,#006699
+"Wikiversity",wikiversity,siWikiversity,#00649A
+"Wikivoyage",wikivoyage,siWikivoyage,#006699
+"Winamp",winamp,siWinamp,#F93821
+"Windsurf",windsurf,siWindsurf,#0B100F
+"Wine",wine,siWine,#800000
+"Wipro",wipro,siWipro,#341C53
+"Wire",wire,siWire,#000000
+"WireGuard",wireguard,siWireguard,#88171A
+"Wireshark",wireshark,siWireshark,#1679A7
+"Wise",wise,siWise,#9FE870
+"Wish",wish,siWish,#32E476
+"Wistia",wistia,siWistia,#58B7FE
+"Wix",wix,siWix,#0C6EFC
+"Wizz Air",wizzair,siWizzair,#C6007E
+"Wolfram",wolfram,siWolfram,#DD1100
+"Wolfram Language",wolframlanguage,siWolframlanguage,#DD1100
+"Wolfram Mathematica",wolframmathematica,siWolframmathematica,#DD1100
+"Wondershare",wondershare,siWondershare,#000000
+"Wondershare Filmora",wondersharefilmora,siWondersharefilmora,#07273D
+"Woo",woo,siWoo,#873EFF
+"WooCommerce",woocommerce,siWoocommerce,#96588A
+"WordPress",wordpress,siWordpress,#21759B
+"Workplace",workplace,siWorkplace,#4526CE
+"World Health Organization",worldhealthorganization,siWorldhealthorganization,#0093D5
+"WP Engine",wpengine,siWpengine,#0ECAD4
+"WP Rocket",wprocket,siWprocket,#F56640
+"WPExplorer",wpexplorer,siWpexplorer,#2563EB
+"Write.as",writedotas,siWritedotas,#5AC4EE
+"WWE",wwe,siWwe,#000000
+"Wwise",wwise,siWwise,#00549F
+"WXT",wxt,siWxt,#67D55E
+"Wykop",wykop,siWykop,#367DA9
+"Wyze",wyze,siWyze,#1DF0BB
+"X",x,siX,#000000
+"X.Org",xdotorg,siXdotorg,#F28834
+"XAMPP",xampp,siXampp,#FB7A24
+"Xcode",xcode,siXcode,#147EFB
+"XDA Developers",xdadevelopers,siXdadevelopers,#EA7100
+"Xendit",xendit,siXendit,#4573FF
+"Xero",xero,siXero,#13B5EA
+"XFCE",xfce,siXfce,#2284F2
+"Xiaohongshu",xiaohongshu,siXiaohongshu,#FF2442
+"Xiaomi",xiaomi,siXiaomi,#FF6900
+"Xing",xing,siXing,#006567
+"XML",xml,siXml,#005FAD
+"XMPP",xmpp,siXmpp,#002B5C
+"XO",xo,siXo,#5ED9C7
+"XRP",xrp,siXrp,#25A768
+"XSplit",xsplit,siXsplit,#0095DE
+"XState",xstate,siXstate,#2C3E50
+"Xubuntu",xubuntu,siXubuntu,#0044AA
+"xyflow",xyflow,siXyflow,#1A192B
+"Y Combinator",ycombinator,siYcombinator,#F0652F
+"Yaak",yaak,siYaak,#814EDF
+"yabai",yabai,siYabai,#00364B
+"Yale",yale,siYale,#FFD900
+"Yamaha Corporation",yamahacorporation,siYamahacorporation,#4B1E78
+"Yamaha Motor Corporation",yamahamotorcorporation,siYamahamotorcorporation,#E60012
+"YAML",yaml,siYaml,#CB171E
+"Yandex Cloud",yandexcloud,siYandexcloud,#5282FF
+"Yarn",yarn,siYarn,#2C8EBB
+"Yelp",yelp,siYelp,#FF1A1A
+"Yeti",yeti,siYeti,#00263C
+"Yew",yew,siYew,#009A5B
+"Yii",yii,siYii,#40B3D8
+"Yoast",yoast,siYoast,#A61E69
+"YOLO",yolo,siYolo,#111F68
+"YouHodler",youhodler,siYouhodler,#546DF9
+"YouTube",youtube,siYoutube,#FF0000
+"YouTube Gaming",youtubegaming,siYoutubegaming,#FF0000
+"YouTube Kids",youtubekids,siYoutubekids,#FF0000
+"YouTube Music",youtubemusic,siYoutubemusic,#FF0000
+"YouTube Shorts",youtubeshorts,siYoutubeshorts,#FF0000
+"YouTube Studio",youtubestudio,siYoutubestudio,#FF0000
+"YouTube TV",youtubetv,siYoutubetv,#FF0000
+"Yr",yr,siYr,#00B9F1
+"Yubico",yubico,siYubico,#84BD00
+"YunoHost",yunohost,siYunohost,#000000
+"Z.ai",zdotai,siZdotai,#2D2D2D
+"Żabka",zabka,siZabka,#006420
+"Zaim",zaim,siZaim,#50A135
+"Zalando",zalando,siZalando,#FF6900
+"Zalo",zalo,siZalo,#0068FF
+"ZAP",zap,siZap,#00549E
+"Zapier",zapier,siZapier,#FF4F00
+"Zara",zara,siZara,#000000
+"Zazzle",zazzle,siZazzle,#212121
+"Zcash",zcash,siZcash,#F3B724
+"ZCOOL",zcool,siZcool,#FFF200
+"ZDF",zdf,siZdf,#FA7D19
+"ZebPay",zebpay,siZebpay,#2072EF
+"Zebra Technologies",zebratechnologies,siZebratechnologies,#000000
+"ZecTrix",zectrix,siZectrix,#000000
+"Zed Industries",zedindustries,siZedindustries,#084CCF
+"Zelle",zelle,siZelle,#6D1ED4
+"Zen Browser",zenbrowser,siZenbrowser,#F76F53
+"Zend",zend,siZend,#0679EA
+"Zendesk",zendesk,siZendesk,#03363D
+"Zenn",zenn,siZenn,#3EA8FF
+"Zenodo",zenodo,siZenodo,#1682D4
+"Zensar",zensar,siZensar,#000000
+"Zerodha",zerodha,siZerodha,#387ED1
+"ZeroTier",zerotier,siZerotier,#FFB441
+"Zettlr",zettlr,siZettlr,#1CB27E
+"Zhihu",zhihu,siZhihu,#0084FF
+"Zig",zig,siZig,#F7A41D
+"Zigbee",zigbee,siZigbee,#EB0443
+"Zigbee2MQTT",zigbee2mqtt,siZigbee2mqtt,#FFC135
+"Ziggo",ziggo,siZiggo,#F48C00
+"Zilch",zilch,siZilch,#00D287
+"Zillow",zillow,siZillow,#006AFF
+"ZincSearch",zincsearch,siZincsearch,#5BA37F
+"Zingat",zingat,siZingat,#009CFB
+"Zod",zod,siZod,#408AFF
+"Zoho",zoho,siZoho,#E42527
+"Zoiper",zoiper,siZoiper,#F47920
+"Zola",zola,siZola,#EAE7D6
+"Zomato",zomato,siZomato,#E23744
+"Zoom",zoom,siZoom,#0B5CFF
+"Zorin",zorin,siZorin,#15A6F0
+"Zotero",zotero,siZotero,#CC2936
+"Zsh",zsh,siZsh,#F15A24
+"Zulip",zulip,siZulip,#6492FE
+"zx",zx,siZx,#F11A7B
+"Zyte",zyte,siZyte,#B02CCE
