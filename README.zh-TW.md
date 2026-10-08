@@ -59,6 +59,13 @@
 - 亮點: 通過 n8n 的視覺界面自動化重複性任務並整合各種服務
 - 技術: n8n · Docker
 
+#### [Tacet-辦公健康管理助手](https://github.com/samhuang95/Tacet-HealthCare)
+`CV` · 2026-03 – 2026-04
+
+Tacet 利用電腦視覺的方式提醒使用者健康，避免長時間未眨眼、久坐問題
+- 亮點: 通過 n8n 的視覺界面自動化重複性任務並整合各種服務
+- 技術: CV
+
 
 ---
 
@@ -73,4 +80,4 @@
 
 </details>
 
-<p align="right"><sub>最後更新：2026-10-08 00:52 UTC（GitHub Actions 自動產生，資料來源見 <code>projects.json</code>）</sub></p>
+<p align="right"><sub>最後更新：2026-10-08 02:56 UTC（GitHub Actions 自動產生，資料來源見 <code>projects.json</code>）</sub></p>
