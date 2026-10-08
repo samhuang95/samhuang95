@@ -76,6 +76,25 @@
       },
       "stack": ["n8n", "Docker"],
       "scaleNote": null
+    },
+    {
+      "id": "Tacet-HealthCare",
+      "tags": ["CV"],
+      "repo": "samhuang95/Tacet-HealthCare",
+      "isPrivate": true,
+      "start": "2026-03",
+      "end": "2026-04",
+      "title": { "en": "Tacet-HealthCare", "zh": "Tacet-辦公健康管理助手" },
+      "summary": {
+        "en": "A workflow automation system built with n8n and Docker",
+        "zh": "Tacet 利用電腦視覺的方式提醒使用者健康，避免長時間未眨眼、久坐問題"
+      },
+      "highlight": {
+        "en": "Tacet uses computer vision to remind users of their health and avoid problems such as prolonged periods without blinking and sedentary lifestyles.",
+        "zh": "通過 n8n 的視覺界面自動化重複性任務並整合各種服務"
+      },
+      "stack": ["CV"],
+      "scaleNote": null
     }
   ]
 }
