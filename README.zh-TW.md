@@ -80,4 +80,4 @@ Tacet 利用電腦視覺的方式提醒使用者健康，避免長時間未眨�
 
 </details>
 
-<p align="right"><sub>最後更新：2026-10-13 02:29 UTC（GitHub Actions 自動產生，資料來源見 <code>projects.json</code>）</sub></p>
+<p align="right"><sub>最後更新：2026-10-14 00:12 UTC（GitHub Actions 自動產生，資料來源見 <code>projects.json</code>）</sub></p>
