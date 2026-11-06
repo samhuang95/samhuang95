@@ -32,14 +32,14 @@
 ### 專案
 
 #### [Vocapeak](https://github.com/samhuang95/Vocabulary_Trainer)
-`Vue.js` `Android` `Supabase` `Node.js` `PostgreSQL` · 2026-07 – 進行中
+`Vue.js` `Android` `Supabase` `Node.js` `PostgreSQL` · 2026-07 – 2026-11
 
 單字練習 App（Web + Android）：Daily 卡片、複習、Goals 目標排程，用來準備多益，網頁連結：https://vocapeak.com
 - 亮點: Goals 頁面可依目標範圍與期限自動換算每日練習量
 - 技術: Vue.js · Android · Supabase · Node.js · PostgreSQL
 
 #### [Sam's ShowCase](https://github.com/samhuang95/MyShowCase)
-`Vue.js` `Tailwind CSS` `Supabase` `Node.js` `PostgreSQL` · 2026-05 – 進行中
+`Vue.js` `Tailwind CSS` `Supabase` `Node.js` `PostgreSQL` · 2026-05 – 2026-09
 
 集合所有作品內容的個人作品集網站，包含專案、文章、履歷、聯絡資訊等, 網頁連結：https://sam-showcase.com
 - 亮點: 集合所有作品內容的個人作品集網站，包含專案、文章、履歷、聯絡資訊等
@@ -80,4 +80,4 @@ Tacet 利用電腦視覺的方式提醒使用者健康，避免長時間未眨�
 
 </details>
 
-<p align="right"><sub>最後更新：2026-11-06 01:26 UTC（GitHub Actions 自動產生，資料來源見 <code>projects.json</code>）</sub></p>
+<p align="right"><sub>最後更新：2026-11-06 01:50 UTC（GitHub Actions 自動產生，資料來源見 <code>projects.json</code>）</sub></p>
